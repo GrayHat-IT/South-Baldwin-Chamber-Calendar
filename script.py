@@ -194,6 +194,9 @@ def generate_ics(events):
     cal = Calendar()
     cal.add("prodid", "-//South Baldwin Chamber Scraper//EN")
     cal.add("version", "2.0")
+    
+    # Custom Public Name added here!
+    cal.add("X-WR-CALNAME", "South Baldwin Chamber")
 
     success_count = 0
     for item in events:
