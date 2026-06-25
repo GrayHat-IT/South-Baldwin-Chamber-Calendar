@@ -1,0 +1,36 @@
+name: Update Chamber Calendar
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs automatically every day at 8:00 AM UTC (approx 3 AM / 4 AM EST)
+  workflow_dispatch: # Gives you a button to manually trigger it whenever you want
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 python-dateutil icalendar
+
+      - name: Run Scraper
+        run: python script.py
+
+      - name: Save new calendar file back to repository
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add calendar_next_6_months.ics
+          # Only commit if the calendar file actually changed
+          git commit -m "Automated calendar update" || echo "No changes to commit"
+          git push
