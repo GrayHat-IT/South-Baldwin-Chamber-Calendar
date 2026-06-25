@@ -238,7 +238,21 @@ def main():
         if evt_data:
             processed_events.append(evt_data)
             
-    print(f"\n✅ Finished processing all {len(event_ids)} events!")
+    # --- FAKE EVENT INJECTION START ---
+    fake_event = {
+        "title": "🚨 FAKE SCRAPER TEST EVENT 🚨",
+        "start": datetime.now() + timedelta(days=5),
+        "end": datetime.now() + timedelta(days=5, hours=1),
+        "location": "123 Test Street, Developer City",
+        "description": "This is a simulated event to test the calendar automation.",
+        "url": "https://businesshub.southbaldwinchamber.com",
+        "uid": "fake-test-event-99999@southbaldwinchamber.com",
+    }
+    processed_events.append(fake_event)
+    print("\n⚠️ INJECTED FAKE TEST EVENT INTO THE CALENDAR FILE!")
+    # --- FAKE EVENT INJECTION END ---
+
+    print(f"✅ Finished processing all {len(event_ids)} real events (plus 1 fake)!")
 
     generate_ics(processed_events)
     print("🚀 Script execution finished completely.")
