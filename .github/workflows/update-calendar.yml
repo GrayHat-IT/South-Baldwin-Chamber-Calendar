@@ -2,8 +2,8 @@ name: Update Chamber Calendar
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs automatically every day at 8:00 AM UTC (approx 3 AM / 4 AM EST)
-  workflow_dispatch: # Gives you a button to manually trigger it whenever you want
+    - cron: '0 8 * * *' # Runs automatically every day at 8:00 AM UTC
+  workflow_dispatch: # Gives you a button to manually trigger it
 
 permissions:
   contents: write
@@ -26,11 +26,10 @@ jobs:
       - name: Run Scraper
         run: python script.py
 
-      - name: Save new calendar file back to repository
+      - name: Save new calendar files back to repository
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add calendar_next_6_months.ics
-          # Only commit if the calendar file actually changed
+          git add *.ics
           git commit -m "Automated calendar update" || echo "No changes to commit"
           git push
