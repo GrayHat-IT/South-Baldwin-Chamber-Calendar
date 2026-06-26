@@ -195,7 +195,7 @@ def generate_ics(events):
     cal.add("prodid", "-//South Baldwin Chamber Scraper//EN")
     cal.add("version", "2.0")
     
-    # Custom Public Name added here!
+    # Custom Public Name
     cal.add("X-WR-CALNAME", "South Baldwin Chamber")
 
     success_count = 0
@@ -237,22 +237,8 @@ def main():
         evt_data = parse_event_details(eid)
         if evt_data:
             processed_events.append(evt_data)
-            
-    # --- FAKE EVENT INJECTION START ---
-    fake_event = {
-        "title": "🚨 FAKE SCRAPER TEST EVENT 🚨",
-        "start": datetime.now() + timedelta(days=5),
-        "end": datetime.now() + timedelta(days=5, hours=1),
-        "location": "123 Test Street, Developer City",
-        "description": "This is a simulated event to test the calendar automation.",
-        "url": "https://businesshub.southbaldwinchamber.com",
-        "uid": "fake-test-event-99999@southbaldwinchamber.com",
-    }
-    processed_events.append(fake_event)
-    print("\n⚠️ INJECTED FAKE TEST EVENT INTO THE CALENDAR FILE!")
-    # --- FAKE EVENT INJECTION END ---
 
-    print(f"✅ Finished processing all {len(event_ids)} real events (plus 1 fake)!")
+    print(f"\n✅ Finished processing all {len(event_ids)} events!")
 
     generate_ics(processed_events)
     print("🚀 Script execution finished completely.")
