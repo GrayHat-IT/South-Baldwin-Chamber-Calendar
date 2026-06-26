@@ -15,8 +15,6 @@ warnings.filterwarnings("ignore", category=UnknownTimezoneWarning)
 BASE_URL = "https://businesshub.southbaldwinchamber.com"
 SEARCH_URL = f"{BASE_URL}/calendar/Search"
 DETAILS_URL = f"{BASE_URL}/calendar/Details/{{}}"
-# Updated to reflect the new 6-month timeframe
-OUTPUT_FILE = "calendar_next_6_months.ics"
 
 # Headers to prevent bot blocking
 HEADERS = {
@@ -55,7 +53,6 @@ def fetch_event_links():
     for link in all_links:
         href = link["href"]
         if "/calendar/Details/" in href:
-            # Grab the numerical ID and strip any URL parameters
             raw_id = href.split("/")[-1]
             event_id = raw_id.split("?")[0]
 
@@ -109,7 +106,6 @@ def parse_event_details(event_id):
                 if data.get("description"):
                     description = data["description"].strip()
                 
-                # Check JSON for a cleaner location if HTML failed
                 if not location and data.get("location"):
                     loc_data = data["location"]
                     if isinstance(loc_data, dict):
@@ -164,15 +160,13 @@ def parse_event_details(event_id):
 
     # --- 5. Visual Fallback for Event Description ---
     if not description:
-        # Look for standard GrowthZone description containers
         desc_tag = (soup.find(class_=re.compile(r"gz-event-description|gz-details-description", re.I)) or 
                     soup.find(attrs={"itemprop": "description"}))
         if desc_tag:
             description = desc_tag.get_text(separator="\n", strip=True)
 
-    # --- Final Data Assembly ---
     if not start_time:
-        print(f"\n⚠️ Skipping '{title}' (ID: {event_id}) - Absolutely no valid dates found on page.")
+        print(f"\n⚠️ Skipping '{title}' (ID: {event_id}) - No valid dates found.")
         return None
 
     if not end_time:
@@ -189,27 +183,24 @@ def parse_event_details(event_id):
     }
 
 
-def generate_ics(events):
+def generate_ics(events, filename, calendar_name):
     """Builds a Google Calendar compatible .ics file from processed events."""
+    if not events:
+        print(f"⏭️ Skipping {filename} - No events match this category.")
+        return
+
     cal = Calendar()
     cal.add("prodid", "-//South Baldwin Chamber Scraper//EN")
     cal.add("version", "2.0")
-    
-    # Custom Public Name
-    cal.add("X-WR-CALNAME", "South Baldwin Chamber")
+    cal.add("X-WR-CALNAME", calendar_name)
 
-    success_count = 0
     for item in events:
-        if not item:
-            continue
-
         event = Event()
         event.add("summary", item["title"])
         event.add("dtstart", item["start"])
         event.add("dtend", item["end"])
         event.add("location", item["location"])
         
-        # Merge the parsed text details and the backlink URL into the GCal description box
         full_description = f"{item['description']}\n\n---\n🌐 View original event: {item['url']}"
         event.add("description", full_description)
         
@@ -217,12 +208,11 @@ def generate_ics(events):
         event.add("dtstamp", datetime.now())
 
         cal.add_component(event)
-        success_count += 1
 
-    with open(OUTPUT_FILE, "wb") as f:
+    with open(filename, "wb") as f:
         f.write(cal.to_ical())
 
-    print(f"\n💾 Successfully wrote {success_count} events to file: '{OUTPUT_FILE}'")
+    print(f"💾 Successfully wrote {len(events)} events to file: '{filename}'")
 
 
 def main():
@@ -240,7 +230,26 @@ def main():
 
     print(f"\n✅ Finished processing all {len(event_ids)} events!")
 
-    generate_ics(processed_events)
+    # --- SORTING LOGIC ---
+    ribbon_cuttings = []
+    after_hours = []
+    general = []
+
+    for evt in processed_events:
+        title_lower = evt["title"].lower()
+        if "ribbon cutting" in title_lower:
+            ribbon_cuttings.append(evt)
+        elif "after hours" in title_lower or "after-hours" in title_lower:
+            after_hours.append(evt)
+        else:
+            general.append(evt)
+
+    # --- GENERATE MULTIPLE CALENDARS ---
+    generate_ics(processed_events, "calendar_all.ics", "SBC - All Events")
+    generate_ics(ribbon_cuttings, "calendar_ribbon_cuttings.ics", "SBC - Ribbon Cuttings")
+    generate_ics(after_hours, "calendar_after_hours.ics", "SBC - After Hours")
+    generate_ics(general, "calendar_general.ics", "SBC - General Events")
+
     print("🚀 Script execution finished completely.")
 
 
