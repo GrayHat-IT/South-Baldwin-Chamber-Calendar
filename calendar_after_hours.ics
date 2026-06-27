@@ -4,9 +4,9 @@ PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - After Hours
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Renasant Bank
-DTSTART:20260723T170000
-DTEND:20260723T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20260723T170000
+DTEND;TZID=America/Chicago:20260723T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-renasant-bank-1663881@southbaldwincham
  ber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -27,9 +27,9 @@ LOCATION:Renasant Bank\, 1207 N McKenzie Street\, Foley\,\, AL\, 36535\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Trustmark Bank
-DTSTART:20260827T170000
-DTEND:20260827T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20260827T170000
+DTEND;TZID=America/Chicago:20260827T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-trustmark-bank-1663886@southbaldwincha
  mber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -50,9 +50,9 @@ LOCATION:Trustmark Bank\, 699 S McKenzie Street\, Foley\,\, AL\, 36535\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Riviera Utilities
-DTSTART:20260924T170000
-DTEND:20260924T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20260924T170000
+DTEND;TZID=America/Chicago:20260924T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-riviera-utilities-1663891@southbaldwin
  chamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -73,9 +73,9 @@ LOCATION:Riviera Utilities\, 413 E Laurel Avenue\, Foley\,\, AL\, 36535\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at A&R Group (Property TBA)
-DTSTART:20261022T170000
-DTEND:20261022T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20261022T170000
+DTEND;TZID=America/Chicago:20261022T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-a-r-group-property-tba-1663897@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -96,9 +96,9 @@ LOCATION:A&R Group\, 1585 Gulf Shores Parkway\, 2nd Floor\, Gulf Shores\,\
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Alabama Credit Union
-DTSTART:20261119T170000
-DTEND:20261119T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-alabama-credit-union-1663903@southbald
  winchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -119,9 +119,9 @@ LOCATION:Alabama Credit Union\, 211 E Laurel Avenue\, Foley\,\, AL\, 36535
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at OWA Parks & Resort
-DTSTART:20261210T170000
-DTEND:20261210T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20261210T170000
+DTEND;TZID=America/Chicago:20261210T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-owa-parks-resort-1663912@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -142,9 +142,9 @@ LOCATION:OWA Parks & Resort\, 1501 S OWA Boulevard\, Foley\,\, AL\, 36535\
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Moyer Ford Sales
-DTSTART:20260625T170000
-DTEND:20260625T190000
-DTSTAMP:20260627T121415Z
+DTSTART;TZID=America/Chicago:20260625T170000
+DTEND;TZID=America/Chicago:20260625T190000
+DTSTAMP:20260627T204607Z
 UID:gz-2026-business-after-hours-at-moyer-ford-sales-1663877@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
