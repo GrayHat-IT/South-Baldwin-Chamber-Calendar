@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
+from dateutil import tz
 from dateutil.parser import UnknownTimezoneWarning
 from icalendar import Calendar, Event
 
@@ -15,6 +16,9 @@ warnings.filterwarnings("ignore", category=UnknownTimezoneWarning)
 BASE_URL = "https://businesshub.southbaldwinchamber.com"
 SEARCH_URL = f"{BASE_URL}/calendar/Search"
 DETAILS_URL = f"{BASE_URL}/calendar/Details/{{}}"
+
+# Set Timezone to Central Time (Foley, AL)
+CENTRAL_TZ = tz.gettz("America/Chicago")
 
 # Headers to prevent bot blocking
 HEADERS = {
@@ -172,6 +176,19 @@ def parse_event_details(event_id):
     if not end_time:
         end_time = start_time + timedelta(hours=1)
 
+    # --- FORCE CENTRAL TIMEZONE ---
+    if start_time:
+        if start_time.tzinfo is None:
+            start_time = start_time.replace(tzinfo=CENTRAL_TZ)
+        else:
+            start_time = start_time.astimezone(CENTRAL_TZ)
+            
+    if end_time:
+        if end_time.tzinfo is None:
+            end_time = end_time.replace(tzinfo=CENTRAL_TZ)
+        else:
+            end_time = end_time.astimezone(CENTRAL_TZ)
+
     return {
         "title": title,
         "start": start_time,
@@ -205,7 +222,7 @@ def generate_ics(events, filename, calendar_name):
         event.add("description", full_description)
         
         event.add("uid", item["uid"])
-        event.add("dtstamp", datetime.now())
+        event.add("dtstamp", datetime.now(tz=CENTRAL_TZ))
 
         cal.add_component(event)
 
