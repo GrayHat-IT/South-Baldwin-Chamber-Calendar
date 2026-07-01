@@ -3,26 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - Ribbon Cuttings
 BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - Community State Bank
-DTSTART;TZID=America/Chicago:20260630T100000
-DTEND;TZID=America/Chicago:20260630T110000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-community-state-bank-1768275@southbaldwinchamber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-co
- mmunity-state-bank-1768275
-LOCATION:Community State Bank\, 25013 State Street\, Elberta\,\, AL\, 3653
- 0\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - The OWA Store
 DTSTART;TZID=America/Chicago:20260702T160000
 DTEND;TZID=America/Chicago:20260702T170000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-the-owa-store-1834545@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -38,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - LEAD Realty Group
 DTSTART;TZID=America/Chicago:20260716T160000
 DTEND;TZID=America/Chicago:20260716T170000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-lead-realty-group-1730740@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -54,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - One Cut Glass
 DTSTART;TZID=America/Chicago:20260805T150000
 DTEND;TZID=America/Chicago:20260805T160000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-one-cut-glass-1835397@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -70,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Ocean Marine Group
 DTSTART;TZID=America/Chicago:20260806T160000
 DTEND;TZID=America/Chicago:20260806T170000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-ocean-marine-group-1744322@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -86,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Laughing Gull Home Services
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T110000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-laughing-gull-home-services-1763526@southbaldwincham
  ber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -104,7 +88,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T160000
 DTEND;TZID=America/Chicago:20261001T170000
-DTSTAMP:20260630T163450Z
+DTSTAMP:20260701T164320Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -117,107 +101,5 @@ DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  751250
 LOCATION:King & King\, Attorneys At Law\, 191 Northshore Circle Suite 100-
  B\, Gulf Shores\,\, AL\, 36542\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ribbon Cutting - Gulf Breeze RV Resort
-DTSTART;TZID=America/Chicago:20260605T130000
-DTEND;TZID=America/Chicago:20260605T140000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-gulf-breeze-rv-resort-1714398@southbaldwinchamber.co
- m
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-gu
- lf-breeze-rv-resort-1714398
-LOCATION:Gulf Breeze RV Resort\, 19800 Oak Road West\, Gulf Shores\,\, AL\
- , 36542\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ribbon Cutting - Brides On A Budget & Boutique
-DTSTART;TZID=America/Chicago:20260605T150000
-DTEND;TZID=America/Chicago:20260605T160000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-brides-on-a-budget-boutique-1706458@southbaldwincham
- ber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-br
- ides-on-a-budget-boutique-1706458
-LOCATION:Brides On A Budget & Boutique\, 1117 North McKenzie Street\, Fole
- y\,\, AL\, 36535\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ribbon Cutting - Prime Place Storage
-DTSTART;TZID=America/Chicago:20260608T160000
-DTEND;TZID=America/Chicago:20260608T170000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-prime-place-storage-1749519@southbaldwinchamber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-pr
- ime-place-storage-1749519
-LOCATION:Prime Place Storage\, 14425 County Road 55\, Foley\,\, AL\, 36535
- \, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - Blossman Gas & Appliance
-DTSTART;TZID=America/Chicago:20260612T130000
-DTEND;TZID=America/Chicago:20260612T140000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-blossman-gas-appliance-1729483@southbaldwinchamber.c
- om
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-bl
- ossman-gas-appliance-1729483
-LOCATION:Blossman Gas & Appliance\, 15455 Co. Rd. 73\, Foley\,\, AL\, 3653
- 5\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - Beach Dog Events
-DTSTART;TZID=America/Chicago:20260612T150000
-DTEND;TZID=America/Chicago:20260612T160000
-DTSTAMP:20260630T163450Z
-UID:gz-ribbon-cutting-beach-dog-events-1722667@southbaldwinchamber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-be
- ach-dog-events-1722667
-LOCATION:South Baldwin Chamber of Commerce\, 200 N. Alston St.\, Foley\,\,
-  AL\, 36535\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POSTPONED! ✂️ Ribbon Cutting - Orange Beach Center for Hard-to
- -Recycle Materials
-DTSTART;TZID=America/Chicago:20260618T100000
-DTEND;TZID=America/Chicago:20260618T110000
-DTSTAMP:20260630T163450Z
-UID:gz-postponed-ribbon-cutting-orange-beach-center-for-hard-to-recycle-ma
- terials-1758450@southbaldwinchamber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nTHIS EVENT HAS BEEN POSTPONED. Stay tuned for updated i
- nformation!\n\n---\n🌐 View original event: https://businesshub.southbal
- dwinchamber.com/calendar/Details/postponed-ribbon-cutting-orange-beach-cen
- ter-for-hard-to-recycle-materials-1758450
-LOCATION:Orange Beach Center for Hard-to-Recycle Materials\, 22510 Russian
-  Rd\, Gulf Shores\,\, AL\, 36542\, United States
 END:VEVENT
 END:VCALENDAR
