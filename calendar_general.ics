@@ -3,79 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - General Events
 BEGIN:VEVENT
-SUMMARY:Tacky Jacks Art al Fresco: Patriotic Water Gun Tie-Dye Beach Bag
-DTSTART;TZID=America/Chicago:20260701T110000
-DTEND;TZID=America/Chicago:20260701T120000
-DTSTAMP:20260701T164320Z
-UID:gz-tacky-jacks-art-al-fresco-patriotic-water-gun-tie-dye-beach-bag-175
- 2178@southbaldwinchamber.com
-DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Gulf Shores!\nCreate
-  a patriotic tie-dye beach bag with water guns this one-hour class!\nClass
-  is free with the purchase of a $25 gift card.\nPlease arrive 15 minutes e
- arly and check in downstairs.\nOnline Reservations Are Required!\n\n---\n
- 🌐 View original event: https://businesshub.southbaldwinchamber.com/cale
- ndar/Details/tacky-jacks-art-al-fresco-patriotic-water-gun-tie-dye-beach-b
- ag-1752178
-LOCATION:Tacky Jacks Gulf Shores\, 240 E 24TH AVE\, Gulf Shores\,\, AL\, 3
- 6542-3146\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tacky Jacks Hands on Habitat - Orange Beach Wildlife Center
-DTSTART;TZID=America/Chicago:20260701T110000
-DTEND;TZID=America/Chicago:20260701T120000
-DTSTAMP:20260701T164320Z
-UID:gz-tacky-jacks-hands-on-habitat-orange-beach-wildlife-center-1752211@s
- outhbaldwinchamber.com
-DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Orange Beach!\nJo
- in us for a free\, fun\, and educational hands-on nature series! Kids & ad
- ults alike can learn about our ecosystem\, interact with the animals that 
- live here\, and make indigo tie dye with us!\nFREE to participate! Please 
- include ALL participants\, including adults\, when making a reservation.\n
- Please arrive 15 minutes early and check in downstairs at Jack's Bar. Lunc
- h may be ordered at Jack's bar (not included).\n*No personal pets please\,
-  as they may have a negative reaction with our animal guests.*\nOnline Res
- ervations Are Required!\n\n---\n🌐 View original event: https://business
- hub.southbaldwinchamber.com/calendar/Details/tacky-jacks-hands-on-habitat-
- orange-beach-wildlife-center-1752211
-LOCATION:Tacky Jacks Orange Beach\, 27206 Safe Harbor Dr.\, Orange Beach\,
- \, AL\, 36561\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pepsi Summer Adventure Quest at the Wharf
-DTSTART;TZID=America/Chicago:20260701T180000
-DTEND;TZID=America/Chicago:20260701T210000
-DTSTAMP:20260701T164320Z
-UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754078@southbaldwinchamb
- er.com
-DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
- time to blaze the trail for a great cause.\nAttention\, Scouts! Gather you
- r patrol and embark on an epic summer adventure every Wednesday at The Wha
- rf.\nYour mission? To navigate the great\nPepsi Summer Adventure Quest\n!\
- nStart your journey by reporting to the Pepsi Outpost\, where you'll recei
- ve your official adventure map. Then\, set out on a thrilling scavenger hu
- nt\, following the trail to uncover hidden waypoints and complete your que
- st. Once you've checked off every challenge\, return to Base Camp where "X
- " marks the spot to claim your well-earned reward! After your adventure\, 
- stick around to enjoy music from DJ Matt\, and witness the SPECTRA Laser L
- ight Experience.\nWhen: Every Wednesday from 6 PM - 9 PM from June 3 - Jul
- y 29\nWhere: Palms Plaza\nCost: Free admission + parking (some activities 
- $5-10)\nSchedule of Events\n6 PM - 9 PM: Pepsi Summer Adventure Quest\n8:3
- 0 PM\, 9 PM\, 9:30 PM: SPECTRA Laser Light Experience\nFor the first 500 c
- hildren to complete the hunt\, The Wharf’s Anchor Campaign will make a s
- pecial $5 donation in the child’s honor to the Alabama Credit Union’s 
- Secret Meals for Hungry Children program\, helping provide meals to kids i
- n need. We appreciate your support!\nNote: There will be no Pepsi Summer A
- dventure Quest on July 15\nLearn more about the Pepsi Summer Adventure Que
- st!\n\n---\n🌐 View original event: https://businesshub.southbaldwincham
- ber.com/calendar/Details/pepsi-summer-adventure-quest-at-the-wharf-1754078
-LOCATION:The Wharf\, 23101 Canal Road\, Orange Beach\,\, AL\, 36561\, Unit
- ed States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260702T090000
 DTEND;TZID=America/Chicago:20260702T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754169@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -91,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Summer of Fun Beach Games
 DTSTART;TZID=America/Chicago:20260702T110000
 DTEND;TZID=America/Chicago:20260702T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-summer-of-fun-beach-games-1752181@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGulf Shores! Tacky Jacks Beach Games are back!\nK
@@ -110,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Independence Day Street Party at the Wharf
 DTSTART;TZID=America/Chicago:20260702T173000
 DTEND;TZID=America/Chicago:20260702T213000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-independence-day-street-party-at-the-wharf-1769814@southbaldwincham
  ber.com
 DESCRIPTION:Description\nLet Freedom Ring!\nCome wave your red\, white\, a
@@ -133,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Beats + Bubbles at the Wharf
 DTSTART;TZID=America/Chicago:20260702T180000
 DTEND;TZID=America/Chicago:20260702T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-beats-bubbles-at-the-wharf-1754185@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for a bubbly good time!\nThursdays are 
  about to be poppin'! Come early and enjoy entertainment from DJ Matt\, cam
@@ -156,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:America's 250th Anniversary Celebration at One Club Gulf Shores
 DTSTART;TZID=America/Chicago:20260703T170000
 DTEND;TZID=America/Chicago:20260703T220000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-america-s-250th-anniversary-celebration-at-one-club-gulf-shores-174
  2265@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin One Club Gulf Shores for America's 250th Ann
@@ -176,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:4th of July at the Gulf Bowl💥
 DTSTART;TZID=America/Chicago:20260704T090000
 DTEND;TZID=America/Chicago:20260704T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-4th-of-july-at-the-gulf-bowl-1741419@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin Us For Our 4th of July Day Special! 🎆\nFr
  om 9:00 am - 3:00 pm\, enjoy\nUnlimited Rotational Bowling 🎳\nShoe Rent
@@ -191,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Star Spangled 250th Spectacular at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20260704T140000
 DTEND;TZID=America/Chicago:20260704T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-star-spangled-250th-spectacular-at-owa-parks-resort-1761527@southba
  ldwinchamber.com
 DESCRIPTION:Description\nCelebrate the 4th of July with the Star Spangled 
@@ -212,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:$2.00 Mondays at the Gulf Bowl
 DTSTART;TZID=America/Chicago:20260706T090000
 DTEND;TZID=America/Chicago:20260706T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2-00-mondays-at-the-gulf-bowl-1754250@southbaldwinchamber.com
 DESCRIPTION:Description\n$2.00 Mondays at the Gulf Bowl!\nJoin us every Mo
  nday in June and July from 9 am - 3 pm for $2.00 games of bowling!\nCheck 
@@ -226,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Monday at Portside on Main
 DTSTART;TZID=America/Chicago:20260706T183000
 DTEND;TZID=America/Chicago:20260706T203000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-movie-monday-at-portside-on-main-1754156@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us this summer for Movie Monday at Portside 
  on Main!\nPresented by\nLiquid Life Vacation Rentals\n\, Movie Monday is a
@@ -252,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260707T090000
 DTEND;TZID=America/Chicago:20260707T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754170@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -268,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Hands on Habitat - Alabama Gulf Coast Zoo
 DTSTART;TZID=America/Chicago:20260707T110000
 DTEND;TZID=America/Chicago:20260707T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-alabama-gulf-coast-zoo-1752184@southba
  ldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Gulf Shores!\nJoi
@@ -289,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Art al Fresco - Decoupage Oyster Shell
 DTSTART;TZID=America/Chicago:20260707T110000
 DTEND;TZID=America/Chicago:20260707T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-art-al-fresco-decoupage-oyster-shell-1752212@southbaldw
  inchamber.com
 DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Orange Beach!\nLearn
@@ -306,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Sunset Sounds at Portside on Main
 DTSTART;TZID=America/Chicago:20260707T173000
 DTEND;TZID=America/Chicago:20260707T183000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-sunset-sounds-at-portside-on-main-1754223@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us every Tuesday for Sunset Sounds at Portsi
  de on Main!\nEnjoy an evening of great tunes featuring face painting\, the
@@ -328,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Art al Fresco: Pine Cone Flower Art
 DTSTART;TZID=America/Chicago:20260708T110000
 DTEND;TZID=America/Chicago:20260708T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-art-al-fresco-pine-cone-flower-art-1752185@southbaldwin
  chamber.com
 DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Gulf Shores!\nLearn 
@@ -345,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Hands on Habitat - Gulf State Park Nature Center
 DTSTART;TZID=America/Chicago:20260708T110000
 DTEND;TZID=America/Chicago:20260708T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-gulf-state-park-nature-center-1752213@
  southbaldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Orange Beach!\nJo
@@ -366,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Pepsi Summer Adventure Quest at the Wharf
 DTSTART;TZID=America/Chicago:20260708T180000
 DTEND;TZID=America/Chicago:20260708T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754079@southbaldwinchamb
  er.com
 DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
@@ -397,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260709T090000
 DTEND;TZID=America/Chicago:20260709T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754171@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -413,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Summer of Fun Beach Games
 DTSTART;TZID=America/Chicago:20260709T110000
 DTEND;TZID=America/Chicago:20260709T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-summer-of-fun-beach-games-1752187@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGulf Shores! Tacky Jacks Beach Games are back!\nK
@@ -432,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Beats + Bubbles at the Wharf
 DTSTART;TZID=America/Chicago:20260709T180000
 DTEND;TZID=America/Chicago:20260709T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-beats-bubbles-at-the-wharf-1754186@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for a bubbly good time!\nThursdays are 
  about to be poppin'! Come early and enjoy entertainment from DJ Matt\, cam
@@ -455,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:$2.00 Mondays at the Gulf Bowl
 DTSTART;TZID=America/Chicago:20260713T090000
 DTEND;TZID=America/Chicago:20260713T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2-00-mondays-at-the-gulf-bowl-1754251@southbaldwinchamber.com
 DESCRIPTION:Description\n$2.00 Mondays at the Gulf Bowl!\nJoin us every Mo
  nday in June and July from 9 am - 3 pm for $2.00 games of bowling!\nCheck 
@@ -469,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Monday at Portside on Main
 DTSTART;TZID=America/Chicago:20260713T183000
 DTEND;TZID=America/Chicago:20260713T203000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-movie-monday-at-portside-on-main-1754157@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us this summer for Movie Monday at Portside 
  on Main!\nPresented by\nLiquid Life Vacation Rentals\n\, Movie Monday is a
@@ -495,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260714T090000
 DTEND;TZID=America/Chicago:20260714T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754172@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -512,7 +443,7 @@ SUMMARY:Tacky Jacks Hands on Habitat - Alabama Conservation and Natural Re
  sources - Marine Resources Division
 DTSTART;TZID=America/Chicago:20260714T110000
 DTEND;TZID=America/Chicago:20260714T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-alabama-conservation-and-natural-resou
  rces-marine-resources-division-1752189@southbaldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Gulf Shores!\nJoi
@@ -534,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Art al Fresco - Vintage Toy/Game Jewelry
 DTSTART;TZID=America/Chicago:20260714T110000
 DTEND;TZID=America/Chicago:20260714T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-art-al-fresco-vintage-toy-game-jewelry-1752214@southbal
  dwinchamber.com
 DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Orange Beach!\nCreat
@@ -550,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Sunset Sounds at Portside on Main
 DTSTART;TZID=America/Chicago:20260714T173000
 DTEND;TZID=America/Chicago:20260714T183000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-sunset-sounds-at-portside-on-main-1754224@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us every Tuesday for Sunset Sounds at Portsi
  de on Main!\nEnjoy an evening of great tunes featuring face painting\, the
@@ -569,26 +500,10 @@ LOCATION:The Wharf\, 23101 Canal Road\, Orange Beach\,\, AL\, 36561\, Unit
  ed States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tacky Jacks Art al Fresco: Beachy Bracelets
-DTSTART;TZID=America/Chicago:20260715T110000
-DTEND;TZID=America/Chicago:20260715T120000
-DTSTAMP:20260701T164320Z
-UID:gz-tacky-jacks-art-al-fresco-beachy-bracelets-1752191@southbaldwincham
- ber.com
-DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Gulf Shores!\nLearn 
- how to make Beachy and Seashell jewelry in this one-hour class!\nClass is 
- free with the purchase of a $25 gift card.\nPlease arrive 15 minutes early
-  and check in downstairs.\nOnline Reservations Are Required!\n\n---\n🌐 
- View original event: https://businesshub.southbaldwinchamber.com/calendar/
- Details/tacky-jacks-art-al-fresco-beachy-bracelets-1752191
-LOCATION:Tacky Jacks Gulf Shores\, 240 E 24TH AVE\, Gulf Shores\,\, AL\, 3
- 6542-3146\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tacky Jacks Hands on Habitat - Alabama Gulf Coast Zoo
 DTSTART;TZID=America/Chicago:20260715T110000
 DTEND;TZID=America/Chicago:20260715T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-alabama-gulf-coast-zoo-1752215@southba
  ldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Orange Beach!\nJo
@@ -609,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Pepsi Summer Adventure Quest at the Wharf
 DTSTART;TZID=America/Chicago:20260715T180000
 DTEND;TZID=America/Chicago:20260715T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754080@southbaldwinchamb
  er.com
 DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
@@ -640,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260716T090000
 DTEND;TZID=America/Chicago:20260716T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754173@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -656,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Summer of Fun Beach Games
 DTSTART;TZID=America/Chicago:20260716T110000
 DTEND;TZID=America/Chicago:20260716T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-summer-of-fun-beach-games-1752192@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGulf Shores! Tacky Jacks Beach Games are back!\nK
@@ -675,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Beats + Bubbles at the Wharf
 DTSTART;TZID=America/Chicago:20260716T180000
 DTEND;TZID=America/Chicago:20260716T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-beats-bubbles-at-the-wharf-1754187@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for a bubbly good time!\nThursdays are 
  about to be poppin'! Come early and enjoy entertainment from DJ Matt\, cam
@@ -698,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:$2.00 Mondays at the Gulf Bowl
 DTSTART;TZID=America/Chicago:20260720T090000
 DTEND;TZID=America/Chicago:20260720T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2-00-mondays-at-the-gulf-bowl-1754252@southbaldwinchamber.com
 DESCRIPTION:Description\n$2.00 Mondays at the Gulf Bowl!\nJoin us every Mo
  nday in June and July from 9 am - 3 pm for $2.00 games of bowling!\nCheck 
@@ -712,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Monday at Portside on Main
 DTSTART;TZID=America/Chicago:20260720T183000
 DTEND;TZID=America/Chicago:20260720T203000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-movie-monday-at-portside-on-main-1754158@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us this summer for Movie Monday at Portside 
  on Main!\nPresented by\nLiquid Life Vacation Rentals\n\, Movie Monday is a
@@ -738,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260721T090000
 DTEND;TZID=America/Chicago:20260721T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754174@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -754,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Hands on Habitat - Gulf State Park Nature Center
 DTSTART;TZID=America/Chicago:20260721T110000
 DTEND;TZID=America/Chicago:20260721T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-gulf-state-park-nature-center-1752194@
  southbaldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Gulf Shores!\nJoi
@@ -775,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Art al Fresco - Water Gun Tie-Dye Beach Bag
 DTSTART;TZID=America/Chicago:20260721T110000
 DTEND;TZID=America/Chicago:20260721T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-art-al-fresco-water-gun-tie-dye-beach-bag-1752217@south
  baldwinchamber.com
 DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Orange Beach!\nCreat
@@ -791,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Sunset Sounds at Portside on Main
 DTSTART;TZID=America/Chicago:20260721T173000
 DTEND;TZID=America/Chicago:20260721T183000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-sunset-sounds-at-portside-on-main-1754225@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us every Tuesday for Sunset Sounds at Portsi
  de on Main!\nEnjoy an evening of great tunes featuring face painting\, the
@@ -813,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Art al Fresco: Starfish and Stripes Ornament
 DTSTART;TZID=America/Chicago:20260722T110000
 DTEND;TZID=America/Chicago:20260722T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-art-al-fresco-starfish-and-stripes-ornament-1752195@sou
  thbaldwinchamber.com
 DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Gulf Shores!\nCreate
@@ -831,7 +746,7 @@ SUMMARY:Tacky Jacks Hands on Habitat - Alabama Conservation and Natural Re
  sources - Marine Resources
 DTSTART;TZID=America/Chicago:20260722T110000
 DTEND;TZID=America/Chicago:20260722T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-hands-on-habitat-alabama-conservation-and-natural-resou
  rces-marine-resources-1752218@southbaldwinchamber.com
 DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Orange Beach!\nJo
@@ -852,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:Pepsi Summer Adventure Quest at the Wharf
 DTSTART;TZID=America/Chicago:20260722T180000
 DTEND;TZID=America/Chicago:20260722T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754081@southbaldwinchamb
  er.com
 DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
@@ -883,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260723T090000
 DTEND;TZID=America/Chicago:20260723T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754175@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -899,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:Tacky Jacks Summer of Fun Beach Games
 DTSTART;TZID=America/Chicago:20260723T110000
 DTEND;TZID=America/Chicago:20260723T120000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-tacky-jacks-summer-of-fun-beach-games-1752196@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGulf Shores! Tacky Jacks Beach Games are back!\nK
@@ -918,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:Beats + Bubbles at the Wharf
 DTSTART;TZID=America/Chicago:20260723T180000
 DTEND;TZID=America/Chicago:20260723T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-beats-bubbles-at-the-wharf-1754188@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for a bubbly good time!\nThursdays are 
  about to be poppin'! Come early and enjoy entertainment from DJ Matt\, cam
@@ -941,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Darci Lynne: Up Close & Personal Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20260723T190000
 DTEND;TZID=America/Chicago:20260724T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-darci-lynne-up-close-personal-tour-at-owa-theater-1709931@southbald
  winchamber.com
 DESCRIPTION:Description\nDarci Lynne takes the stage at OWA Theater!\nDarc
@@ -961,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:$2.00 Mondays at the Gulf Bowl
 DTSTART;TZID=America/Chicago:20260727T090000
 DTEND;TZID=America/Chicago:20260727T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2-00-mondays-at-the-gulf-bowl-1754253@southbaldwinchamber.com
 DESCRIPTION:Description\n$2.00 Mondays at the Gulf Bowl!\nJoin us every Mo
  nday in June and July from 9 am - 3 pm for $2.00 games of bowling!\nCheck 
@@ -975,7 +890,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Monday at Portside on Main
 DTSTART;TZID=America/Chicago:20260727T183000
 DTEND;TZID=America/Chicago:20260727T203000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-movie-monday-at-portside-on-main-1754159@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us this summer for Movie Monday at Portside 
  on Main!\nPresented by\nLiquid Life Vacation Rentals\n\, Movie Monday is a
@@ -1001,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260728T090000
 DTEND;TZID=America/Chicago:20260728T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754176@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -1017,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:Sunset Sounds at Portside on Main
 DTSTART;TZID=America/Chicago:20260728T173000
 DTEND;TZID=America/Chicago:20260728T183000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-sunset-sounds-at-portside-on-main-1754226@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us every Tuesday for Sunset Sounds at Portsi
  de on Main!\nEnjoy an evening of great tunes featuring face painting\, the
@@ -1039,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Pepsi Summer Adventure Quest at the Wharf
 DTSTART;TZID=America/Chicago:20260729T180000
 DTEND;TZID=America/Chicago:20260729T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754082@southbaldwinchamb
  er.com
 DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
@@ -1070,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Madness at the Gulf Bowl ☀️🎳
 DTSTART;TZID=America/Chicago:20260730T090000
 DTEND;TZID=America/Chicago:20260730T150000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-summer-madness-at-the-gulf-bowl-1754177@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us at the Gulf Bowl for Summer Madness!\nEve
  ry Tuesday & Thursday in the months of June and July\, each player will re
@@ -1086,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:Beats + Bubbles at the Wharf
 DTSTART;TZID=America/Chicago:20260730T180000
 DTEND;TZID=America/Chicago:20260730T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-beats-bubbles-at-the-wharf-1754189@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for a bubbly good time!\nThursdays are 
  about to be poppin'! Come early and enjoy entertainment from DJ Matt\, cam
@@ -1109,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260806T170000
 DTEND;TZID=America/Chicago:20260806T230000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1757825@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1142,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260807T170000
 DTEND;TZID=America/Chicago:20260807T230000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758443@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1175,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260808T170000
 DTEND;TZID=America/Chicago:20260808T230000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758444@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1208,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 3
 DTSTART;TZID=America/Chicago:20260818T083000
 DTEND;TZID=America/Chicago:20260818T100000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-am-connections-quarter-3-1667320@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -1227,10 +1142,34 @@ LOCATION:Island Air Conditioning & Heating\, Inc.\, 9883 James Road\, Fole
  y\,\, AL\, 36535\, United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Safety Day at OWA Parks & Resort
+DTSTART;TZID=America/Chicago:20260822T140000
+DTEND;TZID=America/Chicago:20260822T180000
+DTSTAMP:20260702T155659Z
+UID:gz-community-safety-day-at-owa-parks-resort-1763417@southbaldwinchambe
+ r.com
+DESCRIPTION:Description\nCommunity Safety Day is coming to Downtown OWA on
+  August 22nd!\nIt’s all about celebrating the people and organizations t
+ hat keep our community safe and strong! Spend the day meeting local first 
+ responders from across the area\, watching K-9 training demonstrations\, a
+ nd enjoying a live DJ on OWA Island.\nJoin us for a fun\, feel-good day fo
+ r families\, friends\, and neighbors to come together and show appreciatio
+ n for the heroes among us!\nCalling all first responders!\nRegister your d
+ epartment for the Heroes Hunger Games\, a fast-paced challenge where teams
+  race to finish a sub sandwich\, milkshake\, pretzel\, and large soda befo
+ re suiting up in full gear. Winning departments take home a station banner
+ \, a trophy\, park tickets\, and bragging rights!\nSign Up Your Department
+  Today | Learn More About Community Safety Day\n\n---\n🌐 View original 
+ event: https://businesshub.southbaldwinchamber.com/calendar/Details/commun
+ ity-safety-day-at-owa-parks-resort-1763417
+LOCATION:Downtown OWA\, 101 S. OWA Blvd\, Foley\,\, AL\, 36535\, United St
+ ates
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -1265,7 +1204,7 @@ SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
  a Southern University
 DTSTART;TZID=America/Chicago:20260923T113000
 DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
  e-college-of-space-intelligence-military-operations-at-columbia-southern-u
  niversity-1663672@southbaldwinchamber.com
@@ -1298,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -1328,7 +1267,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1359,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -1376,10 +1315,52 @@ LOCATION:OWA Theater\, 205-A N OWA Boulevard\, Foley\,\, AL\, 36535\, Unit
  ed States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 AM Connections - Quarter 4
+DTSTART;TZID=America/Chicago:20261103T083000
+DTEND;TZID=America/Chicago:20261103T100000
+DTSTAMP:20260702T155659Z
+UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
+DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
+ ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
+ vent brings together up to 30 members for a powerful business-building exp
+ erience.\nThink of it as “speed-dating for your business”—a simple a
+ nd effective way to introduce what you do\, highlight current specials\, a
+ nd spark meaningful partnerships with fellow entrepreneurs and business ow
+ ners.\nEnjoy fresh coffee\, a light breakfast\, and a room full of opportu
+ nity. In just one morning\, you’ll make valuable connections that can en
+ ergize your network and grow your business. Come ready to share\, connect\
+ , and make it count!\nPlease limit attendance to one representative per bu
+ siness.\nThank you to\nLocal IT\, LLC\nfor sponsoring Quarter 4!\n\n---\n
+ 🌐 View original event: https://businesshub.southbaldwinchamber.com/cale
+ ndar/Details/2026-am-connections-quarter-4-1667333
+LOCATION:Island Air Conditioning & Heating\, Inc.\, 9883 James Road\, Fole
+ y\,\, AL\, 36535\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesse Roper at OWA Theater
+DTSTART;TZID=America/Chicago:20261105T193000
+DTEND;TZID=America/Chicago:20261105T213000
+DTSTAMP:20260702T155659Z
+UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
+DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
+  energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
+ ty vocals\, masterful guitar work\, and high-octane live performances\, th
+ e Canadian singer-songwriter blends classic rock\, blues\, and soulful sto
+ rytelling into a sound all his own.\nFrom festival stages to sold-out venu
+ es\, Roper has built a reputation as a must-see performer with undeniable 
+ stage presence and raw musical talent.\nDon’t miss your chance to experi
+ ence Jesse Roper live at OWA Theater for a night packed with powerful voca
+ ls\, blazing guitar riffs\, and unforgettable music!\n\n---\n🌐 View ori
+ ginal event: https://businesshub.southbaldwinchamber.com/calendar/Details/
+ jesse-roper-at-owa-theater-1841010
+LOCATION:OWA Theater\, 205-A N OWA Boulevard\, Foley\,\, AL\, 36535\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -1406,7 +1387,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!\
@@ -1432,7 +1413,7 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1464,7 +1445,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260701T164320Z
+DTSTAMP:20260702T155659Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1490,5 +1471,74 @@ DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
  -city-of-foley-1663688
 LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tacky Jacks Art al Fresco: Patriotic Water Gun Tie-Dye Beach Bag
+DTSTART;TZID=America/Chicago:20260701T110000
+DTEND;TZID=America/Chicago:20260701T120000
+DTSTAMP:20260702T155659Z
+UID:gz-tacky-jacks-art-al-fresco-patriotic-water-gun-tie-dye-beach-bag-175
+ 2178@southbaldwinchamber.com
+DESCRIPTION:Description\nArt al Fresco at Tacky Jacks Gulf Shores!\nCreate
+  a patriotic tie-dye beach bag with water guns this one-hour class!\nClass
+  is free with the purchase of a $25 gift card.\nPlease arrive 15 minutes e
+ arly and check in downstairs.\nOnline Reservations Are Required!\n\n---\n
+ 🌐 View original event: https://businesshub.southbaldwinchamber.com/cale
+ ndar/Details/tacky-jacks-art-al-fresco-patriotic-water-gun-tie-dye-beach-b
+ ag-1752178
+LOCATION:Tacky Jacks Gulf Shores\, 240 E 24TH AVE\, Gulf Shores\,\, AL\, 3
+ 6542-3146\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tacky Jacks Hands on Habitat - Orange Beach Wildlife Center
+DTSTART;TZID=America/Chicago:20260701T110000
+DTEND;TZID=America/Chicago:20260701T120000
+DTSTAMP:20260702T155659Z
+UID:gz-tacky-jacks-hands-on-habitat-orange-beach-wildlife-center-1752211@s
+ outhbaldwinchamber.com
+DESCRIPTION:Description\nHands-On Habitat at Tacky Jacks Orange Beach!\nJo
+ in us for a free\, fun\, and educational hands-on nature series! Kids & ad
+ ults alike can learn about our ecosystem\, interact with the animals that 
+ live here\, and make indigo tie dye with us!\nFREE to participate! Please 
+ include ALL participants\, including adults\, when making a reservation.\n
+ Please arrive 15 minutes early and check in downstairs at Jack's Bar. Lunc
+ h may be ordered at Jack's bar (not included).\n*No personal pets please\,
+  as they may have a negative reaction with our animal guests.*\nOnline Res
+ ervations Are Required!\n\n---\n🌐 View original event: https://business
+ hub.southbaldwinchamber.com/calendar/Details/tacky-jacks-hands-on-habitat-
+ orange-beach-wildlife-center-1752211
+LOCATION:Tacky Jacks Orange Beach\, 27206 Safe Harbor Dr.\, Orange Beach\,
+ \, AL\, 36561\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pepsi Summer Adventure Quest at the Wharf
+DTSTART;TZID=America/Chicago:20260701T180000
+DTEND;TZID=America/Chicago:20260701T210000
+DTSTAMP:20260702T155659Z
+UID:gz-pepsi-summer-adventure-quest-at-the-wharf-1754078@southbaldwinchamb
+ er.com
+DESCRIPTION:Description\nReady your maps and sharpen your skills—it’s 
+ time to blaze the trail for a great cause.\nAttention\, Scouts! Gather you
+ r patrol and embark on an epic summer adventure every Wednesday at The Wha
+ rf.\nYour mission? To navigate the great\nPepsi Summer Adventure Quest\n!\
+ nStart your journey by reporting to the Pepsi Outpost\, where you'll recei
+ ve your official adventure map. Then\, set out on a thrilling scavenger hu
+ nt\, following the trail to uncover hidden waypoints and complete your que
+ st. Once you've checked off every challenge\, return to Base Camp where "X
+ " marks the spot to claim your well-earned reward! After your adventure\, 
+ stick around to enjoy music from DJ Matt\, and witness the SPECTRA Laser L
+ ight Experience.\nWhen: Every Wednesday from 6 PM - 9 PM from June 3 - Jul
+ y 29\nWhere: Palms Plaza\nCost: Free admission + parking (some activities 
+ $5-10)\nSchedule of Events\n6 PM - 9 PM: Pepsi Summer Adventure Quest\n8:3
+ 0 PM\, 9 PM\, 9:30 PM: SPECTRA Laser Light Experience\nFor the first 500 c
+ hildren to complete the hunt\, The Wharf’s Anchor Campaign will make a s
+ pecial $5 donation in the child’s honor to the Alabama Credit Union’s 
+ Secret Meals for Hungry Children program\, helping provide meals to kids i
+ n need. We appreciate your support!\nNote: There will be no Pepsi Summer A
+ dventure Quest on July 15\nLearn more about the Pepsi Summer Adventure Que
+ st!\n\n---\n🌐 View original event: https://businesshub.southbaldwincham
+ ber.com/calendar/Details/pepsi-summer-adventure-quest-at-the-wharf-1754078
+LOCATION:The Wharf\, 23101 Canal Road\, Orange Beach\,\, AL\, 36561\, Unit
+ ed States
 END:VEVENT
 END:VCALENDAR
