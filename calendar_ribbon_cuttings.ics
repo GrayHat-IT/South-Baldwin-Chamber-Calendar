@@ -3,26 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - Ribbon Cuttings
 BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - The OWA Store
-DTSTART;TZID=America/Chicago:20260702T160000
-DTEND;TZID=America/Chicago:20260702T170000
-DTSTAMP:20260702T155659Z
-UID:gz-ribbon-cutting-the-owa-store-1834545@southbaldwinchamber.com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nThe OWA Store is located near Brandon Styles' Theater &
-  Magic Shop.\n\n---\n🌐 View original event: https://businesshub.southba
- ldwinchamber.com/calendar/Details/ribbon-cutting-the-owa-store-1834545
-LOCATION:The OWA Store\, 101-I S OWA Boulevard\, Foley\,\, AL\, 36535\, Un
- ited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - LEAD Realty Group
 DTSTART;TZID=America/Chicago:20260716T160000
 DTEND;TZID=America/Chicago:20260716T170000
-DTSTAMP:20260702T155659Z
+DTSTAMP:20260703T153528Z
 UID:gz-ribbon-cutting-lead-realty-group-1730740@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -38,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - One Cut Glass
 DTSTART;TZID=America/Chicago:20260805T150000
 DTEND;TZID=America/Chicago:20260805T160000
-DTSTAMP:20260702T155659Z
+DTSTAMP:20260703T153528Z
 UID:gz-ribbon-cutting-one-cut-glass-1835397@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -54,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Ocean Marine Group
 DTSTART;TZID=America/Chicago:20260806T160000
 DTEND;TZID=America/Chicago:20260806T170000
-DTSTAMP:20260702T155659Z
+DTSTAMP:20260703T153528Z
 UID:gz-ribbon-cutting-ocean-marine-group-1744322@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -70,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Laughing Gull Home Services
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T110000
-DTSTAMP:20260702T155659Z
+DTSTAMP:20260703T153528Z
 UID:gz-ribbon-cutting-laughing-gull-home-services-1763526@southbaldwincham
  ber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -88,7 +72,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T160000
 DTEND;TZID=America/Chicago:20261001T170000
-DTSTAMP:20260702T155659Z
+DTSTAMP:20260703T153528Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -101,5 +85,21 @@ DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  751250
 LOCATION:King & King\, Attorneys At Law\, 191 Northshore Circle Suite 100-
  B\, Gulf Shores\,\, AL\, 36542\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - The OWA Store
+DTSTART;TZID=America/Chicago:20260702T160000
+DTEND;TZID=America/Chicago:20260702T170000
+DTSTAMP:20260703T153528Z
+UID:gz-ribbon-cutting-the-owa-store-1834545@southbaldwinchamber.com
+DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
+ n us for a ribbon-cutting ceremony as we celebrate a member of the South B
+ aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
+  more about the business and network with fellow chamber members. We hope 
+ to see you there!\nThe OWA Store is located near Brandon Styles' Theater &
+  Magic Shop.\n\n---\n🌐 View original event: https://businesshub.southba
+ ldwinchamber.com/calendar/Details/ribbon-cutting-the-owa-store-1834545
+LOCATION:The OWA Store\, 101-I S OWA Boulevard\, Foley\,\, AL\, 36535\, Un
+ ited States
 END:VEVENT
 END:VCALENDAR
