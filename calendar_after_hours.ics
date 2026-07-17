@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Renasant Bank
 DTSTART;TZID=America/Chicago:20260723T170000
 DTEND;TZID=America/Chicago:20260723T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-renasant-bank-1663881@southbaldwincham
  ber.com
 DESCRIPTION:Description\nRenasant Bank\nis proud to partner with\nRapahope
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Trustmark Bank
 DTSTART;TZID=America/Chicago:20260827T170000
 DTEND;TZID=America/Chicago:20260827T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-trustmark-bank-1663886@southbaldwincha
  mber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Riviera Utilities
 DTSTART;TZID=America/Chicago:20260924T170000
 DTEND;TZID=America/Chicago:20260924T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-riviera-utilities-1663891@southbaldwin
  chamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at A&R Group (Property TBA)
 DTSTART;TZID=America/Chicago:20261022T170000
 DTEND;TZID=America/Chicago:20261022T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-a-r-group-property-tba-1663897@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Alabama Credit Union
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-alabama-credit-union-1663903@southbald
  winchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20261210T170000
 DTEND;TZID=America/Chicago:20261210T190000
-DTSTAMP:20260716T130601Z
+DTSTAMP:20260717T120154Z
 UID:gz-2026-business-after-hours-at-owa-parks-resort-1663912@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
