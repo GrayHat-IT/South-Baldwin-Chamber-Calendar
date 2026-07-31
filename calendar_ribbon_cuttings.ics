@@ -3,27 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - Ribbon Cuttings
 BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - Coastal Roots Skin Care
-DTSTART;TZID=America/Chicago:20260730T160000
-DTEND;TZID=America/Chicago:20260730T170000
-DTSTAMP:20260730T101124Z
-UID:gz-ribbon-cutting-coastal-roots-skin-care-1851340@southbaldwinchamber.
- com
-DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
- n us for a ribbon-cutting ceremony as we celebrate a member of the South B
- aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
-  more about the business and network with fellow chamber members. We hope 
- to see you there!\nMember Directory\n\n---\n🌐 View original event: http
- s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-co
- astal-roots-skin-care-1851340
-LOCATION:Coastal Roots Skin Care LLC\, 113 West Orange Avenue\, Foley\,\, 
- AL\, 36535\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - One Cut Glass
 DTSTART;TZID=America/Chicago:20260805T150000
 DTEND;TZID=America/Chicago:20260805T160000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-one-cut-glass-1835397@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a dual ribbon-cutting ceremony as we celebrate a member of the\nS
@@ -39,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Ocean Marine Group
 DTSTART;TZID=America/Chicago:20260806T160000
 DTEND;TZID=America/Chicago:20260806T170000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-ocean-marine-group-1744322@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a dual ribbon-cutting ceremony as we celebrate a member of the\nS
@@ -52,10 +35,27 @@ LOCATION:Ocean Marine Group\, 7651 Highway 59\, Foley\,\, AL\, 36535\, Uni
  ted States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - TiCT - The Ice Cream Truck
+DTSTART;TZID=America/Chicago:20260819T160000
+DTEND;TZID=America/Chicago:20260819T170000
+DTSTAMP:20260731T102737Z
+UID:gz-ribbon-cutting-tict-the-ice-cream-truck-1878112@southbaldwinchamber
+ .com
+DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
+ n us for a dual ribbon-cutting ceremony as we celebrate a member of the\nS
+ outh Baldwin\nand\nCoastal Alabama Chambers of Commerce\n.\nIt's an excell
+ ent opportunity for you to learn more about the business and network with 
+ fellow chamber members. We hope to see you there!\nMember Directory\n\n---
+ \n🌐 View original event: https://businesshub.southbaldwinchamber.com/ca
+ lendar/Details/ribbon-cutting-tict-the-ice-cream-truck-1878112
+LOCATION:Foley Kids Park\, 209 West Verbena Avenue\, Foley\,\, AL\, 36535\
+ , United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Laughing Gull Home Services
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T110000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-laughing-gull-home-services-1763526@southbaldwincham
  ber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - No Shoes Media & Marketing
 DTSTART;TZID=America/Chicago:20260929T110000
 DTEND;TZID=America/Chicago:20260929T120000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-no-shoes-media-marketing-1868205@southbaldwinchamber
  .com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -90,7 +90,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T160000
 DTEND;TZID=America/Chicago:20261001T170000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - The OWA Store
 DTSTART;TZID=America/Chicago:20260702T160000
 DTEND;TZID=America/Chicago:20260702T170000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-the-owa-store-1834545@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - LEAD Realty Group
 DTSTART;TZID=America/Chicago:20260716T160000
 DTEND;TZID=America/Chicago:20260716T170000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-lead-realty-group-1730740@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a ribbon-cutting ceremony as we celebrate a member of the South B
@@ -141,7 +141,7 @@ SUMMARY:✂️ Ribbon Cutting - Orange Beach Center for Hard-to-Recycle Ma
  terials
 DTSTART;TZID=America/Chicago:20260723T100000
 DTEND;TZID=America/Chicago:20260723T110000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-orange-beach-center-for-hard-to-recycle-materials-17
  58450@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Half Shell Oyster House
 DTSTART;TZID=America/Chicago:20260728T160000
 DTEND;TZID=America/Chicago:20260728T170000
-DTSTAMP:20260730T101124Z
+DTSTAMP:20260731T102737Z
 UID:gz-ribbon-cutting-half-shell-oyster-house-1848051@southbaldwinchamber.
  com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -171,5 +171,22 @@ DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  lf-shell-oyster-house-1848051
 LOCATION:Half Shell Oyster House\, 118 West Laurel Avenue\, Foley\,\, AL\,
   36535\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - Coastal Roots Skin Care
+DTSTART;TZID=America/Chicago:20260730T160000
+DTEND;TZID=America/Chicago:20260730T170000
+DTSTAMP:20260731T102737Z
+UID:gz-ribbon-cutting-coastal-roots-skin-care-1851340@southbaldwinchamber.
+ com
+DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
+ n us for a ribbon-cutting ceremony as we celebrate a member of the South B
+ aldwin Chamber of Commerce. It's an excellent opportunity for you to learn
+  more about the business and network with fellow chamber members. We hope 
+ to see you there!\nMember Directory\n\n---\n🌐 View original event: http
+ s://businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-co
+ astal-roots-skin-care-1851340
+LOCATION:Coastal Roots Skin Care LLC\, 113 West Orange Avenue\, Foley\,\, 
+ AL\, 36535\, United States
 END:VEVENT
 END:VCALENDAR
