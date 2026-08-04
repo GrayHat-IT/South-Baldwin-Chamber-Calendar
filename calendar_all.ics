@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Foley Library Grand Opening
 DTSTART;TZID=America/Chicago:20260804T103000
 DTEND;TZID=America/Chicago:20260804T170000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-foley-library-grand-opening-1879119@southbaldwinchamber.com
 DESCRIPTION:Description\nGrand Opening Celebration!\nJoin us on Tuesday\, 
  August 4\, 2026\, from 10:30 AM–5:00 PM as we celebrate the opening of t
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - One Cut Glass
 DTSTART;TZID=America/Chicago:20260805T150000
 DTEND;TZID=America/Chicago:20260805T160000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-one-cut-glass-1835397@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a dual ribbon-cutting ceremony as we celebrate a member of the\nS
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Ocean Marine Group
 DTSTART;TZID=America/Chicago:20260806T160000
 DTEND;TZID=America/Chicago:20260806T170000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-ocean-marine-group-1744322@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
  n us for a dual ribbon-cutting ceremony as we celebrate a member of the\nS
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260806T170000
 DTEND;TZID=America/Chicago:20260806T230000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1757825@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Oil Painting Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260807T130000
 DTEND;TZID=America/Chicago:20260807T143000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-oil-painting-sip-paint-art-class-1875448@southbaldwinchamber.com
 DESCRIPTION:Description\nBring a friend & join us! Cost of class is per pe
  rson and is all-inclusive. The price includes supplies\, instructions\, sn
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260807T170000
 DTEND;TZID=America/Chicago:20260807T230000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758443@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260808T170000
 DTEND;TZID=America/Chicago:20260808T230000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758444@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Jeff Allen: My First “Final” Farewell Tour
 DTSTART;TZID=America/Chicago:20260809T180000
 DTEND;TZID=America/Chicago:20260809T200000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-jeff-allen-my-first-final-farewell-tour-1869581@southbaldwinchamber
  .com
 DESCRIPTION:Description\nOne of America's favorite comedians is coming to 
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Sunflower Watercolor Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260814T130000
 DTEND;TZID=America/Chicago:20260814T140000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-sunflower-watercolor-sip-paint-art-class-1875461@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nFriday August 14th\, 1pm. - $35 per person. Sunfl
@@ -213,10 +213,31 @@ LOCATION:The Dragonfly Emporium LLC\, 16821 Hwy.181\, Fairhope\,\, AL\, 36
  532\, United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:White Tie Rock Ensemble Presents: A Night of Southern Rock Legends
+DTSTART;TZID=America/Chicago:20260814T190000
+DTEND;TZID=America/Chicago:20260815T210000
+DTSTAMP:20260804T102600Z
+UID:gz-white-tie-rock-ensemble-presents-a-night-of-southern-rock-legends-1
+ 878466@southbaldwinchamber.com
+DESCRIPTION:Description\nGet ready for an unforgettable night of symphonic
+  rock as The White Tie Rock Ensemble returns to OWA Theater for two perfor
+ mances on August 14 & 15\, 2026\, at 7:00 p.m. After previous appearances 
+ at OWA\, the acclaimed ensemble is back with an all-new production\, deliv
+ ering this spectacular show to OWA audiences for the very first time. Comb
+ ining the precision of a symphony orchestra with the energy of classic roc
+ k\, The White Tie Rock Ensemble transforms legendary hits into a powerful 
+ live experience. Enhanced by dynamic multimedia visuals and exceptional mu
+ sicianship\, this one-of-a-kind performance is a must-see for fans of time
+ less rock and unforgettable live entertainment.\n\n---\n🌐 View original
+  event: https://businesshub.southbaldwinchamber.com/calendar/Details/white
+ -tie-rock-ensemble-presents-a-night-of-southern-rock-legends-1878466
+LOCATION:OWA theater
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 3
 DTSTART;TZID=America/Chicago:20260818T083000
 DTEND;TZID=America/Chicago:20260818T100000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-am-connections-quarter-3-1667320@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -238,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - TiCT - The Ice Cream Truck
 DTSTART;TZID=America/Chicago:20260819T160000
 DTEND;TZID=America/Chicago:20260819T170000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-tict-the-ice-cream-truck-1878112@southbaldwinchamber
  .com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -255,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:L'Ecole No 41 Food & Wine Pairing Dinner
 DTSTART;TZID=America/Chicago:20260819T183000
 DTEND;TZID=America/Chicago:20260819T210000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-l-ecole-no-41-food-wine-pairing-dinner-1874111@southbaldwinchamber.
  com
 DESCRIPTION:Description\nJoin\nLocal and Company\nfor an elegant food and 
@@ -273,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Community Safety Day at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20260822T160000
 DTEND;TZID=America/Chicago:20260822T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-community-safety-day-at-owa-parks-resort-1763417@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nCommunity Safety Day is coming to Downtown OWA on
@@ -298,7 +319,7 @@ SUMMARY:Public Safety Career Fair to Connect Community with Career Opportu
  nities
 DTSTART;TZID=America/Chicago:20260827T090000
 DTEND;TZID=America/Chicago:20260827T140000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-public-safety-career-fair-to-connect-community-with-career-opportun
  ities-1879084@southbaldwinchamber.com
 DESCRIPTION:Description\nBaldwin County 9-1-1 is excited to announce an up
@@ -332,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Trustmark Bank
 DTSTART;TZID=America/Chicago:20260827T170000
 DTEND;TZID=America/Chicago:20260827T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-business-after-hours-at-trustmark-bank-1663886@southbaldwincha
  mber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -355,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Daphne Sea Turtle Watercolor Sip & Paint Class
 DTSTART;TZID=America/Chicago:20260828T130000
 DTEND;TZID=America/Chicago:20260828T140000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-daphne-sea-turtle-watercolor-sip-paint-class-1875467@southbaldwinch
  amber.com
 DESCRIPTION:Description\nFriday \, August 28th\, 1pm. - $35 per person. Da
@@ -374,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Summer Games
 DTSTART;TZID=America/Chicago:20260829T080000
 DTEND;TZID=America/Chicago:20260829T170000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-owa-summer-games-1874188@southbaldwinchamber.com
 DESCRIPTION:Description\nSummer competition takes over Downtown OWA on Aug
  ust 29th with the OWA Summer Games! The day begins with an opening ceremon
@@ -396,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Vegas McGraw: A Tribute to Tim McGraw at OWA Theater
 DTSTART;TZID=America/Chicago:20260829T193000
 DTEND;TZID=America/Chicago:20260829T213000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-vegas-mcgraw-a-tribute-to-tim-mcgraw-at-owa-theater-1849865@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGet ready for a night of timeless country!\nVegas
@@ -418,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Laughing Gull Home Services
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T110000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-laughing-gull-home-services-1763526@southbaldwincham
  ber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -435,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -468,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
 DTSTART;TZID=America/Chicago:20260918T113000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
  53@southbaldwinchamber.com
 DESCRIPTION:Description\nSince 1976\, the South Baldwin Chamber of Commerc
@@ -494,7 +515,7 @@ SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
  ater
 DTSTART;TZID=America/Chicago:20260919T193000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
  r-1849795@southbaldwinchamber.com
 DESCRIPTION:Description\nUse Your Illusion: America’s #1 Guns N’ Roses
@@ -517,7 +538,7 @@ SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
  a Southern University
 DTSTART;TZID=America/Chicago:20260923T113000
 DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
  e-college-of-space-intelligence-military-operations-at-columbia-southern-u
  niversity-1663672@southbaldwinchamber.com
@@ -550,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Riviera Utilities
 DTSTART;TZID=America/Chicago:20260924T170000
 DTEND;TZID=America/Chicago:20260924T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-business-after-hours-at-riviera-utilities-1663891@southbaldwin
  chamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -573,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - No Shoes Media & Marketing
 DTSTART;TZID=America/Chicago:20260929T110000
 DTEND;TZID=America/Chicago:20260929T120000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-no-shoes-media-marketing-1868205@southbaldwinchamber
  .com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -591,7 +612,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T160000
 DTEND;TZID=America/Chicago:20261001T170000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin the celebration!\nEveryone is invited to joi
@@ -609,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -639,7 +660,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -670,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -690,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at A&R Group (Property TBA)
 DTSTART;TZID=America/Chicago:20261022T170000
 DTEND;TZID=America/Chicago:20261022T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-business-after-hours-at-a-r-group-property-tba-1663897@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -714,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T083000
 DTEND;TZID=America/Chicago:20261103T100000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -736,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
   energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
@@ -756,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:REHAB at OWA Theater
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T213000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-rehab-at-owa-theater-1876407@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of Southern 
  rock\, hip hop\, and high-energy live music as Rehab takes the stage at OW
@@ -773,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -800,7 +821,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!\
@@ -826,7 +847,7 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -857,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Alabama Credit Union
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-business-after-hours-at-alabama-credit-union-1663903@southbald
  winchamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -881,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20261210T170000
 DTEND;TZID=America/Chicago:20261210T190000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-business-after-hours-at-owa-parks-resort-1663912@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nGive your business a boost by attending Business 
@@ -905,7 +926,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260803T111123Z
+DTSTAMP:20260804T102600Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
