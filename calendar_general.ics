@@ -7,7 +7,7 @@ SUMMARY:Public Safety Career Fair to Connect Community with Career Opportu
  nities
 DTSTART;TZID=America/Chicago:20260827T090000
 DTEND;TZID=America/Chicago:20260827T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-public-safety-career-fair-to-connect-community-with-career-opportun
  ities-1879084@southbaldwinchamber.com
 DESCRIPTION:Description\nBaldwin County 9-1-1 is excited to announce an up
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:15 Invaluable Laws of Growth Lunch & Learn
 DTSTART;TZID=America/Chicago:20260827T120000
 DTEND;TZID=America/Chicago:20260827T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-15-invaluable-laws-of-growth-lunch-learn-1890878@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nIn John Maxwell's 15 Invaluable Laws of Growth\, 
@@ -54,10 +54,33 @@ DESCRIPTION:Description\nIn John Maxwell's 15 Invaluable Laws of Growth\,
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gulf Shores Elementary School Spirit Night @ Tacky Jacks Gulf Shor
+ es
+DTSTART;TZID=America/Chicago:20260827T160000
+DTEND;TZID=America/Chicago:20260827T210000
+DTSTAMP:20260825T082846Z
+UID:gz-gulf-shores-elementary-school-spirit-night-tacky-jacks-gulf-shores-
+ 1902216@southbaldwinchamber.com
+DESCRIPTION:Description\n📚💙 School spirit tastes better with Tacky J
+ acks!\n\nJoin us Thursday\, August 27\, for Gulf Shores Elementary School 
+ Spirit Night at Tacky Jacks Gulf Shores! 🎉\n\n🎤 Family Karaoke from 
+ 6–9 PM\n📸 FREE photo booth\n🐟 Meet Miss Marlin from 6–7 PM\n🏆
+  The class with the most participation wins lunch on us!\n\nA portion of r
+ estaurant sales\, both in-person and online\, will benefit Gulf Shores Ele
+ mentary School\, so bring the family\, grab dinner\, sing a song\, and hel
+ p support GSES! 💛💙\n\nCan’t make it in? Order through DoorDash and
+  your purchase can still count toward your student’s class participation
+ .\n\n---\n🌐 View original event: https://businesshub.southbaldwinchambe
+ r.com/calendar/Details/gulf-shores-elementary-school-spirit-night-tacky-ja
+ cks-gulf-shores-1902216
+LOCATION:Tacky Jacks Gulf Shores\, 240 E 24TH AVE\, Gulf Shores\,\, AL\, 3
+ 6542-3146\, United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Daphne Sea Turtle Watercolor Sip & Paint Class
 DTSTART;TZID=America/Chicago:20260828T130000
 DTEND;TZID=America/Chicago:20260828T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-daphne-sea-turtle-watercolor-sip-paint-class-1875467@southbaldwinch
  amber.com
 DESCRIPTION:Description\nFriday \, August 28th\, 1pm. - $35 per person. Da
@@ -76,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:MJ: The Illusion
 DTSTART;TZID=America/Chicago:20260828T193000
 DTEND;TZID=America/Chicago:20260828T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-mj-the-illusion-1882680@southbaldwinchamber.com
 DESCRIPTION:Description\nHe's back! MJ: The Illusion returns to OWA Theate
  r on August 28th for another unforgettable night celebrating the music and
@@ -96,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Vegas McGraw: A Tribute to Tim McGraw at OWA Theater
 DTSTART;TZID=America/Chicago:20260829T193000
 DTEND;TZID=America/Chicago:20260829T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-vegas-mcgraw-a-tribute-to-tim-mcgraw-at-owa-theater-1849865@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGet ready for a night of timeless country!\nVegas
@@ -118,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Overdose Drug Awareness Day
 DTSTART;TZID=America/Chicago:20260830T170000
 DTEND;TZID=America/Chicago:20260830T200000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-overdose-drug-awareness-day-1888662@southbaldwinchamber.com
 DESCRIPTION:Description\nOne Big Family\, Driven by Hope.\nJoin Big Fish M
  inistries this International Overdose Awareness Day in Foley\, Alabama\, a
@@ -148,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Stars Stripes & Summer Nights – A Tribute to the Legends
 DTSTART;TZID=America/Chicago:20260904T160000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-stars-stripes-summer-nights-a-tribute-to-the-legends-1899391@southb
  aldwinchamber.com
 DESCRIPTION:Description\nYour Labor Day weekend encore starts here! Join u
@@ -168,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Pam Tillis
 DTSTART;TZID=America/Chicago:20260904T193000
 DTEND;TZID=America/Chicago:20260904T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-an-evening-with-pam-tillis-1900276@southbaldwinchamber.com
 DESCRIPTION:Description\nA country music favorite is coming to OWA Theater
  ! Join us on September 4th for an evening with Pam Tillis\, the award-winn
@@ -187,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Labor Day Special
 DTSTART;TZID=America/Chicago:20260907T090000
 DTEND;TZID=America/Chicago:20260907T150000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-labor-day-special-1895245@southbaldwinchamber.com
 DESCRIPTION:Description\nLabor Day Special at The Gulf Bowl!\nCelebrate La
  bor Day with a day full of family fun at The Gulf Bowl!\nFor Labor Day onl
@@ -205,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Shorty's Safe Haven PCA Rodeo
 DTSTART;TZID=America/Chicago:20260911T170000
 DTEND;TZID=America/Chicago:20260912T230000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nJoin us for 2 nights of family fun at our 2nd ann
@@ -222,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Walk This Way: 80s 5K & Block Party
 DTSTART;TZID=America/Chicago:20260912T170000
 DTEND;TZID=America/Chicago:20260912T220000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-walk-this-way-80s-5k-block-party-1886398@southbaldwinchamber.com
 DESCRIPTION:Description\nLace Up\, Dress Up & Party Like It’s 1985!\nGet
   ready to grab your neon\, tease your hair\, and break out the leg warmers
@@ -262,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -295,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
 DTSTART;TZID=America/Chicago:20260918T113000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
  53@southbaldwinchamber.com
 DESCRIPTION:Description\nSince 1976\, the South Baldwin Chamber of Commerc
@@ -321,7 +344,7 @@ SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
  ater
 DTSTART;TZID=America/Chicago:20260919T193000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
  r-1849795@southbaldwinchamber.com
 DESCRIPTION:Description\nUse Your Illusion: America’s #1 Guns N’ Roses
@@ -339,12 +362,41 @@ LOCATION:OWA Theater\, 205-A N OWA Boulevard\, Foley\,\, AL\, 36535\, Unit
  ed States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:September Wine Tastings with Winston @ Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20260922T180000
+DTEND;TZID=America/Chicago:20260922T210000
+DTSTAMP:20260825T082846Z
+UID:gz-september-wine-tastings-with-winston-tacky-jacks-orange-beach-19022
+ 17@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nSeptember 22\, 2026 - 6pm - 8pm\n\nSout
+ h of France Selections\n\nEnjoy four incredible wines\, each expertly pair
+ ed with a small plate\, coming together for one unforgettable meal. It’s
+  a guided flavor adventure as we travel the globe through bold pours and e
+ pic bites.\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, s
+ avor\, and learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectl
+ y paired wines and appetizers while discovering the flavor profiles\, orig
+ ins\, and unique stories behind each selection.\n\nSettle into our relaxed
+  outdoor waterfront seating\, where stunning views set the perfect backdro
+ p for your tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Locat
+ ion: Tacky Jacks Orange Beach\n💲 Reservation: $5 per person (applied to
+  tasting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds 
+ available with 24-hour notice\n\nCome uncork something new this season—r
+ eserve your spot today!\n\nhttps://tacky-jacks.myshopify.com/collections/w
+ ine-tastings\n\n---\n🌐 View original event: https://businesshub.southba
+ ldwinchamber.com/calendar/Details/september-wine-tastings-with-winston-tac
+ ky-jacks-orange-beach-1902217
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
   of the College of Space\, Intelligence\, & Military Operations at Columbi
  a Southern University
 DTSTART;TZID=America/Chicago:20260923T113000
 DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
  e-college-of-space-intelligence-military-operations-at-columbia-southern-u
  niversity-1663672@southbaldwinchamber.com
@@ -374,10 +426,33 @@ LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:September Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20260924T180000
+DTEND;TZID=America/Chicago:20260924T200000
+DTSTAMP:20260825T082846Z
+UID:gz-september-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-190
+ 2225@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by Alabama Crow
+ n Distributing \n\nSeptember 24\, 2026 - 6 pm - 8 pm\n\nSouth of France Se
+ lections\n\nSettle into our relaxed outdoor waterfront seating\, where stu
+ nning views set the perfect backdrop for your tasting experience. Please b
+ e prepared for outdoor weather and dress accordingly. 21 and up. Enjoy res
+ ponsibly.\n\n📍 Location: Tacky Jacks Gulf Shores\n💲 Reservation: $5 
+ per person (applied to tasting cost of $45)\n🔔 RSVP Required | Limited 
+ Seating\n💡 Refunds available with 24-hour notice\n\nCome uncork somethi
+ ng new this season—reserve your spot today!\n\nhttps://tacky-jacks.mysho
+ pify.com/collections/wine-tastings?page=1\n\n---\n🌐 View original event
+ : https://businesshub.southbaldwinchamber.com/calendar/Details/september-w
+ ine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902225
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20260925T180000
 DTEND;TZID=America/Chicago:20261031T180000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-primal-fear-2026-1878024@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into Primal Fear\, O
  WA's most terrifying immersive attraction\, where your deepest fears becom
@@ -405,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261001T170000
 DTEND;TZID=America/Chicago:20261126T230000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-all-you-can-play-laser-tag-1895259@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -424,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -453,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Theater Presents: Andrew Conn Live
 DTSTART;TZID=America/Chicago:20261002T193000
 DTEND;TZID=America/Chicago:20261002T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-owa-theater-presents-andrew-conn-live-1901129@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready to laugh! Social media’s biggest Come
@@ -476,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Columbus Day Special 🎩
 DTSTART;TZID=America/Chicago:20261012T090000
 DTEND;TZID=America/Chicago:20261012T150000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-columbus-day-special-1896444@southbaldwinchamber.com
 DESCRIPTION:Description\n🎳 COLUMBUS DAY SPECIAL 🎳\nJoin us this Colu
  mbus Day from 9:00 AM – 3:00 PM for an all-day deal you won’t want to 
@@ -493,7 +568,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -521,10 +596,62 @@ LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:October Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20261013T180000
+DTEND;TZID=America/Chicago:20261013T200000
+DTSTAMP:20260825T082846Z
+UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
+ 218@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nOctober 13\, 2026 - 6pm - 8pm\n\nPacifi
+ c Northwest Selections\n\nEnjoy four incredible wines\, each expertly pair
+ ed with a small plate\, coming together for one unforgettable meal. It’s
+  a guided flavor adventure as we travel the globe through bold pours and e
+ pic bites.\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, s
+ avor\, and learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectl
+ y paired wines and appetizers while discovering the flavor profiles\, orig
+ ins\, and unique stories behind each selection.\n\nSettle into our relaxed
+  outdoor waterfront seating\, where stunning views set the perfect backdro
+ p for your tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Locat
+ ion: Tacky Jacks Orange Beach\n💲 Reservation: $5 per person (applied to
+  tasting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds 
+ available with 24-hour notice\n\nCome uncork something new this season—r
+ eserve your spot today!\nhttps://tacky-jacks.myshopify.com/collections/win
+ e-tastings\n\n---\n🌐 View original event: https://businesshub.southbald
+ winchamber.com/calendar/Details/october-wine-tastings-with-winston-at-tack
+ y-jacks-orange-beach-1902218
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20261015T060000
+DTEND;TZID=America/Chicago:20261015T200000
+DTSTAMP:20260825T082846Z
+UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
+ 27@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing \n\nOctober 15\, 2026 - 6 pm - 8 
+ pm\n\nPacific Northwest Selections\n\nSettle into our relaxed outdoor wate
+ rfront seating\, where stunning views set the perfect backdrop for your ta
+ sting experience. Please be prepared for outdoor weather and dress accordi
+ ngly. 21 and up. Enjoy responsibly.\n\n📍 Location: Tacky Jacks Gulf Sho
+ res\n💲 Reservation: $5 per person (applied to tasting cost of $45)\n
+ 🔔 RSVP Required | Limited Seating\n💡 Refunds available with 24-hour 
+ notice\n\nCome uncork something new this season—reserve your spot today!
+ \n\nhttps://tacky-jacks.myshopify.com/collections/wine-tastings?page=1\n\n
+ ---\n🌐 View original event: https://businesshub.southbaldwinchamber.com
+ /calendar/Details/october-wine-tastings-with-winston-at-tacky-jacks-gulf-s
+ hores-1902227
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -544,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:Blackout Bowling 👻
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261024T010000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-blackout-bowling-1895275@southbaldwinchamber.com
 DESCRIPTION:Description\nBLACKOUT BOWLING SPECIAL! 🎳🖤👻\nGet ready
   for a night of spooky fun at The Gulf Bowl! Join us for our Blackout Bowl
@@ -563,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Arts & Crafts Show
 DTSTART;TZID=America/Chicago:20261024T090000
 DTEND;TZID=America/Chicago:20261024T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-arts-crafts-show-1886323@southbaldwinchamber.com
 DESCRIPTION:Description\nThe Foley UMC Arts & Crafts Show welcomes crafty 
  vendors from across Baldwin County to come and prepare the community for t
@@ -579,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T083000
 DTEND;TZID=America/Chicago:20261103T100000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -601,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
   energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
@@ -621,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:REHAB at OWA Theater
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T213000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-rehab-at-owa-theater-1876407@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of Southern 
  rock\, hip hop\, and high-energy live music as Rehab takes the stage at OW
@@ -638,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -665,7 +792,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!
@@ -687,11 +814,40 @@ LOCATION:Foley Sports Complex\, 1250 Cater Lee Way\, Foley\,\, AL\, 36535
  \, United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:November Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20261117T180000
+DTEND;TZID=America/Chicago:20261117T200000
+DTSTAMP:20260825T082846Z
+UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
+ 2219@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nNovember 17\, 2026 - 6pm - 8pm\n\nTusca
+ ny Selections\n\nEnjoy four incredible wines\, each expertly paired with a
+  small plate\, coming together for one unforgettable meal. It’s a guided
+  flavor adventure as we travel the globe through bold pours and epic bites
+ .\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, savor\, an
+ d learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectly paired 
+ wines and appetizers while discovering the flavor profiles\, origins\, and
+  unique stories behind each selection.\n\nSettle into our relaxed outdoor 
+ waterfront seating\, where stunning views set the perfect backdrop for you
+ r tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Location: Tack
+ y Jacks Orange Beach\n💲 Reservation: $5 per person (applied to tasting 
+ cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds available
+  with 24-hour notice\n\nCome uncork something new this season—reserve yo
+ ur spot today!\n\nhttps://tacky-jacks.myshopify.com/collections/wine-tasti
+ ngs\n\n---\n🌐 View original event: https://businesshub.southbaldwincham
+ ber.com/calendar/Details/november-wine-tastings-with-winston-at-tacky-jack
+ s-orange-beach-1902219
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -719,11 +875,86 @@ LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:November Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20261120T180000
+DTEND;TZID=America/Chicago:20261120T200000
+DTSTAMP:20260825T082846Z
+UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
+ 228@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing \n\nNovember 20\, 2026 - 6 pm - 8
+  pm\n\nTuscany Selections\n\nSettle into our relaxed outdoor waterfront se
+ ating\, where stunning views set the perfect backdrop for your tasting exp
+ erience. Please be prepared for outdoor weather and dress accordingly. 21 
+ and up. Enjoy responsibly.\n\n📍 Location: Tacky Jacks Gulf Shores\n💲
+  Reservation: $5 per person (applied to tasting cost of $45)\n🔔 RSVP Re
+ quired | Limited Seating\n💡 Refunds available with 24-hour notice\n\nCo
+ me uncork something new this season—reserve your spot today!\n\nhttps://
+ tacky-jacks.myshopify.com/collections/wine-tastings?page=1\n\n---\n🌐 Vi
+ ew original event: https://businesshub.southbaldwinchamber.com/calendar/De
+ tails/november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
+ 28
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20261208T180000
+DTEND;TZID=America/Chicago:20261208T200000
+DTSTAMP:20260825T082846Z
+UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
+ 2220@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nDecember 8\, 2026 - 6pm - 8pm\n\nSouth 
+ Africa Selections\n\nEnjoy four incredible wines\, each expertly paired wi
+ th a small plate\, coming together for one unforgettable meal. It’s a gu
+ ided flavor adventure as we travel the globe through bold pours and epic b
+ ites.\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, savor
+ \, and learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectly pa
+ ired wines and appetizers while discovering the flavor profiles\, origins
+ \, and unique stories behind each selection.\n\nSettle into our relaxed ou
+ tdoor waterfront seating\, where stunning views set the perfect backdrop f
+ or your tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Location
+ : Tacky Jacks Orange Beach\n💲 Reservation: $5 per person (applied to ta
+ sting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds ava
+ ilable with 24-hour notice\n\nCome uncork something new this season—rese
+ rve your spot today!\n\nhttps://tacky-jacks.myshopify.com/collections/wine
+ -tastings\n\n---\n🌐 View original event: https://businesshub.southbaldw
+ inchamber.com/calendar/Details/december-wine-tastings-with-winston-at-tack
+ y-jacks-orange-beach-1902220
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20261211T180000
+DTEND;TZID=America/Chicago:20261211T200000
+DTSTAMP:20260825T082846Z
+UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
+ 229@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing \n\nDecember 11\, 2026 - 6 pm - 8
+  pm\n\nSouth Africa Selections\n\nSettle into our relaxed outdoor waterfro
+ nt seating\, where stunning views set the perfect backdrop for your tastin
+ g experience. Please be prepared for outdoor weather and dress accordingly
+ . 21 and up. Enjoy responsibly.\n\n📍 Location: Tacky Jacks Gulf Shores
+ \n💲 Reservation: $5 per person (applied to tasting cost of $45)\n🔔 R
+ SVP Required | Limited Seating\n💡 Refunds available with 24-hour notice
+ \n\nCome uncork something new this season—reserve your spot today!\n\nht
+ tps://tacky-jacks.myshopify.com/collections/wine-tastings?page=1\n\n---\n
+ 🌐 View original event: https://businesshub.southbaldwinchamber.com/cale
+ ndar/Details/december-wine-tastings-with-winston-at-tacky-jacks-gulf-shore
+ s-1902229
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -751,10 +982,136 @@ LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20270105T180000
+DTEND;TZID=America/Chicago:20270105T200000
+DTSTAMP:20260825T082846Z
+UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
+ 221@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nJanuary 5\, 2027 - 6pm - 8pm\n\nCoastal
+  California Selections\n\nEnjoy four incredible wines\, each expertly pair
+ ed with a small plate\, coming together for one unforgettable meal. It’s
+  a guided flavor adventure as we travel the globe through bold pours and e
+ pic bites.\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, s
+ avor\, and learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectl
+ y paired wines and appetizers while discovering the flavor profiles\, orig
+ ins\, and unique stories behind each selection.\n\nSettle into our relaxed
+  outdoor waterfront seating\, where stunning views set the perfect backdro
+ p for your tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Locat
+ ion: Tacky Jacks Orange Beach\n💲 Reservation: $5 per person (applied to
+  tasting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds 
+ available with 24-hour notice\n\nCome uncork something new this season—r
+ eserve your spot today!\n\nhttps://tacky-jacks.myshopify.com/collections/w
+ ine-tastings\n\n---\n🌐 View original event: https://businesshub.southba
+ ldwinchamber.com/calendar/Details/january-wine-tastings-with-winston-at-ta
+ cky-jacks-orange-beach-1902221
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20270105T180000
+DTEND;TZID=America/Chicago:20270105T200000
+DTSTAMP:20260825T082846Z
+UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
+ 222@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing January 5\, 2027 - 6 pm - 8 pm Co
+ astal California Selections. Settle into our relaxed outdoor waterfront se
+ ating\, where stunning views set the perfect backdrop for your tasting exp
+ erience. Please be prepared for outdoor weather and dress accordingly. 21 
+ and up. Enjoy responsibly. 📍 Location: Tacky Jacks Gulf Shores 💲 Res
+ ervation: $5 per person (applied to tasting cost of $45) 🔔 RSVP Require
+ d | Limited Seating 💡 Refunds available with 24-hour notice Come uncork
+  something new this season—reserve your spot today! https://tacky-jacks.
+ myshopify.com/collections/wine-tastings\n\n---\n🌐 View original event: 
+ https://businesshub.southbaldwinchamber.com/calendar/Details/january-wine-
+ tastings-with-winston-at-tacky-jacks-orange-beach-1902222
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:January Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20270108T180000
+DTEND;TZID=America/Chicago:20270108T200000
+DTSTAMP:20260825T082846Z
+UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
+ 30@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing \n\nJanuary 8\, 2027 - 6 pm - 8 p
+ m\n\nCoastal California Selections\n\nSettle into our relaxed outdoor wate
+ rfront seating\, where stunning views set the perfect backdrop for your ta
+ sting experience. Please be prepared for outdoor weather and dress accordi
+ ngly. 21 and up. Enjoy responsibly.\n\n📍 Location: Tacky Jacks Gulf Sho
+ res\n💲 Reservation: $5 per person (applied to tasting cost of $45)\n
+ 🔔 RSVP Required | Limited Seating\n💡 Refunds available with 24-hour 
+ notice\n\nCome uncork something new this season—reserve your spot today!
+ \n\nhttps://tacky-jacks.myshopify.com/collections/wine-tastings?page=1\n\n
+ ---\n🌐 View original event: https://businesshub.southbaldwinchamber.com
+ /calendar/Details/january-wine-tastings-with-winston-at-tacky-jacks-gulf-s
+ hores-1902230
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Wine Tastings with Winston at Tacky Jacks Orange Beach
+DTSTART;TZID=America/Chicago:20270202T180000
+DTEND;TZID=America/Chicago:20270202T200000
+DTSTAMP:20260825T082846Z
+UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
+ 2223@southbaldwinchamber.com
+DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
+ acky Jacks Wine Tastings with Winston at Tacky Jacks Orange Beach\, Hosted
+  by Alabama Crown Distributing \n\nFebruary 2\, 2027 - 6pm - 8pm\n\nIberia
+ n Coast Selections\n\nEnjoy four incredible wines\, each expertly paired w
+ ith a small plate\, coming together for one unforgettable meal. It’s a g
+ uided flavor adventure as we travel the globe through bold pours and epic 
+ bites.\n\n\n$45 per person | Seating Limited\nRSVP Required\n\nSip\, savor
+ \, and learn at Tacky Jacks Wine Tastings with Winston! Enjoy perfectly pa
+ ired wines and appetizers while discovering the flavor profiles\, origins
+ \, and unique stories behind each selection.\n\nSettle into our relaxed ou
+ tdoor waterfront seating\, where stunning views set the perfect backdrop f
+ or your tasting experience. 21 and up. Enjoy responsibly.\n\n📍 Location
+ : Tacky Jacks Orange Beach\n💲 Reservation: $5 per person (applied to ta
+ sting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡 Refunds ava
+ ilable with 24-hour notice\n\nCome uncork something new this season—rese
+ rve your spot today!\n\nhttps://tacky-jacks.myshopify.com/collections/wine
+ -tastings\n\n---\n🌐 View original event: https://businesshub.southbaldw
+ inchamber.com/calendar/Details/february-wine-tastings-with-winston-at-tack
+ y-jacks-orange-beach-1902223
+LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
+ nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Wine Tastings with Winston at Tacky Jacks Gulf Shores
+DTSTART;TZID=America/Chicago:20270205T180000
+DTEND;TZID=America/Chicago:20270205T200000
+DTSTAMP:20260825T082846Z
+UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
+ 231@southbaldwinchamber.com
+DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
+ n\, Hosted by Alabama Crown Distributing \n\nFebruary 5\, 2027 - 6 pm - 8 
+ pm\n\nIberian Coast Selections\n\nSettle into our relaxed outdoor waterfro
+ nt seating\, where stunning views set the perfect backdrop for your tastin
+ g experience. Please be prepared for outdoor weather and dress accordingly
+ . 21 and up. Enjoy responsibly.\n\n📍 Location: Tacky Jacks Gulf Shores
+ \n💲 Reservation: $5 per person (applied to tasting cost of $45)\n🔔 R
+ SVP Required | Limited Seating\n💡 Refunds available with 24-hour notice
+ \n\nCome uncork something new this season—reserve your spot today!\n\nht
+ tps://tacky-jacks.myshopify.com/collections/wine-tastings?page=1\n\n---\n
+ 🌐 View original event: https://businesshub.southbaldwinchamber.com/cale
+ ndar/Details/february-wine-tastings-with-winston-at-tacky-jacks-gulf-shore
+ s-1902231
+LOCATION:Address\, 240 E 24th Ave\, Gulf Shores\,\, AL\, 36542-3146\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foley Library Grand Opening
 DTSTART;TZID=America/Chicago:20260804T103000
 DTEND;TZID=America/Chicago:20260804T170000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-foley-library-grand-opening-1879119@southbaldwinchamber.com
 DESCRIPTION:Description\nGrand Opening Celebration!\nJoin us on Tuesday\, 
  August 4\, 2026\, from 10:30 AM–5:00 PM as we celebrate the opening of t
@@ -777,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260806T170000
 DTEND;TZID=America/Chicago:20260806T230000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1757825@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -810,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:Oil Painting Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260807T130000
 DTEND;TZID=America/Chicago:20260807T143000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-oil-painting-sip-paint-art-class-1875448@southbaldwinchamber.com
 DESCRIPTION:Description\nBring a friend & join us! Cost of class is per pe
  rson and is all-inclusive. The price includes supplies\, instructions\, sn
@@ -827,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260807T170000
 DTEND;TZID=America/Chicago:20260807T230000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758443@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -860,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260808T170000
 DTEND;TZID=America/Chicago:20260808T230000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758444@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -893,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:Jeff Allen: My First “Final” Farewell Tour
 DTSTART;TZID=America/Chicago:20260809T180000
 DTEND;TZID=America/Chicago:20260809T200000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-jeff-allen-my-first-final-farewell-tour-1869581@southbaldwinchamber
  .com
 DESCRIPTION:Description\nOne of America's favorite comedians is coming to 
@@ -913,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:Executive AI Roundtable
 DTSTART;TZID=America/Chicago:20260811T090000
 DTEND;TZID=America/Chicago:20260811T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-executive-ai-roundtable-1888509@southbaldwinchamber.com
 DESCRIPTION:Description\nBetter Systems. Better Operations.\nMost business
   owners don't have a people problem\, a technology problem\, or even an AI
@@ -935,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Senior Resources Fair
 DTSTART;TZID=America/Chicago:20260811T090000
 DTEND;TZID=America/Chicago:20260811T130000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-senior-resources-fair-1889625@southbaldwinchamber.com
 DESCRIPTION:Description\nDiscover valuable community resources designed to
   help seniors age in place safely and confidently. Connect with local heal
@@ -952,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:LAYP Presents Money Marketing Mindset Seminar
 DTSTART;TZID=America/Chicago:20260811T173000
 DTEND;TZID=America/Chicago:20260811T200000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-layp-presents-money-marketing-mindset-seminar-1872221@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nJoin us for the Money Marketing Mindset Seminar! 
@@ -978,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:Sunflower Watercolor Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260814T130000
 DTEND;TZID=America/Chicago:20260814T140000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-sunflower-watercolor-sip-paint-art-class-1875461@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nFriday August 14th\, 1pm. - $35 per person. Sunfl
@@ -997,7 +1354,7 @@ BEGIN:VEVENT
 SUMMARY:White Tie Rock Ensemble Presents: A Night of Southern Rock Legends
 DTSTART;TZID=America/Chicago:20260814T190000
 DTEND;TZID=America/Chicago:20260815T210000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-white-tie-rock-ensemble-presents-a-night-of-southern-rock-legends-1
  878466@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of symphonic
@@ -1018,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 3
 DTSTART;TZID=America/Chicago:20260818T083000
 DTEND;TZID=America/Chicago:20260818T100000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-2026-am-connections-quarter-3-1667320@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -1040,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:L'Ecole No 41 Food & Wine Pairing Dinner
 DTSTART;TZID=America/Chicago:20260819T183000
 DTEND;TZID=America/Chicago:20260819T210000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-l-ecole-no-41-food-wine-pairing-dinner-1874111@southbaldwinchamber.
  com
 DESCRIPTION:Description\nJoin\nLocal and Company\nfor an elegant food and 
@@ -1058,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:The Foundation Paddle Classic
 DTSTART;TZID=America/Chicago:20260822T000000
 DTEND;TZID=America/Chicago:20260822T010000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-the-foundation-paddle-classic-1886372@southbaldwinchamber.com
 DESCRIPTION:Description\nWelcome to the annual\nFoundation Paddle Classic
  \n\, presented by\nVulcan\, Inc.\n\, a premier one-day gender doubles pick
@@ -1090,7 +1447,7 @@ BEGIN:VEVENT
 SUMMARY:Community Safety Day at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20260822T160000
 DTEND;TZID=America/Chicago:20260822T190000
-DTSTAMP:20260824T083455Z
+DTSTAMP:20260825T082846Z
 UID:gz-community-safety-day-at-owa-parks-resort-1763417@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nCommunity Safety Day is coming to Downtown OWA on
