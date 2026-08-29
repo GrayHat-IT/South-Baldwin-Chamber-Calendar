@@ -3,60 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - General Events
 BEGIN:VEVENT
-SUMMARY:40% Steak Sale
-DTSTART;TZID=America/Chicago:20260828T100000
-DTEND;TZID=America/Chicago:20260828T170000
-DTSTAMP:20260828T194356Z
-UID:gz-40-steak-sale-1904807@southbaldwinchamber.com
-DESCRIPTION:Description\n\n---\n🌐 View original event: https://business
- hub.southbaldwinchamber.com/calendar/Details/40-steak-sale-1904807
-LOCATION:Saltgrass Ranch\, LLC\, 16955 Xander Dr\, Summerdale\,\, AL\, 365
- 80\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daphne Sea Turtle Watercolor Sip & Paint Class
-DTSTART;TZID=America/Chicago:20260828T130000
-DTEND;TZID=America/Chicago:20260828T140000
-DTSTAMP:20260828T194356Z
-UID:gz-daphne-sea-turtle-watercolor-sip-paint-class-1875467@southbaldwinch
- amber.com
-DESCRIPTION:Description\nFriday \, August 28th\, 1pm. - $35 per person. Da
- phne Sea Turtle - beginner watercolor class\, Pre-Sketched and Guided with
-  local artist Carol Beamer. Come with a friend and receive a PRIZE!\nClick
-  for ticket\nhttps://www.paypal.com/ncp/payment/MGFKWUAWN6F46\nCost of cla
- ss is per person and is all-inclusive. The price includes supplies\, instr
- uctions\, snacks\, and beverages. 1 Hour Class.\nSeating is limited\, must
-  prepay to reserve spot.\nhttps://thedragonflyemporium.com/\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/daphne-sea-turtle-watercolor-sip-paint-class-1875467
-LOCATION:The Dragonfly Emporium LLC\, 16821 Hwy.181\, Fairhope\,\, AL\, 36
- 532\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MJ: The Illusion
-DTSTART;TZID=America/Chicago:20260828T193000
-DTEND;TZID=America/Chicago:20260828T213000
-DTSTAMP:20260828T194356Z
-UID:gz-mj-the-illusion-1882680@southbaldwinchamber.com
-DESCRIPTION:Description\nHe's back! MJ: The Illusion returns to OWA Theate
- r on August 28th for another unforgettable night celebrating the music and
-  legacy of Michael Jackson.\nStarring acclaimed tribute artist Michael Kni
- ght\, this high-energy production captures the iconic choreography\, signa
- ture style\, and chart-topping hits that made Michael Jackson a global leg
- end. Sing along to favorites like Billie Jean\, Beat It\, Thriller\, and m
- ore as Michael Knight brings the excitement of the King of Pop's greatest 
- performances to the OWA Theater stage.\nDon't miss your chance to celebrat
- e Michael Jackson's birthday with this fan-favorite show returning to Fole
- y! Arrive early to grab drinks and concessions!\n\n---\n🌐 View original
-  event: https://businesshub.southbaldwinchamber.com/calendar/Details/mj-th
- e-illusion-1882680
-LOCATION:OWA Theater
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vegas McGraw: A Tribute to Tim McGraw at OWA Theater
 DTSTART;TZID=America/Chicago:20260829T193000
 DTEND;TZID=America/Chicago:20260829T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-vegas-mcgraw-a-tribute-to-tim-mcgraw-at-owa-theater-1849865@southba
  ldwinchamber.com
 DESCRIPTION:Description\nGet ready for a night of timeless country!\nVegas
@@ -78,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Overdose Drug Awareness Day
 DTSTART;TZID=America/Chicago:20260830T170000
 DTEND;TZID=America/Chicago:20260830T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-overdose-drug-awareness-day-1888662@southbaldwinchamber.com
 DESCRIPTION:Description\nOne Big Family\, Driven by Hope.\nJoin Big Fish M
  inistries this International Overdose Awareness Day in Foley\, Alabama\, a
@@ -108,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Stars Stripes & Summer Nights – A Tribute to the Legends
 DTSTART;TZID=America/Chicago:20260904T160000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-stars-stripes-summer-nights-a-tribute-to-the-legends-1899391@southb
  aldwinchamber.com
 DESCRIPTION:Description\nYour Labor Day weekend encore starts here! Join u
@@ -128,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Pam Tillis
 DTSTART;TZID=America/Chicago:20260904T193000
 DTEND;TZID=America/Chicago:20260904T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-an-evening-with-pam-tillis-1900276@southbaldwinchamber.com
 DESCRIPTION:Description\nA country music favorite is coming to OWA Theater
  ! Join us on September 4th for an evening with Pam Tillis\, the award-winn
@@ -147,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Labor Day Special
 DTSTART;TZID=America/Chicago:20260907T090000
 DTEND;TZID=America/Chicago:20260907T150000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-labor-day-special-1895245@southbaldwinchamber.com
 DESCRIPTION:Description\nLabor Day Special at The Gulf Bowl!\nCelebrate La
  bor Day with a day full of family fun at The Gulf Bowl!\nFor Labor Day onl
@@ -165,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Shorty's Safe Haven PCA Rodeo
 DTSTART;TZID=America/Chicago:20260911T170000
 DTEND;TZID=America/Chicago:20260912T230000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nJoin us for 2 nights of family fun at our 2nd ann
@@ -182,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Walk This Way: 80s 5K & Block Party
 DTSTART;TZID=America/Chicago:20260912T170000
 DTEND;TZID=America/Chicago:20260912T220000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-walk-this-way-80s-5k-block-party-1886398@southbaldwinchamber.com
 DESCRIPTION:Description\nLace Up\, Dress Up & Party Like It’s 1985!\nGet
   ready to grab your neon\, tease your hair\, and break out the leg warmers
@@ -222,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Youth Mental Health First Aid
 DTSTART;TZID=America/Chicago:20260916T083000
 DTEND;TZID=America/Chicago:20260916T163000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-youth-mental-health-first-aid-1905931@southbaldwinchamber.com
 DESCRIPTION:Description\n# Youth Mental Health First Aid Training\n\nThe J
  ennifer Claire Moore Foundation is offering **Youth Mental Health First Ai
@@ -247,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -280,24 +230,25 @@ BEGIN:VEVENT
 SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
 DTSTART;TZID=America/Chicago:20260918T113000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
  53@southbaldwinchamber.com
-DESCRIPTION:Description\nSince 1976\, the South Baldwin Chamber of Commerc
- e has been celebrating the spirit of the Free Enterprise system by awardin
- g the\nWalton M. Vines Free Enterprise Person of the Year\n. This award is
-  presented by\nRiviera Utilities\nand is one of South Baldwin's most covet
- ed awards.\nTo be nominated\, a person must still be active in business af
- fairs\, have a good moral reputation\, be active in civic and community af
- fairs\, and be committed to helping others grow. The winner is honored dur
- ing the Free Enterprise Person of the Year Luncheon at the Foley Civic Cen
- ter\, which is attended by more than one hundred of the area's top busines
- s leaders and community members.\nThe Luncheon features a full catered mea
- l and speeches from the previous year's winner along with the newly honore
- d Person of the Year. You are invited to join us for this prestigious even
- t!\nView Event Webpage\n\n---\n🌐 View original event: https://businessh
- ub.southbaldwinchamber.com/calendar/Details/2026-walton-m-vines-free-enter
- prise-person-of-the-year-summit-1682553
+DESCRIPTION:Description\nLocation: Foley Civic Center\nCatering:\nHalf She
+ ll Oyster House\nSince 1976\, the South Baldwin Chamber of Commerce has be
+ en celebrating the spirit of the Free Enterprise system by awarding the\nW
+ alton M. Vines Free Enterprise Person of the Year\n. This award is present
+ ed by\nRiviera Utilities\nand is one of South Baldwin's most coveted award
+ s.\nTo be nominated\, a person must still be active in business affairs\, 
+ have a good moral reputation\, be active in civic and community affairs\, 
+ and be committed to helping others grow. The winner is honored during the 
+ Free Enterprise Person of the Year Luncheon at the Foley Civic Center\, wh
+ ich is attended by more than one hundred of the area's top business leader
+ s and community members.\nThe Luncheon features a full catered meal and sp
+ eeches from the previous year's winner along with the newly honored Person
+  of the Year. You are invited to join us for this prestigious event!\nView
+  Event Webpage\n\n---\n🌐 View original event: https://businesshub.south
+ baldwinchamber.com/calendar/Details/2026-walton-m-vines-free-enterprise-pe
+ rson-of-the-year-summit-1682553
 LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
@@ -305,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Peyton: The Right Side of Comedy
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-jesse-peyton-the-right-side-of-comedy-1904744@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready for a night of unapologetic laughs as c
@@ -327,7 +278,7 @@ SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
  ater
 DTSTART;TZID=America/Chicago:20260919T193000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
  r-1849795@southbaldwinchamber.com
 DESCRIPTION:Description\nUse Your Illusion: America’s #1 Guns N’ Roses
@@ -348,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston @ Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20260922T180000
 DTEND;TZID=America/Chicago:20260922T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-september-wine-tastings-with-winston-tacky-jacks-orange-beach-19022
  17@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -379,7 +330,7 @@ SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
  a Southern University
 DTSTART;TZID=America/Chicago:20260923T113000
 DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
  e-college-of-space-intelligence-military-operations-at-columbia-southern-u
  niversity-1663672@southbaldwinchamber.com
@@ -412,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-september-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-190
  2225@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -435,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20260925T180000
 DTEND;TZID=America/Chicago:20261031T180000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-primal-fear-2026-1878024@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into Primal Fear\, O
  WA's most terrifying immersive attraction\, where your deepest fears becom
@@ -463,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261001T170000
 DTEND;TZID=America/Chicago:20261126T230000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-all-you-can-play-laser-tag-1895259@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -482,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -511,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Theater Presents: Andrew Conn Live
 DTSTART;TZID=America/Chicago:20261002T193000
 DTEND;TZID=America/Chicago:20261002T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-owa-theater-presents-andrew-conn-live-1901129@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready to laugh! Social media’s biggest Come
@@ -534,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Pirate’s Cove Dog Olympics
 DTSTART;TZID=America/Chicago:20261003T100000
 DTEND;TZID=America/Chicago:20261003T160000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-pirate-s-cove-dog-olympics-1904225@southbaldwinchamber.com
 DESCRIPTION:Description\nDoes your dog have what it takes to become a Pira
  te’s Cove Olympian?\nThe Pirate’s Cove Dog Olympics return Saturday\, 
@@ -555,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Columbus Day Special 🎩
 DTSTART;TZID=America/Chicago:20261012T090000
 DTEND;TZID=America/Chicago:20261012T150000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-columbus-day-special-1896444@southbaldwinchamber.com
 DESCRIPTION:Description\n🎳 COLUMBUS DAY SPECIAL 🎳\nJoin us this Colu
  mbus Day from 9:00 AM – 3:00 PM for an all-day deal you won’t want to 
@@ -572,7 +523,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -603,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261013T180000
 DTEND;TZID=America/Chicago:20261013T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  218@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -632,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  27@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -654,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -674,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Blackout Bowling 👻
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261024T010000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-blackout-bowling-1895275@southbaldwinchamber.com
 DESCRIPTION:Description\nBLACKOUT BOWLING SPECIAL! 🎳🖤👻\nGet ready
   for a night of spooky fun at The Gulf Bowl! Join us for our Blackout Bowl
@@ -693,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Arts & Crafts Show
 DTSTART;TZID=America/Chicago:20261024T090000
 DTEND;TZID=America/Chicago:20261024T140000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-arts-crafts-show-1886323@southbaldwinchamber.com
 DESCRIPTION:Description\nThe Foley UMC Arts & Crafts Show welcomes crafty 
  vendors from across Baldwin County to come and prepare the community for t
@@ -709,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:Candy Crawl
 DTSTART;TZID=America/Chicago:20261031T140000
 DTEND;TZID=America/Chicago:20261031T170000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-candy-crawl-1907338@southbaldwinchamber.com
 DESCRIPTION:Description\nGet those costumes ready and bring the whole fami
  ly to Downtown OWA for an afternoon of trick-or-treating\, sweet treats\, 
@@ -726,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T083000
 DTEND;TZID=America/Chicago:20261103T100000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -748,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
   energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
@@ -768,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:REHAB at OWA Theater
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T213000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-rehab-at-owa-theater-1876407@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of Southern 
  rock\, hip hop\, and high-energy live music as Rehab takes the stage at OW
@@ -785,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -812,7 +763,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!
@@ -837,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2219@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -867,7 +818,7 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -898,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  228@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -921,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2220@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -950,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  229@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -974,7 +925,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1005,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  221@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1034,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  222@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1056,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270108T180000
 DTEND;TZID=America/Chicago:20270108T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  30@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1079,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2223@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1108,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270205T180000
 DTEND;TZID=America/Chicago:20270205T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  231@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1131,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Foley Library Grand Opening
 DTSTART;TZID=America/Chicago:20260804T103000
 DTEND;TZID=America/Chicago:20260804T170000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-foley-library-grand-opening-1879119@southbaldwinchamber.com
 DESCRIPTION:Description\nGrand Opening Celebration!\nJoin us on Tuesday\, 
  August 4\, 2026\, from 10:30 AM–5:00 PM as we celebrate the opening of t
@@ -1154,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260806T170000
 DTEND;TZID=America/Chicago:20260806T230000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1757825@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1187,7 +1138,7 @@ BEGIN:VEVENT
 SUMMARY:Oil Painting Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260807T130000
 DTEND;TZID=America/Chicago:20260807T143000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-oil-painting-sip-paint-art-class-1875448@southbaldwinchamber.com
 DESCRIPTION:Description\nBring a friend & join us! Cost of class is per pe
  rson and is all-inclusive. The price includes supplies\, instructions\, sn
@@ -1204,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260807T170000
 DTEND;TZID=America/Chicago:20260807T230000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758443@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1237,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:28th Annual JCMF Professional Rodeo
 DTSTART;TZID=America/Chicago:20260808T170000
 DTEND;TZID=America/Chicago:20260808T230000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-28th-annual-jcmf-professional-rodeo-1758444@southbaldwinchamber.com
 DESCRIPTION:Description\nThe 28th Annual JCMF Rodeo is returning to Robert
  sdale!\nGet ready for an unforgettable experience at the 28th Annual Profe
@@ -1270,7 +1221,7 @@ BEGIN:VEVENT
 SUMMARY:Jeff Allen: My First “Final” Farewell Tour
 DTSTART;TZID=America/Chicago:20260809T180000
 DTEND;TZID=America/Chicago:20260809T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-jeff-allen-my-first-final-farewell-tour-1869581@southbaldwinchamber
  .com
 DESCRIPTION:Description\nOne of America's favorite comedians is coming to 
@@ -1290,7 +1241,7 @@ BEGIN:VEVENT
 SUMMARY:Executive AI Roundtable
 DTSTART;TZID=America/Chicago:20260811T090000
 DTEND;TZID=America/Chicago:20260811T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-executive-ai-roundtable-1888509@southbaldwinchamber.com
 DESCRIPTION:Description\nBetter Systems. Better Operations.\nMost business
   owners don't have a people problem\, a technology problem\, or even an AI
@@ -1312,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:Senior Resources Fair
 DTSTART;TZID=America/Chicago:20260811T090000
 DTEND;TZID=America/Chicago:20260811T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-senior-resources-fair-1889625@southbaldwinchamber.com
 DESCRIPTION:Description\nDiscover valuable community resources designed to
   help seniors age in place safely and confidently. Connect with local heal
@@ -1329,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:LAYP Presents Money Marketing Mindset Seminar
 DTSTART;TZID=America/Chicago:20260811T173000
 DTEND;TZID=America/Chicago:20260811T200000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-layp-presents-money-marketing-mindset-seminar-1872221@southbaldwinc
  hamber.com
 DESCRIPTION:Description\nJoin us for the Money Marketing Mindset Seminar! 
@@ -1355,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:Sunflower Watercolor Sip & Paint Art Class
 DTSTART;TZID=America/Chicago:20260814T130000
 DTEND;TZID=America/Chicago:20260814T140000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-sunflower-watercolor-sip-paint-art-class-1875461@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nFriday August 14th\, 1pm. - $35 per person. Sunfl
@@ -1374,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:White Tie Rock Ensemble Presents: A Night of Southern Rock Legends
 DTSTART;TZID=America/Chicago:20260814T190000
 DTEND;TZID=America/Chicago:20260815T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-white-tie-rock-ensemble-presents-a-night-of-southern-rock-legends-1
  878466@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of symphonic
@@ -1395,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 3
 DTSTART;TZID=America/Chicago:20260818T083000
 DTEND;TZID=America/Chicago:20260818T100000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-2026-am-connections-quarter-3-1667320@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -1417,7 +1368,7 @@ BEGIN:VEVENT
 SUMMARY:L'Ecole No 41 Food & Wine Pairing Dinner
 DTSTART;TZID=America/Chicago:20260819T183000
 DTEND;TZID=America/Chicago:20260819T210000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-l-ecole-no-41-food-wine-pairing-dinner-1874111@southbaldwinchamber.
  com
 DESCRIPTION:Description\nJoin\nLocal and Company\nfor an elegant food and 
@@ -1435,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:The Foundation Paddle Classic
 DTSTART;TZID=America/Chicago:20260822T000000
 DTEND;TZID=America/Chicago:20260822T010000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-the-foundation-paddle-classic-1886372@southbaldwinchamber.com
 DESCRIPTION:Description\nWelcome to the annual\nFoundation Paddle Classic
  \n\, presented by\nVulcan\, Inc.\n\, a premier one-day gender doubles pick
@@ -1467,7 +1418,7 @@ BEGIN:VEVENT
 SUMMARY:Community Safety Day at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20260822T160000
 DTEND;TZID=America/Chicago:20260822T190000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-community-safety-day-at-owa-parks-resort-1763417@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nCommunity Safety Day is coming to Downtown OWA on
@@ -1491,7 +1442,7 @@ BEGIN:VEVENT
 SUMMARY:40% Steak Sale
 DTSTART;TZID=America/Chicago:20260825T100000
 DTEND;TZID=America/Chicago:20260825T170000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-40-steak-sale-1904454@southbaldwinchamber.com
 DESCRIPTION:Description\n\n---\n🌐 View original event: https://business
  hub.southbaldwinchamber.com/calendar/Details/40-steak-sale-1904454
@@ -1503,7 +1454,7 @@ SUMMARY:Public Safety Career Fair to Connect Community with Career Opportu
  nities
 DTSTART;TZID=America/Chicago:20260827T090000
 DTEND;TZID=America/Chicago:20260827T140000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-public-safety-career-fair-to-connect-community-with-career-opportun
  ities-1879084@southbaldwinchamber.com
 DESCRIPTION:Description\nBaldwin County 9-1-1 is excited to announce an up
@@ -1537,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:40% Steak Sale
 DTSTART;TZID=America/Chicago:20260827T100000
 DTEND;TZID=America/Chicago:20260827T170000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-40-steak-sale-1904800@southbaldwinchamber.com
 DESCRIPTION:Description\n\n---\n🌐 View original event: https://business
  hub.southbaldwinchamber.com/calendar/Details/40-steak-sale-1904800
@@ -1548,7 +1499,7 @@ BEGIN:VEVENT
 SUMMARY:15 Invaluable Laws of Growth Lunch & Learn
 DTSTART;TZID=America/Chicago:20260827T120000
 DTEND;TZID=America/Chicago:20260827T130000
-DTSTAMP:20260828T194356Z
+DTSTAMP:20260829T132738Z
 UID:gz-15-invaluable-laws-of-growth-lunch-learn-1890878@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nIn John Maxwell's 15 Invaluable Laws of Growth\, 
@@ -1559,5 +1510,55 @@ DESCRIPTION:Description\nIn John Maxwell's 15 Invaluable Laws of Growth\,
   https://businesshub.southbaldwinchamber.com/calendar/Details/15-invaluabl
  e-laws-of-growth-lunch-learn-1890878
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40% Steak Sale
+DTSTART;TZID=America/Chicago:20260828T100000
+DTEND;TZID=America/Chicago:20260828T170000
+DTSTAMP:20260829T132738Z
+UID:gz-40-steak-sale-1904807@southbaldwinchamber.com
+DESCRIPTION:Description\n\n---\n🌐 View original event: https://business
+ hub.southbaldwinchamber.com/calendar/Details/40-steak-sale-1904807
+LOCATION:Saltgrass Ranch\, LLC\, 16955 Xander Dr\, Summerdale\,\, AL\, 365
+ 80\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daphne Sea Turtle Watercolor Sip & Paint Class
+DTSTART;TZID=America/Chicago:20260828T130000
+DTEND;TZID=America/Chicago:20260828T140000
+DTSTAMP:20260829T132738Z
+UID:gz-daphne-sea-turtle-watercolor-sip-paint-class-1875467@southbaldwinch
+ amber.com
+DESCRIPTION:Description\nFriday \, August 28th\, 1pm. - $35 per person. Da
+ phne Sea Turtle - beginner watercolor class\, Pre-Sketched and Guided with
+  local artist Carol Beamer. Come with a friend and receive a PRIZE!\nClick
+  for ticket\nhttps://www.paypal.com/ncp/payment/MGFKWUAWN6F46\nCost of cla
+ ss is per person and is all-inclusive. The price includes supplies\, instr
+ uctions\, snacks\, and beverages. 1 Hour Class.\nSeating is limited\, must
+  prepay to reserve spot.\nhttps://thedragonflyemporium.com/\n\n---\n🌐 V
+ iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
+ etails/daphne-sea-turtle-watercolor-sip-paint-class-1875467
+LOCATION:The Dragonfly Emporium LLC\, 16821 Hwy.181\, Fairhope\,\, AL\, 36
+ 532\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MJ: The Illusion
+DTSTART;TZID=America/Chicago:20260828T193000
+DTEND;TZID=America/Chicago:20260828T213000
+DTSTAMP:20260829T132738Z
+UID:gz-mj-the-illusion-1882680@southbaldwinchamber.com
+DESCRIPTION:Description\nHe's back! MJ: The Illusion returns to OWA Theate
+ r on August 28th for another unforgettable night celebrating the music and
+  legacy of Michael Jackson.\nStarring acclaimed tribute artist Michael Kni
+ ght\, this high-energy production captures the iconic choreography\, signa
+ ture style\, and chart-topping hits that made Michael Jackson a global leg
+ end. Sing along to favorites like Billie Jean\, Beat It\, Thriller\, and m
+ ore as Michael Knight brings the excitement of the King of Pop's greatest 
+ performances to the OWA Theater stage.\nDon't miss your chance to celebrat
+ e Michael Jackson's birthday with this fan-favorite show returning to Fole
+ y! Arrive early to grab drinks and concessions!\n\n---\n🌐 View original
+  event: https://businesshub.southbaldwinchamber.com/calendar/Details/mj-th
+ e-illusion-1882680
+LOCATION:OWA Theater
 END:VEVENT
 END:VCALENDAR
