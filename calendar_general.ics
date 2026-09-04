@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Stars Stripes & Summer Nights – A Tribute to the Legends
 DTSTART;TZID=America/Chicago:20260904T160000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-stars-stripes-summer-nights-a-tribute-to-the-legends-1899391@southb
  aldwinchamber.com
 DESCRIPTION:Description\nYour Labor Day weekend encore starts here! Join u
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Pam Tillis
 DTSTART;TZID=America/Chicago:20260904T193000
 DTEND;TZID=America/Chicago:20260904T213000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-an-evening-with-pam-tillis-1900276@southbaldwinchamber.com
 DESCRIPTION:Description\nA country music favorite is coming to OWA Theater
  ! Join us on September 4th for an evening with Pam Tillis\, the award-winn
@@ -43,10 +43,44 @@ LOCATION:OWA Theater\, 205-A N OWA Boulevard\, Foley\,\, AL\, 36535\, Unit
  ed States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:September ASPCA Rescue Effect Adoption Promotion
+DTSTART;TZID=America/Chicago:20260905T080000
+DTEND;TZID=America/Chicago:20260918T170000
+DTSTAMP:20260904T122004Z
+UID:gz-september-aspca-rescue-effect-adoption-promotion-1915445@southbaldw
+ inchamber.com
+DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
+ ffect.\n\nThe Haven is proud to participate in the ASPCA’s Rescue Effect
+ \, a nationwide campaign helping more shelter pets find loving homes.\n\nT
+ hanks to a $10\,000 grant from the ASPCA\, adoption fees will be completel
+ y waived for eligible dogs and cats ages 6 months and older at The Haven d
+ uring our September Rescue Effect promotional period: September 5–19\, 2
+ 026\nRegular adoption fees of $150 for adult cats and $200 for adult dogs 
+ will be waived during the promotion.\n\n❤️ What stays the same?\nOur a
+ doption application and approval process. Removing the adoption fee remove
+ s one financial barrier—not our commitment to finding the right match be
+ tween pets and families.\n\nEvery adoption changes the life of the pet goi
+ ng home while also creating space\, time and resources to help the next ho
+ meless animal who needs us. That’s the ripple behind The Rescue Effect.
+ \n\nOur goal is to place 51 adult cats and dogs into loving homes during t
+ he August–October campaign\, and your adoption can help us get there!\n
+ \n📅 September 5–19\, 2026\n🐶🐱 Eligible dogs and cats: 6 months 
+ and older\n💙 Adoption fees: WAIVED\n📍 The Haven for Animals\n\nView 
+ our available pets and learn more about The Rescue Effect here: https://ww
+ w.havenforanimals.org/aspca-rescue-effect/\n\nWe encourage prospective ado
+ pters to view available pets and complete the adoption application before 
+ visiting The Haven.\n\nAdopt One. Help Many. That’s The Rescue Effect.\n
+ #TheRescueEffect #HavenForAnimals #AdoptDontShop #PetAdoption\n\n---\n🌐
+  View original event: https://businesshub.southbaldwinchamber.com/calendar
+ /Details/september-aspca-rescue-effect-adoption-promotion-1915445
+LOCATION:The Haven\, 559 S Section Street\, Fairhope\,\, AL\, 36532\, Unit
+ ed States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Game Day on the Green
 DTSTART;TZID=America/Chicago:20260905T110000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-game-day-on-the-green-1910072@southbaldwinchamber.com
 DESCRIPTION:Description\nReady to kick off your weekend with an unbeatable
   blend of football action and family fun? Join us for Gameday on The Green
@@ -62,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Light Up Labor Day
 DTSTART;TZID=America/Chicago:20260906T180000
 DTEND;TZID=America/Chicago:20260906T210000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-light-up-labor-day-1910075@southbaldwinchamber.com
 DESCRIPTION:Description\nCome out for a celebration full of color with DJ 
  Matt. There will be tunes\, games + FIREWORKS! Then\, stick around for the
@@ -76,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Labor Day Special
 DTSTART;TZID=America/Chicago:20260907T090000
 DTEND;TZID=America/Chicago:20260907T150000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-labor-day-special-1895245@southbaldwinchamber.com
 DESCRIPTION:Description\nLabor Day Special at The Gulf Bowl!\nCelebrate La
  bor Day with a day full of family fun at The Gulf Bowl!\nFor Labor Day onl
@@ -94,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Shorty's Safe Haven PCA Rodeo
 DTSTART;TZID=America/Chicago:20260911T170000
 DTEND;TZID=America/Chicago:20260912T230000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nJoin us for 2 nights of family fun at our 2nd ann
@@ -111,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:National Battery Take-Back Day
 DTSTART;TZID=America/Chicago:20260912T070000
 DTEND;TZID=America/Chicago:20260912T120000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-national-battery-take-back-day-1913511@southbaldwinchamber.com
 DESCRIPTION:Description\nBaldwin County residents can safely dispose of ho
  usehold batteries for free during Skip the Bin National Battery Take-Back 
@@ -131,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Walk This Way: 80s 5K & Block Party
 DTSTART;TZID=America/Chicago:20260912T170000
 DTEND;TZID=America/Chicago:20260912T220000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-walk-this-way-80s-5k-block-party-1886398@southbaldwinchamber.com
 DESCRIPTION:Description\nLace Up\, Dress Up & Party Like It’s 1985!\nGet
   ready to grab your neon\, tease your hair\, and break out the leg warmers
@@ -171,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Youth Mental Health First Aid
 DTSTART;TZID=America/Chicago:20260916T083000
 DTEND;TZID=America/Chicago:20260916T163000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-youth-mental-health-first-aid-1905931@southbaldwinchamber.com
 DESCRIPTION:Description\n# Youth Mental Health First Aid Training\n\nThe J
  ennifer Claire Moore Foundation is offering **Youth Mental Health First Ai
@@ -196,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -229,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
 DTSTART;TZID=America/Chicago:20260918T113000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
  53@southbaldwinchamber.com
 DESCRIPTION:Description\nLocation: Foley Civic Center\nCatering:\nHalf She
@@ -255,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Peyton: The Right Side of Comedy
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T210000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-jesse-peyton-the-right-side-of-comedy-1904744@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready for a night of unapologetic laughs as c
@@ -277,7 +311,7 @@ SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
  ater
 DTSTART;TZID=America/Chicago:20260919T193000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
  r-1849795@southbaldwinchamber.com
 DESCRIPTION:Description\nUse Your Illusion: America’s #1 Guns N’ Roses
@@ -298,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston @ Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20260922T180000
 DTEND;TZID=America/Chicago:20260922T210000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-september-wine-tastings-with-winston-tacky-jacks-orange-beach-19022
  17@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -329,7 +363,7 @@ SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
  a Southern University
 DTSTART;TZID=America/Chicago:20260923T113000
 DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
  e-college-of-space-intelligence-military-operations-at-columbia-southern-u
  niversity-1663672@southbaldwinchamber.com
@@ -362,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-september-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-190
  2225@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -385,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20260925T180000
 DTEND;TZID=America/Chicago:20261031T180000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-primal-fear-2026-1878024@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into Primal Fear\, O
  WA's most terrifying immersive attraction\, where your deepest fears becom
@@ -413,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Pumpkins on Parade
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T010000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-pumpkins-on-parade-1912176@southbaldwinchamber.com
 DESCRIPTION:Description\nCelebrate fall in a fun and creative way at Pumpk
  ins on Parade\, Downtown OWA's inaugural pumpkin carving competition! Loca
@@ -434,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261001T170000
 DTEND;TZID=America/Chicago:20261126T230000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-all-you-can-play-laser-tag-1895259@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -450,10 +484,44 @@ LOCATION:The Gulf Bowl & Captain's Choice Seafood Bar\, 2881 S. Juniper St
  .\, Foley\,\, AL\, 36535\, United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Tails of Hope Gala: The Art of Rescue Benefiting The Haven fo
+ r Animals
+DTSTART;TZID=America/Chicago:20261001T180000
+DTEND;TZID=America/Chicago:20261001T213000
+DTSTAMP:20260904T122004Z
+UID:gz-2026-tails-of-hope-gala-the-art-of-rescue-benefiting-the-haven-for-
+ animals-1915564@southbaldwinchamber.com
+DESCRIPTION:Description\nStep into an evening where compassion meets creat
+ ivity at the 2026 Tails of Hope Gala: The Art of Rescue.\nJoin us on Thurs
+ day\, October 1 at 6:00 p.m. at the Daphne Civic Center for an elegant\, a
+ rt gallery–inspired experience—where every rescued animal is a masterp
+ iece and every story is worth celebrating.\nThis signature event brings to
+ gether animal lovers\, community leaders\, and supporters for a night of c
+ onnection and impact. Through curated displays of adoptable pets\, powerfu
+ l rescue stories\, and meaningful giving opportunities\, you’ll experien
+ ce The Haven’s mission in a way that stays with you long after the eveni
+ ng ends.\nSince 2000\, The Haven has been a leader in the no-kill movement
+  in Baldwin County. In 2025 alone\, The Haven helped 804 animals\, celebra
+ ted 412 adoptions\, provided over $63\,000 in medical care\, administered 
+ nearly 1\,900 vaccines\, and performed 473 spay and neuter surgeries—all
+  made possible by the support of this community.\n✨ Event Details:\n📅
+  Thursday\, October 1\, 2026\n⏰ 6:00 PM – 9:30 PM\n📍 Daphne Civic C
+ enter\nEvery ticket\, sponsorship\, and donation helps create a second cha
+ nce for animals in need.\n🎟️ Learn more\, purchase tickets\, or becom
+ e a sponsor: https://bit.ly/TailsofHope2026 Join us for an unforgettable n
+ ight where compassion becomes action—and every life we touch is a work o
+ f art.\n#TailsOfHope #TheArtOfRescue #AdoptFromTheHaven #SavingLives\n\n--
+ -\n🌐 View original event: https://businesshub.southbaldwinchamber.com/c
+ alendar/Details/2026-tails-of-hope-gala-the-art-of-rescue-benefiting-the-h
+ aven-for-animals-1915564
+LOCATION:Daphne Civic Center\, 2603 US Hwy 98\, Daphne\,\, AL\, 36526\, Un
+ ited States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -482,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Theater Presents: Andrew Conn Live
 DTSTART;TZID=America/Chicago:20261002T193000
 DTEND;TZID=America/Chicago:20261002T213000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-owa-theater-presents-andrew-conn-live-1901129@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready to laugh! Social media’s biggest Come
@@ -502,10 +570,44 @@ DESCRIPTION:Description\nGet ready to laugh! Social media’s biggest Come
 LOCATION:OWA theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:October ASPCA Rescue Effect Adoption Promotion at The Haven
+DTSTART;TZID=America/Chicago:20261003T000000
+DTEND;TZID=America/Chicago:20261003T010000
+DTSTAMP:20260904T122004Z
+UID:gz-october-aspca-rescue-effect-adoption-promotion-at-the-haven-1915522
+ @southbaldwinchamber.com
+DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
+ ffect.\nThe Haven is proud to participate in the ASPCA’s Rescue Effect\,
+  a nationwide campaign helping more shelter pets find loving homes.\nThank
+ s to a $10\,000 grant from the ASPCA\, adoption fees will be completely wa
+ ived for eligible dogs and cats ages 6 months and older at The Haven durin
+ g our October Rescue Effect promotional period: October 3–17\, 2026\nReg
+ ular adoption fees of $150 for adult cats and $200 for adult dogs will be 
+ waived during the promotion.\n❤️ What stays the same?\nOur adoption ap
+ plication and approval process. Removing the adoption fee removes one fina
+ ncial barrier—not our commitment to finding the right match between pets
+  and families.\nEvery adoption changes the life of the pet going home whil
+ e also creating space\, time and resources to help the next homeless anima
+ l who needs us. That’s the ripple behind The Rescue Effect.\nOur goal is
+  to place 51 adult cats and dogs into loving homes during the August–Oct
+ ober campaign\, and your adoption can help us get there!\n📅 October 3
+ –17\, 2026\n🐶🐱 Eligible dogs and cats: 6 months and older\n💙 Ad
+ option fees: WAIVED\n📍 The Haven for Animals\nView our available pets a
+ nd learn more about The Rescue Effect here: https://www.havenforanimals.or
+ g/aspca-rescue-effect/\nWe encourage prospective adopters to view availabl
+ e pets and complete the adoption application before visiting The Haven.\nA
+ dopt One. Help Many. That’s The Rescue Effect.\n#TheRescueEffect #HavenF
+ orAnimals #AdoptDontShop #PetAdoption\n\n---\n🌐 View original event: ht
+ tps://businesshub.southbaldwinchamber.com/calendar/Details/october-aspca-r
+ escue-effect-adoption-promotion-at-the-haven-1915522
+LOCATION:The Haven for Animals\, 559 S Section Street\, Fairhope\,\, AL\, 
+ 36532\, United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pirate’s Cove Dog Olympics
 DTSTART;TZID=America/Chicago:20261003T100000
 DTEND;TZID=America/Chicago:20261003T160000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-pirate-s-cove-dog-olympics-1904225@southbaldwinchamber.com
 DESCRIPTION:Description\nDoes your dog have what it takes to become a Pira
  te’s Cove Olympian?\nThe Pirate’s Cove Dog Olympics return Saturday\, 
@@ -526,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:Columbus Day Special 🎩
 DTSTART;TZID=America/Chicago:20261012T090000
 DTEND;TZID=America/Chicago:20261012T150000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-columbus-day-special-1896444@southbaldwinchamber.com
 DESCRIPTION:Description\n🎳 COLUMBUS DAY SPECIAL 🎳\nJoin us this Colu
  mbus Day from 9:00 AM – 3:00 PM for an all-day deal you won’t want to 
@@ -543,7 +645,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -574,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261013T180000
 DTEND;TZID=America/Chicago:20261013T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  218@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -603,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  27@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -625,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -645,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Blackout Bowling 👻
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261024T010000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-blackout-bowling-1895275@southbaldwinchamber.com
 DESCRIPTION:Description\nBLACKOUT BOWLING SPECIAL! 🎳🖤👻\nGet ready
   for a night of spooky fun at The Gulf Bowl! Join us for our Blackout Bowl
@@ -664,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:Arts & Crafts Show
 DTSTART;TZID=America/Chicago:20261024T090000
 DTEND;TZID=America/Chicago:20261024T140000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-arts-crafts-show-1886323@southbaldwinchamber.com
 DESCRIPTION:Description\nThe Foley UMC Arts & Crafts Show welcomes crafty 
  vendors from across Baldwin County to come and prepare the community for t
@@ -680,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:Candy Crawl
 DTSTART;TZID=America/Chicago:20261031T140000
 DTEND;TZID=America/Chicago:20261031T170000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-candy-crawl-1907338@southbaldwinchamber.com
 DESCRIPTION:Description\nGet those costumes ready and bring the whole fami
  ly to Downtown OWA for an afternoon of trick-or-treating\, sweet treats\, 
@@ -697,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T083000
 DTEND;TZID=America/Chicago:20261103T100000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -719,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
   energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
@@ -739,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:REHAB at OWA Theater
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T213000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-rehab-at-owa-theater-1876407@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an unforgettable night of Southern 
  rock\, hip hop\, and high-energy live music as Rehab takes the stage at OW
@@ -756,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -783,7 +885,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!
@@ -808,7 +910,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2219@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -838,30 +940,30 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
  eries\nis one of the South Baldwin Chamber of Commerce’s premier program
  s designed to keep members informed\, engaged\, and connected to the issue
  s shaping our region. Hosted eight times each year\, these luncheons featu
- re respected and influential speakers who bring insight on timely topics i
- mpacting our business community.\nFrom economic development and tourism to
-  local governance and state-level initiatives\, each program delivers rele
- vant\, real-world perspective you can take back to your business or organi
- zation. Just as important\, the Leadership Series provides valuable opport
- unities to build relationships with fellow professionals\, civic leaders\,
-  and key decision-makers from across South Baldwin County.\nAgenda\n11:00 
- AM: Private Workforce & Top Investors' Meeting\n11:30 AM: Buffet Lunch cat
- ered by\nAlabama Coastal Catering\n12:00 PM: Program Begins\nInvesting in 
- the Future\nWe are proud to recognize our Education Enrichment Sponsor\,\n
- Warren Averett\n\, for helping connect today’s students with tomorrow’
- s opportunities.\nCommunity Spotlight — Local Nonprofit Partners\nWe are
-  honored to highlight two organizations making a meaningful impact across 
- Baldwin County:\nUnited Way of Baldwin County\nCrosspoint Baptist Church\n
- \n---\n🌐 View original event: https://businesshub.southbaldwinchamber.c
- om/calendar/Details/2026-leadership-series-featuring-beth-gendler-presiden
- t-ceo-of-gulf-shores-orange-beach-tourism-1663678
+ re respected\, influential speakers who bring insight on timely topics aff
+ ecting our business community.\nFrom economic development and tourism to l
+ ocal governance and state-level initiatives\, each program delivers releva
+ nt\, real-world perspective you can take back to your business or organiza
+ tion. Just as important\, the Leadership Series provides valuable opportun
+ ities to build relationships with fellow professionals\, civic leaders\, a
+ nd key decision-makers from across South Baldwin County.\nAgenda\n11:00 AM
+ : Private Workforce & Top Investors' Meeting\n11:30 AM: Buffet Lunch cater
+ ed by\nAlabama Coastal Catering\n12:00 PM: Program Begins\nInvesting in th
+ e Future\nWe are proud to recognize our Education Enrichment Sponsor\,\nWa
+ rren Averett\n\, for helping connect today’s students with tomorrow’s 
+ opportunities.\nCommunity Spotlight — Local Nonprofit Partners\nWe are h
+ onored to highlight two organizations making a meaningful impact across Ba
+ ldwin County:\nUnited Way of Baldwin County\nCrosspoint Baptist Church\n\n
+ ---\n🌐 View original event: https://businesshub.southbaldwinchamber.com
+ /calendar/Details/2026-leadership-series-featuring-beth-gendler-president-
+ ceo-of-gulf-shores-orange-beach-tourism-1663678
 LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
@@ -869,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  228@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -892,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2220@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -921,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  229@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -945,7 +1047,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -976,7 +1078,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  221@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1005,7 +1107,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  222@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1027,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270108T180000
 DTEND;TZID=America/Chicago:20270108T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  30@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1050,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2223@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1079,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270205T180000
 DTEND;TZID=America/Chicago:20270205T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  231@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1102,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:March Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270302T180000
 DTEND;TZID=America/Chicago:20270302T200000
-DTSTAMP:20260903T121932Z
+DTSTAMP:20260904T122004Z
 UID:gz-march-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190222
  4@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
