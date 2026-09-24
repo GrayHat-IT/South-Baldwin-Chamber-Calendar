@@ -3,45 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - General Events
 BEGIN:VEVENT
-SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
-  of the College of Space\, Intelligence\, & Military Operations at Columbi
- a Southern University
-DTSTART;TZID=America/Chicago:20260923T113000
-DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260923T130617Z
-UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
- e-college-of-space-intelligence-military-operations-at-columbia-southern-u
- niversity-1663672@southbaldwinchamber.com
-DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
- eries\nis one of the South Baldwin Chamber of Commerce’s premier program
- s designed to keep members informed\, engaged\, and connected to the issue
- s shaping our region. Hosted eight times each year\, these luncheons featu
- re respected and influential speakers who bring insight on timely topics i
- mpacting our business community.\nFrom economic development and tourism to
-  local governance and state-level initiatives\, each program delivers rele
- vant\, real-world perspective you can take back to your business or organi
- zation. Just as important\, the Leadership Series provides valuable opport
- unities to build relationships with fellow professionals\, civic leaders\,
-  and key decision-makers from across South Baldwin County.\nAgenda\n11:00 
- AM: Private Workforce & Top Investors' Meeting\n11:30 AM: Buffet Lunch cat
- ered by\nJim ‘N Nick’s Community BBQ\n12:00 PM: Program Begins\nInvest
- ing in the Future\nWe are proud to recognize our Education Enrichment Spon
- sor\,\nWarren Averett\n\, for helping connect today’s students with tomo
- rrow’s opportunities.\nCommunity Spotlight — Local Nonprofit Partners
- \nWe are honored to highlight two organizations making a meaningful impact
-  across Baldwin County:\nBaldwin County Education Coalition\nJohn McClure 
- Snook Family YMCA\n\n---\n🌐 View original event: https://businesshub.so
- uthbaldwinchamber.com/calendar/Details/2026-leadership-series-featuring-dr
- -nathaniel-mike-perry-dean-of-the-college-of-space-intelligence-military-o
- perations-at-columbia-southern-university-1663672
-LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
-  United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-190
  2225@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -64,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20260925T180000
 DTEND;TZID=America/Chicago:20260925T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1878024@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -93,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:LAYP Presents Annual Barks\, Bags\, & Bushwackers Tournament!
 DTSTART;TZID=America/Chicago:20260926T110000
 DTEND;TZID=America/Chicago:20260926T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-layp-presents-annual-barks-bags-bushwackers-tournament-1923254@sout
  hbaldwinchamber.com
 DESCRIPTION:Description\n3\nrd\nAnnual Barks\, Bags & Bushwackers Tourname
@@ -118,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20260926T180000
 DTEND;TZID=America/Chicago:20260926T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921323@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -148,7 +113,7 @@ SUMMARY:Stories on the Wall: A Community Conversation with Muralist Banks
  Compton
 DTSTART;TZID=America/Chicago:20260929T173000
 DTEND;TZID=America/Chicago:20260929T190000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-stories-on-the-wall-a-community-conversation-with-muralist-banks-co
  mpton-1926469@southbaldwinchamber.com
 DESCRIPTION:Description\nFoley Community Library is proud to host Alabama 
@@ -174,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Pumpkins on Parade
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T010000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-pumpkins-on-parade-1912176@southbaldwinchamber.com
 DESCRIPTION:Description\nCelebrate fall in a fun and creative way at Pumpk
  ins on Parade\, Downtown OWA's inaugural pumpkin carving competition! Loca
@@ -195,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261001T170000
 DTEND;TZID=America/Chicago:20261001T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1895259@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -215,7 +180,7 @@ SUMMARY:2026 Tails of Hope Gala: The Art of Rescue Benefiting The Haven fo
  r Animals
 DTSTART;TZID=America/Chicago:20261001T180000
 DTEND;TZID=America/Chicago:20261001T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-tails-of-hope-gala-the-art-of-rescue-benefiting-the-haven-for-
  animals-1915564@southbaldwinchamber.com
 DESCRIPTION:Description\nStep into an evening where compassion meets creat
@@ -248,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Golf FORE! Education
 DTSTART;TZID=America/Chicago:20261002T080000
 DTEND;TZID=America/Chicago:20261002T140000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
 DESCRIPTION:Description\nThe\nSouth Baldwin Chamber Foundation\nis proud t
  o partner with GlenLakes Golf Club to host the\n6th Annual Golf FORE! Educ
@@ -277,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:4th Annual Charity Golf Tournament
 DTSTART;TZID=America/Chicago:20261002T120000
 DTEND;TZID=America/Chicago:20261002T170000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-4th-annual-charity-golf-tournament-1921751@southbaldwinchamber.com
 DESCRIPTION:Description\nSouth Baldwin Republican Women will host its 4th 
  Annual Charity Golf Tournament at Quail Creek Golf Course in Fairhope on O
@@ -300,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261002T180000
 DTEND;TZID=America/Chicago:20261002T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921324@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -329,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Theater Presents: Andrew Conn Live
 DTSTART;TZID=America/Chicago:20261002T193000
 DTEND;TZID=America/Chicago:20261002T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-owa-theater-presents-andrew-conn-live-1901129@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready to laugh! Social media’s biggest Come
@@ -352,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:October ASPCA Rescue Effect Adoption Promotion at The Haven
 DTSTART;TZID=America/Chicago:20261003T000000
 DTEND;TZID=America/Chicago:20261003T010000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-october-aspca-rescue-effect-adoption-promotion-at-the-haven-1915522
  @southbaldwinchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -386,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Pirate’s Cove Dog Olympics
 DTSTART;TZID=America/Chicago:20261003T100000
 DTEND;TZID=America/Chicago:20261003T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-pirate-s-cove-dog-olympics-1904225@southbaldwinchamber.com
 DESCRIPTION:Description\nDoes your dog have what it takes to become a Pira
  te’s Cove Olympian?\nThe Pirate’s Cove Dog Olympics return Saturday\, 
@@ -407,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261003T180000
 DTEND;TZID=America/Chicago:20261003T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921325@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -436,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:The Ultimate Garth Brooks Tribute Featuring Shawn Gerard
 DTSTART;TZID=America/Chicago:20261003T193000
 DTEND;TZID=America/Chicago:20261003T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-the-ultimate-garth-brooks-tribute-featuring-shawn-gerard-1927553@so
  uthbaldwinchamber.com
 DESCRIPTION:Description\nLIVE at OWA Theater! Get ready for a night of Gar
@@ -460,10 +425,25 @@ DESCRIPTION:Description\nLIVE at OWA Theater! Get ready for a night of Gar
 LOCATION:OWA theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blessing of the Animals
+DTSTART;TZID=America/Chicago:20261004T160000
+DTEND;TZID=America/Chicago:20261004T170000
+DTSTAMP:20260924T125917Z
+UID:gz-blessing-of-the-animals-1936267@southbaldwinchamber.com
+DESCRIPTION:Description\nJoin us for our Second Annual Blessing of the Ani
+ mals! Drop by and bring your beloved furry friends to receive a blessing. 
+ You can get your picture made\, make a craft and get a treat for your anim
+ al. If you cannot bring your animal in person\, you can also bring a pictu
+ re to bless!\n\n---\n🌐 View original event: https://businesshub.southba
+ ldwinchamber.com/calendar/Details/blessing-of-the-animals-1936267
+LOCATION:Swift Presbyterian Church\, 23208 Swift Church Road\, Foley\,\, A
+ L\, 36535\, United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Baldwin Health: HEALTHY Women
 DTSTART;TZID=America/Chicago:20261007T113000
 DTEND;TZID=America/Chicago:20261007T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-baldwin-health-healthy-women-1927859@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin Baldwin Health on Oct 7 (11:30-1) for our He
  althy Women luncheon! Enjoy a light meal & a physician panel on community 
@@ -495,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261008T170000
 DTEND;TZID=America/Chicago:20261008T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921333@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -514,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261009T180000
 DTEND;TZID=America/Chicago:20261009T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921326@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -543,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261010T180000
 DTEND;TZID=America/Chicago:20261010T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921327@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -572,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Columbus Day Special 🎩
 DTSTART;TZID=America/Chicago:20261012T090000
 DTEND;TZID=America/Chicago:20261012T150000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-columbus-day-special-1896444@southbaldwinchamber.com
 DESCRIPTION:Description\n🎳 COLUMBUS DAY SPECIAL 🎳\nJoin us this Colu
  mbus Day from 9:00 AM – 3:00 PM for an all-day deal you won’t want to 
@@ -589,7 +569,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T113000
 DTEND;TZID=America/Chicago:20261012T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -609,10 +589,10 @@ DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
  \nWarren Averett\n\, for helping connect today’s students with tomorrow
  ’s opportunities.\nCommunity Spotlight — Local Nonprofit Partners\nWe 
  are honored to highlight two organizations making a meaningful impact acro
- ss Baldwin County:\nNonprofits TBD\n\n---\n🌐 View original event: https
- ://businesshub.southbaldwinchamber.com/calendar/Details/2026-leadership-se
- ries-featuring-todd-stennis-director-of-government-affairs-at-amtrak-17701
- 88
+ ss Baldwin County:\nImpact Gulf Coast\n\n---\n🌐 View original event: ht
+ tps://businesshub.southbaldwinchamber.com/calendar/Details/2026-leadership
+ -series-featuring-todd-stennis-director-of-government-affairs-at-amtrak-17
+ 70188
 LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
   United States
 END:VEVENT
@@ -620,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261013T180000
 DTEND;TZID=America/Chicago:20261013T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  218@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -649,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261015T170000
 DTEND;TZID=America/Chicago:20261015T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921334@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -668,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  27@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -690,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261016T180000
 DTEND;TZID=America/Chicago:20261016T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921328@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -719,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261017T180000
 DTEND;TZID=America/Chicago:20261017T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921329@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -748,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261019T180000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921300@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -777,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:Description\nDevon Gilfillian takes the stage at OWA Theater o
@@ -797,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261020T180000
 DTEND;TZID=America/Chicago:20261020T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921302@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -826,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261021T180000
 DTEND;TZID=America/Chicago:20261021T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921303@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -855,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261022T170000
 DTEND;TZID=America/Chicago:20261022T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921335@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -874,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261022T180000
 DTEND;TZID=America/Chicago:20261022T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921304@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -903,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Blackout Bowling 👻
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261024T010000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-blackout-bowling-1895275@southbaldwinchamber.com
 DESCRIPTION:Description\nBLACKOUT BOWLING SPECIAL! 🎳🖤👻\nGet ready
   for a night of spooky fun at The Gulf Bowl! Join us for our Blackout Bowl
@@ -922,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261023T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921305@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -951,7 +931,7 @@ BEGIN:VEVENT
 SUMMARY:Arts & Crafts Show
 DTSTART;TZID=America/Chicago:20261024T090000
 DTEND;TZID=America/Chicago:20261024T140000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-arts-crafts-show-1886323@southbaldwinchamber.com
 DESCRIPTION:Description\nThe Foley UMC Arts & Crafts Show welcomes crafty 
  vendors from across Baldwin County to come and prepare the community for t
@@ -967,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261024T180000
 DTEND;TZID=America/Chicago:20261024T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921306@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -996,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Big Fish Ministries 10 Year Anniversary Gala Fundraiser
 DTSTART;TZID=America/Chicago:20261024T180000
 DTEND;TZID=America/Chicago:20261024T203000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-big-fish-ministries-10-year-anniversary-gala-fundraiser-1935521@sou
  thbaldwinchamber.com
 DESCRIPTION:Description\nBig Fish Ministries is so excited to invite you t
@@ -1015,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261025T180000
 DTEND;TZID=America/Chicago:20261025T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921307@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1044,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261026T180000
 DTEND;TZID=America/Chicago:20261026T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921308@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1073,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261027T180000
 DTEND;TZID=America/Chicago:20261027T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921309@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1102,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261028T180000
 DTEND;TZID=America/Chicago:20261028T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921310@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1131,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261029T170000
 DTEND;TZID=America/Chicago:20261029T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921336@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -1150,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261029T180000
 DTEND;TZID=America/Chicago:20261029T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921311@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1179,7 +1159,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261030T180000
 DTEND;TZID=America/Chicago:20261030T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921312@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1208,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:Little Creatures' Ball
 DTSTART;TZID=America/Chicago:20261030T180000
 DTEND;TZID=America/Chicago:20261030T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-little-creatures-ball-1921763@southbaldwinchamber.com
 DESCRIPTION:Description\nGet your little creatures dressed in their favori
  te costumes and join us at OWA for an evening filled with Halloween fun\, 
@@ -1224,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:Wag-O-Ween
 DTSTART;TZID=America/Chicago:20261031T110000
 DTEND;TZID=America/Chicago:20261031T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-wag-o-ween-1916066@southbaldwinchamber.com
 DESCRIPTION:Description\nCalling all ghosts\, goblins\, pups\, and pet par
  ents! It's time to get those tails wagging because Wag-O-Ween is coming to
@@ -1242,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:Candy Crawl
 DTSTART;TZID=America/Chicago:20261031T140000
 DTEND;TZID=America/Chicago:20261031T170000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-candy-crawl-1907338@southbaldwinchamber.com
 DESCRIPTION:Description\nGet those costumes ready and bring the whole fami
  ly to Downtown OWA for an afternoon of trick-or-treating\, sweet treats\, 
@@ -1259,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261031T180000
 DTEND;TZID=America/Chicago:20261031T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-primal-fear-2026-1921313@southbaldwinchamber.com
 DESCRIPTION:Description\nThis Halloween season\, step into\nPrimal Fear\n
  \, OWA's most terrifying immersive attraction\, where your deepest fears b
@@ -1288,7 +1268,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T083000
 DTEND;TZID=America/Chicago:20261103T100000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready to jump-start your morning at\nAM Conne
  ctions!\nHosted quarterly\, this fast\, fun\, and high-energy networking e
@@ -1310,7 +1290,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261105T170000
 DTEND;TZID=America/Chicago:20261105T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921337@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -1329,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:Description\nGet ready for an electrifying night of blues-rock
   energy as Jesse Roper takes the stage at OWA Theater!\nKnown for his grit
@@ -1349,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T080000
 DTEND;TZID=America/Chicago:20261107T110000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:Description\nRunners\, walkers\, and those who enjoy the outdo
  ors are sure to have a blast participating in the\nMagnolia Run\n\, presen
@@ -1376,7 +1356,7 @@ SUMMARY:Dedication & Commissioning Ceremony for The Schreiber Water Treatm
  ent Facility
 DTSTART;TZID=America/Chicago:20261110T110000
 DTEND;TZID=America/Chicago:20261110T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-dedication-commissioning-ceremony-for-the-schreiber-water-treatment
  -facility-1933252@southbaldwinchamber.com
 DESCRIPTION:Description\nRiviera Utilities will celebrate a major investme
@@ -1402,7 +1382,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261112T170000
 DTEND;TZID=America/Chicago:20261112T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921338@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -1422,7 +1402,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T080000
 DTEND;TZID=America/Chicago:20261114T140000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:Description\nJ\noin us for the 13th ride of Le Tour de Foley!
@@ -1444,10 +1424,24 @@ LOCATION:Foley Sports Complex\, 1250 Cater Lee Way\, Foley\,\, AL\, 36535
  \, United States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Christmas Market
+DTSTART;TZID=America/Chicago:20261114T090000
+DTEND;TZID=America/Chicago:20261114T140000
+DTSTAMP:20260924T125917Z
+UID:gz-christmas-market-1936272@southbaldwinchamber.com
+DESCRIPTION:Description\nMake plans to attend our 3rd Annual Christmas Mar
+ ket! Shop creative handmade crafts\, unique gifts\, beautiful wreaths\, ba
+ ked goods\, holiday decor and much more!\n\nSanta will be available for pi
+ ctures from 10:00-12:00!\n\n---\n🌐 View original event: https://busines
+ shub.southbaldwinchamber.com/calendar/Details/christmas-market-1936272
+LOCATION:Swift Presbyterian Church\, 23208 Swift Church Road\, Foley\,\, A
+ L\, 36535\, United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2219@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1477,7 +1471,7 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T113000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1508,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921339@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -1527,7 +1521,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  228@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1550,7 +1544,7 @@ BEGIN:VEVENT
 SUMMARY:Turkey Trot for Hope
 DTSTART;TZID=America/Chicago:20261126T080000
 DTEND;TZID=America/Chicago:20261126T100000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-turkey-trot-for-hope-1925961@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us for the area's favorite Thanksgiving Day 
  tradition!\nTurkey Trot for Hope is a certified 5K & “Gobble Wobble” f
@@ -1568,7 +1562,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261126T170000
 DTEND;TZID=America/Chicago:20261126T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-all-you-can-play-laser-tag-1921340@southbaldwinchamber.com
 DESCRIPTION:Description\nALL YOU CAN PLAY LASER TAG! 🔫🎯\nGet ready f
  or unlimited laser tag fun at The Gulf Bowl! Beginning in October and for 
@@ -1587,7 +1581,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2220@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1616,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  229@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1640,7 +1634,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
@@ -1671,7 +1665,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  221@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1700,7 +1694,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  222@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1722,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270108T180000
 DTEND;TZID=America/Chicago:20270108T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  30@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1745,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2223@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1774,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270205T180000
 DTEND;TZID=America/Chicago:20270205T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  231@southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1797,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:March Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270302T180000
 DTEND;TZID=America/Chicago:20270302T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-march-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190222
  4@southbaldwinchamber.com
 DESCRIPTION:Description\n🍷 Wine Tastings with Winston return! 🍷\n\nT
@@ -1826,7 +1820,7 @@ BEGIN:VEVENT
 SUMMARY:March Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270305T180000
 DTEND;TZID=America/Chicago:20270305T200000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-march-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902232
  @southbaldwinchamber.com
 DESCRIPTION:Description\nTacky Jacks Gulf Shores Wine Tastings with Winsto
@@ -1849,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Stars Stripes & Summer Nights – A Tribute to the Legends
 DTSTART;TZID=America/Chicago:20260904T160000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-stars-stripes-summer-nights-a-tribute-to-the-legends-1899391@southb
  aldwinchamber.com
 DESCRIPTION:Description\nYour Labor Day weekend encore starts here! Join u
@@ -1870,7 +1864,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Pam Tillis
 DTSTART;TZID=America/Chicago:20260904T193000
 DTEND;TZID=America/Chicago:20260904T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-an-evening-with-pam-tillis-1900276@southbaldwinchamber.com
 DESCRIPTION:Description\nA country music favorite is coming to OWA Theater
  ! Join us on September 4th for an evening with Pam Tillis\, the award-winn
@@ -1889,7 +1883,7 @@ BEGIN:VEVENT
 SUMMARY:Game Day on the Green
 DTSTART;TZID=America/Chicago:20260905T110000
 DTEND;TZID=America/Chicago:20260905T220000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-game-day-on-the-green-1910072@southbaldwinchamber.com
 DESCRIPTION:Description\nReady to kick off your weekend with an unbeatable
   blend of football action and family fun? Join us for Gameday on The Green
@@ -1905,7 +1899,7 @@ BEGIN:VEVENT
 SUMMARY:Light Up Labor Day
 DTSTART;TZID=America/Chicago:20260906T180000
 DTEND;TZID=America/Chicago:20260906T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-light-up-labor-day-1910075@southbaldwinchamber.com
 DESCRIPTION:Description\nCome out for a celebration full of color with DJ 
  Matt. There will be tunes\, games + FIREWORKS! Then\, stick around for the
@@ -1919,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Labor Day Special
 DTSTART;TZID=America/Chicago:20260907T090000
 DTEND;TZID=America/Chicago:20260907T150000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-labor-day-special-1895245@southbaldwinchamber.com
 DESCRIPTION:Description\nLabor Day Special at The Gulf Bowl!\nCelebrate La
  bor Day with a day full of family fun at The Gulf Bowl!\nFor Labor Day onl
@@ -1937,7 +1931,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260908T100000
 DTEND;TZID=America/Chicago:20260908T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1915445@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -1970,7 +1964,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260908T100000
 DTEND;TZID=America/Chicago:20260908T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917303@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2003,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:Mary Kay Booth at the Fall Festival & Market!
 DTSTART;TZID=America/Chicago:20260909T080000
 DTEND;TZID=America/Chicago:20260909T170000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-mary-kay-booth-at-the-fall-festival-market-1920173@southbaldwincham
  ber.com
 DESCRIPTION:Description\nHello\, I will be having a Mary Kay booth at the 
@@ -2019,7 +2013,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260910T100000
 DTEND;TZID=America/Chicago:20260910T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917304@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2052,7 +2046,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260911T100000
 DTEND;TZID=America/Chicago:20260911T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917305@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2085,7 +2079,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Shorty's Safe Haven PCA Rodeo
 DTSTART;TZID=America/Chicago:20260911T170000
 DTEND;TZID=America/Chicago:20260912T230000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540@southbaldwinchambe
  r.com
 DESCRIPTION:Description\nJoin us for 2 nights of family fun at our 2nd ann
@@ -2102,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:National Battery Take-Back Day
 DTSTART;TZID=America/Chicago:20260912T070000
 DTEND;TZID=America/Chicago:20260912T120000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-national-battery-take-back-day-1913511@southbaldwinchamber.com
 DESCRIPTION:Description\nBaldwin County residents can safely dispose of ho
  usehold batteries for free during Skip the Bin National Battery Take-Back 
@@ -2122,7 +2116,7 @@ BEGIN:VEVENT
 SUMMARY:Walk This Way: 80s 5K & Block Party
 DTSTART;TZID=America/Chicago:20260912T170000
 DTEND;TZID=America/Chicago:20260912T220000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-walk-this-way-80s-5k-block-party-1886398@southbaldwinchamber.com
 DESCRIPTION:Description\nLace Up\, Dress Up & Party Like It’s 1985!\nGet
   ready to grab your neon\, tease your hair\, and break out the leg warmers
@@ -2162,7 +2156,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260914T100000
 DTEND;TZID=America/Chicago:20260914T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917306@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2195,7 +2189,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260915T100000
 DTEND;TZID=America/Chicago:20260915T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917307@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2228,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:Youth Mental Health First Aid
 DTSTART;TZID=America/Chicago:20260916T083000
 DTEND;TZID=America/Chicago:20260916T163000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-youth-mental-health-first-aid-1905931@southbaldwinchamber.com
 DESCRIPTION:Description\n# Youth Mental Health First Aid Training\n\nThe J
  ennifer Claire Moore Foundation is offering **Youth Mental Health First Ai
@@ -2253,7 +2247,7 @@ BEGIN:VEVENT
 SUMMARY:MT Jones at OWA Theater
 DTSTART;TZID=America/Chicago:20260916T190000
 DTEND;TZID=America/Chicago:20260916T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
 DESCRIPTION:Description\nCatch UK soul artist MT Jones live at OWA Theater
   on September 16\, 2026!\nWhile in town for Americana Fest 2026\, MT Jones
@@ -2286,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260917T100000
 DTEND;TZID=America/Chicago:20260917T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917308@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2319,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Dinner
 DTSTART;TZID=America/Chicago:20260917T173000
 DTEND;TZID=America/Chicago:20260917T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-wine-dinner-1928904@southbaldwinchamber.com
 DESCRIPTION:Description\nJoin us for an exclusive evening of exceptional w
  ine pairings\, thoughtfully crafted cuisine\, and elevated company. Indulg
@@ -2336,7 +2330,7 @@ BEGIN:VEVENT
 SUMMARY:September ASPCA Rescue Effect Adoption Promotion
 DTSTART;TZID=America/Chicago:20260918T100000
 DTEND;TZID=America/Chicago:20260918T160000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-aspca-rescue-effect-adoption-promotion-1917309@southbaldw
  inchamber.com
 DESCRIPTION:Description\n🐾 Adopt One\, Help Many. That’s The Rescue E
@@ -2369,7 +2363,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
 DTSTART;TZID=America/Chicago:20260918T113000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
  53@southbaldwinchamber.com
 DESCRIPTION:Description\nLocation: Foley Civic Center\nCatering:\nHalf She
@@ -2395,7 +2389,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Peyton: The Right Side of Comedy
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-jesse-peyton-the-right-side-of-comedy-1904744@southbaldwinchamber.c
  om
 DESCRIPTION:Description\nGet ready for a night of unapologetic laughs as c
@@ -2416,7 +2410,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates\, Pastries & Prosecco on the Patio
 DTSTART;TZID=America/Chicago:20260919T090000
 DTEND;TZID=America/Chicago:20260919T120000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-pilates-pastries-prosecco-on-the-patio-1928915@southbaldwinchamber.
  com
 DESCRIPTION:Description\nJoin Us!\nSaturday\, September 19th at 9:00 a.m. 
@@ -2434,7 +2428,7 @@ SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
  ater
 DTSTART;TZID=America/Chicago:20260919T193000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
  r-1849795@southbaldwinchamber.com
 DESCRIPTION:Description\nUse Your Illusion: America’s #1 Guns N’ Roses
@@ -2455,7 +2449,7 @@ BEGIN:VEVENT
 SUMMARY:Daystar Church LAUNCH PARTY
 DTSTART;TZID=America/Chicago:20260920T090000
 DTEND;TZID=America/Chicago:20260920T130000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-daystar-church-launch-party-1930057@southbaldwinchamber.com
 DESCRIPTION:Description\nDaystar Church invites the South Baldwin communit
  y to celebrate the official launch of its Foley Campus on Sunday\, Septemb
@@ -2472,7 +2466,7 @@ BEGIN:VEVENT
 SUMMARY:September Wine Tastings with Winston @ Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20260922T180000
 DTEND;TZID=America/Chicago:20260922T210000
-DTSTAMP:20260923T130617Z
+DTSTAMP:20260924T125917Z
 UID:gz-september-wine-tastings-with-winston-tacky-jacks-orange-beach-19022
  17@southbaldwinchamber.com
 DESCRIPTION:Description\nWine Tastings with Winston Returns\n🍷 Tacky Ja
@@ -2495,5 +2489,40 @@ DESCRIPTION:Description\nWine Tastings with Winston Returns\n🍷 Tacky Ja
  /september-wine-tastings-with-winston-tacky-jacks-orange-beach-1902217
 LOCATION:Address\, 27206 Safe Harbor Dr.\, Orange Beach\,\, AL\, 36561\, U
  nited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
+  of the College of Space\, Intelligence\, & Military Operations at Columbi
+ a Southern University
+DTSTART;TZID=America/Chicago:20260923T113000
+DTEND;TZID=America/Chicago:20260923T130000
+DTSTAMP:20260924T125917Z
+UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
+ e-college-of-space-intelligence-military-operations-at-columbia-southern-u
+ niversity-1663672@southbaldwinchamber.com
+DESCRIPTION:Description\nPresented by\nVulcan\, Inc.\n\, the\nLeadership S
+ eries\nis one of the South Baldwin Chamber of Commerce’s premier program
+ s designed to keep members informed\, engaged\, and connected to the issue
+ s shaping our region. Hosted eight times each year\, these luncheons featu
+ re respected and influential speakers who bring insight on timely topics i
+ mpacting our business community.\nFrom economic development and tourism to
+  local governance and state-level initiatives\, each program delivers rele
+ vant\, real-world perspective you can take back to your business or organi
+ zation. Just as important\, the Leadership Series provides valuable opport
+ unities to build relationships with fellow professionals\, civic leaders\,
+  and key decision-makers from across South Baldwin County.\nAgenda\n11:00 
+ AM: Private Workforce & Top Investors' Meeting\n11:30 AM: Buffet Lunch cat
+ ered by\nJim ‘N Nick’s Community BBQ\n12:00 PM: Program Begins\nInvest
+ ing in the Future\nWe are proud to recognize our Education Enrichment Spon
+ sor\,\nWarren Averett\n\, for helping connect today’s students with tomo
+ rrow’s opportunities.\nCommunity Spotlight — Local Nonprofit Partners
+ \nWe are honored to highlight two organizations making a meaningful impact
+  across Baldwin County:\nBaldwin County Education Coalition\nJohn McClure 
+ Snook Family YMCA\n\n---\n🌐 View original event: https://businesshub.so
+ uthbaldwinchamber.com/calendar/Details/2026-leadership-series-featuring-dr
+ -nathaniel-mike-perry-dean-of-the-college-of-space-intelligence-military-o
+ perations-at-columbia-southern-university-1663672
+LOCATION:Foley Civic Center\, 407 E Laurel Avenue\, Foley\,\, AL\, 36535\,
+  United States
 END:VEVENT
 END:VCALENDAR
