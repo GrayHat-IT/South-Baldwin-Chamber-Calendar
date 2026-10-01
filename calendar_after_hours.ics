@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Fairfield Inn & Suites Foley
 DTSTART;TZID=America/Chicago:20261022T000000
 DTEND;TZID=America/Chicago:20261023T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-business-after-hours-at-fairfield-inn-suites-foley-1663897@sou
  thbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Alabama Credit Union
 DTSTART;TZID=America/Chicago:20261119T000000
 DTEND;TZID=America/Chicago:20261120T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-business-after-hours-at-alabama-credit-union-1663903@southbald
  winchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20261210T000000
 DTEND;TZID=America/Chicago:20261211T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-business-after-hours-at-owa-parks-resort-1663912@southbaldwinc
  hamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -149,53 +149,5 @@ DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  r.com/calendar/Details/2026-business-after-hours-at-owa-parks-resort-16639
  12
 LOCATION:OWA Parks & Resort 1501 S OWA Boulevard\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Business After Hours at Riviera Utilities
-DTSTART;TZID=America/Chicago:20260924T000000
-DTEND;TZID=America/Chicago:20260925T000000
-DTSTAMP:20260930T142252Z
-UID:gz-2026-business-after-hours-at-riviera-utilities-1663891@southbaldwin
- chamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v17720
- 40219/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c8c964eec2a04f13b83a98d
- 803b5cd73/BAH-SEP-2026.png" width="791" height="445" fr-original-style="" 
- fr-original-class="fr-draggable" style="position: relative\; max-width: 10
- 0%\; cursor: pointer\; padding: 0px 1px\;" /><br /></p><p>Give your busine
- ss a boost by attending Business After Hours and network with your fellow 
- Chamber members and business owners. Chamber members most often do busines
- s with other chamber members\, so bring a stack of your business cards and
-  get ready to talk shop in the laid-back atmosphere that Business After Ho
- urs provides. Of course\, there will be plenty of socializing and great fo
- od\, too.<br style="color: rgb(51\, 51\, 51)\; font-family: sans-serif\, A
- rial\, Verdana\, &quot\;Trebuchet MS&quot\;\; font-size: 13px\; font-style
- : normal\; font-variant-ligatures: normal\; font-variant-caps: normal\; fo
- nt-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start\;
-  text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px\;
-  -webkit-text-stroke-width: 0px\; white-space: normal\; background-color: 
- rgb(255\, 255\, 255)\; text-decoration-thickness: initial\; text-decoratio
- n-style: initial\; text-decoration-color: initial\;" /><br style="color: r
- gb(51\, 51\, 51)\; font-family: sans-serif\, Arial\, Verdana\, &quot\;Treb
- uchet MS&quot\;\; font-size: 13px\; font-style: normal\; font-variant-liga
- tures: normal\; font-variant-caps: normal\; font-weight: 400\; letter-spac
- ing: normal\; orphans: 2\; text-align: start\; text-indent: 0px\; text-tra
- nsform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-stroke-width: 
- 0px\; white-space: normal\; background-color: rgb(255\, 255\, 255)\; text-
- decoration-thickness: initial\; text-decoration-style: initial\; text-deco
- ration-color: initial\;" />Not only is Business After Hours a great way to
-  make new contacts and build your referral list\, but you will also likely
-  find a service provider there that you have been looking for\, as well. S
- outh Baldwin Chamber events are mutually beneficial and prove to be an exc
- ellent way to build relationships with others in our business community.</
- p><p><strong fr-original-style="" style="font-weight: 700\;"><em>No regist
- ration required!</em></strong></p><p><strong fr-original-style="" style="f
- ont-weight: 700\;"><em><strong fr-original-style="" style="font-weight: 70
- 0\;"><em>*Members Only Event*</em></strong></em></strong></p></body></html
- >\n\n---\n🌐 View original event: https://businesshub.southbaldwinchambe
- r.com/calendar/Details/2026-business-after-hours-at-riviera-utilities-1663
- 891
-LOCATION:Riviera Utilities 413 E Laurel Avenue\, Foley\, AL
 END:VEVENT
 END:VCALENDAR

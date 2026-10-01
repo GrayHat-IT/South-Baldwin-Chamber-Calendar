@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Pumpkins on Parade
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261002T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-pumpkins-on-parade-1912176@southbaldwinchamber.com
 DESCRIPTION:Celebrate fall in a fun and creative way at Pumpkins on Parade
  \, Downtown OWA's inaugural pumpkin carving competition! Local businesses 
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261002T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1895259@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><h4>ALL YOU CAN PLAY LASER TAG! 🔫🎯
@@ -52,7 +52,7 @@ SUMMARY:2026 Tails of Hope Gala: The Art of Rescue Benefiting The Haven fo
  r Animals
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261002T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-tails-of-hope-gala-the-art-of-rescue-benefiting-the-haven-for-
  animals-1915564@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -95,59 +95,10 @@ DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
 LOCATION:Daphne Civic Center 2603 US Hwy 98\, Daphne\, AL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026 Golf FORE! Education
-DTSTART;TZID=America/Chicago:20261002T000000
-DTEND;TZID=America/Chicago:20261002T000000
-DTSTAMP:20260930T142252Z
-UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p><a fr-original-style="" href="https://www.sbchamberfound
- ation.org/golf-fore-education" style="user-select: auto\;"><img src="https
- ://res.cloudinary.com/micronetonline/image/upload/q_auto\,f_auto\,c_limit
- \,w_1920\,h_1080/v1773851193/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/
- 4e24cc18c6c44e94950fc18ad8a9b745/Golf-FORE-Edu-FB-Header-2.png" width="805
- " height="453" fr-original-style="" fr-original-class="fr-draggable" style
- ="position: relative\; max-width: 100%\; cursor: pointer\; padding: 0px 1p
- x\;" /></a></p><p>The <a fr-original-style="" href="https://www.sbchamberf
- oundation.org/" style="user-select: auto\;"><strong fr-original-style="" s
- tyle="font-weight: 700\;">South Baldwin Chamber Foundation</strong></a> is
-  proud to partner with GlenLakes Golf Club to host the <a fr-original-styl
- e="" href="https://www.sbchamberfoundation.org/golf-fore-education" style=
- "user-select: auto\;"><strong fr-original-style="" style="font-weight: 700
- \;">6th Annual Golf FORE! Education Tournament</strong></a> on October 2\,
-  2026\, presented by <a fr-original-style="" href="https://www.baldwinemc.
- com/" style="user-select: auto\;"><strong fr-original-style="" style="font
- -weight: 700\;">Baldwin EMC</strong></a>!</p><p>The day will begin with a 
- grab-and-go breakfast at The Pub at GlenLakes\, followed by an 8 AM shotgu
- n start.</p><p>This year&rsquo\;s tournament will be played as a <strong f
- r-original-style="" style="font-weight: 700\;">four-man scramble</strong>.
-  Players will enjoy contests and games along the course\, plus a silent au
- ction before and after the tournament.</p><p>A<strong fr-original-style=""
-  style="font-weight: 700\;"> four-person team entry is $600</strong> inclu
- des breakfast\, lunch\, and 2 drinks per player. Lunch will be served foll
- owing the tournament.&nbsp\;</p><p><strong fr-original-style="" style="fon
- t-weight: 700\;">Sponsorship Opportunities:</strong> We are currently look
- ing for like-minded businesses to partner with us in sponsorship for the G
- olf FORE! Education Golf Tournament. Sponsorship levels and participation 
- range from a $1\,500 award sponsor to a $150 tee sign. <em>Additionally\, 
- we are accepting donations of items for a silent auction.</em></p><p><stro
- ng fr-original-style="" style="font-weight: 700\;">About the Foundation:</
- strong> The <a fr-original-style="" href="https://www.sbchamberfoundation.
- org/" style="user-select: auto\;"><strong fr-original-style="" style="font
- -weight: 700\;">South Baldwin Chamber Foundation</strong></a> supports 11 
- public schools in the Foley and Elberta feeder patterns\, along with three
-  private schools in South Baldwin County. Our mission is to enhance lives 
- through programs and partnerships that enrich education\, develop leadersh
- ip\, and better our community.</p><p><br /></p></body></html>\n\n---\n🌐
-  View original event: https://businesshub.southbaldwinchamber.com/calendar
- /Details/2026-golf-fore-education-1683374
-LOCATION:GlenLakes Golf Club 9530 Clubhouse Dr.\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4th Annual Charity Golf Tournament
 DTSTART;TZID=America/Chicago:20261002T000000
 DTEND;TZID=America/Chicago:20261002T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-4th-annual-charity-golf-tournament-1921751@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>South Baldwin Republican Women will h
@@ -174,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261002T000000
 DTEND;TZID=America/Chicago:20261003T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921324@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -207,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:OWA Theater Presents: Andrew Conn Live
 DTSTART;TZID=America/Chicago:20261003T000000
 DTEND;TZID=America/Chicago:20261003T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-owa-theater-presents-andrew-conn-live-1901129@southbaldwinchamber.c
  om
 DESCRIPTION:Get ready to laugh! Social media’s biggest Comedian Andrew C
@@ -230,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:October ASPCA Rescue Effect Adoption Promotion at The Haven
 DTSTART;TZID=America/Chicago:20261003T000000
 DTEND;TZID=America/Chicago:20261004T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-october-aspca-rescue-effect-adoption-promotion-at-the-haven-1915522
  @southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -277,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Pirate’s Cove Dog Olympics
 DTSTART;TZID=America/Chicago:20261003T000000
 DTEND;TZID=America/Chicago:20261003T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-pirate-s-cove-dog-olympics-1904225@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
@@ -313,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261003T000000
 DTEND;TZID=America/Chicago:20261004T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921325@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -346,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:The Ultimate Garth Brooks Tribute Featuring Shawn Gerard
 DTSTART;TZID=America/Chicago:20261004T000000
 DTEND;TZID=America/Chicago:20261004T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-the-ultimate-garth-brooks-tribute-featuring-shawn-gerard-1927553@so
  uthbaldwinchamber.com
 DESCRIPTION:LIVE at OWA Theater! Get ready for a night of Garth Brooks' bi
@@ -372,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Blessing of the Animals
 DTSTART;TZID=America/Chicago:20261004T000000
 DTEND;TZID=America/Chicago:20261004T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-blessing-of-the-animals-1936267@southbaldwinchamber.com
 DESCRIPTION:Join us for our Second Annual Blessing of the Animals! Drop by
   and bring your beloved furry friends to receive a blessing. You can get y
@@ -386,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Baldwin Health: HEALTHY Women
 DTSTART;TZID=America/Chicago:20261007T000000
 DTEND;TZID=America/Chicago:20261007T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-baldwin-health-healthy-women-1927859@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><hr fr-original-style="" style="clear: b
@@ -429,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261008T000000
 DTEND;TZID=America/Chicago:20261009T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921333@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -450,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261009T000000
 DTEND;TZID=America/Chicago:20261010T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921326@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -483,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261010T000000
 DTEND;TZID=America/Chicago:20261011T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921327@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -516,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Columbus Day Special 🎩
 DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-columbus-day-special-1896444@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>🎳 COLUMBUS DAY SPECIAL 🎳</p><p><br /></p><p>&nbsp
@@ -536,7 +487,7 @@ SUMMARY:2026 Leadership Series featuring Todd Stennis\, Director of Govern
  ment Affairs at Amtrak
 DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-leadership-series-featuring-todd-stennis-director-of-governmen
  t-affairs-at-amtrak-1770188@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -590,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261013T000000
 DTEND;TZID=America/Chicago:20261014T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  218@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -618,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261015T000000
 DTEND;TZID=America/Chicago:20261016T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921334@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -639,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:October Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261015T000000
 DTEND;TZID=America/Chicago:20261016T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-october-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  27@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -662,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261016T000000
 DTEND;TZID=America/Chicago:20261017T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921328@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -695,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261017T000000
 DTEND;TZID=America/Chicago:20261018T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921329@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -728,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261019T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921300@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -761,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Devon Gilfillian: Time Will Tell Tour at OWA Theater
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-devon-gilfillian-time-will-tell-tour-at-owa-theater-1740962@southba
  ldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -790,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261021T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921302@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -823,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261021T000000
 DTEND;TZID=America/Chicago:20261022T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921303@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -856,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261022T000000
 DTEND;TZID=America/Chicago:20261023T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921335@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -877,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261022T000000
 DTEND;TZID=America/Chicago:20261023T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921304@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -910,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Blackout Bowling 👻
 DTSTART;TZID=America/Chicago:20261023T000000
 DTEND;TZID=America/Chicago:20261024T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-blackout-bowling-1895275@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>BLACKOUT BOWLING SPECIAL! 🎳🖤👻</p><p>&nbsp\;</p>
@@ -932,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261023T000000
 DTEND;TZID=America/Chicago:20261024T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921305@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -965,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:🐎 2nd Annual Grit\, Gold & Glory FFA Rodeo
 DTSTART;TZID=America/Chicago:20261023T000000
 DTEND;TZID=America/Chicago:20261024T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2nd-annual-grit-gold-glory-ffa-rodeo-1942385@southbaldwinchamber.co
  m
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1012,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:Arts & Crafts Show
 DTSTART;TZID=America/Chicago:20261024T000000
 DTEND;TZID=America/Chicago:20261024T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-arts-crafts-show-1886323@southbaldwinchamber.com
 DESCRIPTION:The Foley UMC Arts & Crafts Show welcomes crafty vendors from 
  across Baldwin County to come and prepare the community for the holiday se
@@ -1027,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261024T000000
 DTEND;TZID=America/Chicago:20261025T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921306@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1060,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:Big Fish Ministries 10 Year Anniversary Gala Fundraiser
 DTSTART;TZID=America/Chicago:20261024T000000
 DTEND;TZID=America/Chicago:20261025T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-big-fish-ministries-10-year-anniversary-gala-fundraiser-1935521@sou
  thbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1083,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Grit\, Gold & Glory FFA Rodeo
 DTSTART;TZID=America/Chicago:20261024T000000
 DTEND;TZID=America/Chicago:20261025T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2nd-annual-grit-gold-glory-ffa-rodeo-1942392@southbaldwinchamber.co
  m
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1130,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261025T000000
 DTEND;TZID=America/Chicago:20261026T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921307@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1163,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261026T000000
 DTEND;TZID=America/Chicago:20261027T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921308@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1196,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261027T000000
 DTEND;TZID=America/Chicago:20261028T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921309@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1229,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261028T000000
 DTEND;TZID=America/Chicago:20261029T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921310@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1262,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261029T000000
 DTEND;TZID=America/Chicago:20261030T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921336@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -1283,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261029T000000
 DTEND;TZID=America/Chicago:20261030T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921311@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1316,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261030T000000
 DTEND;TZID=America/Chicago:20261031T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921312@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1349,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:Little Creatures' Ball
 DTSTART;TZID=America/Chicago:20261030T000000
 DTEND;TZID=America/Chicago:20261031T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-little-creatures-ball-1921763@southbaldwinchamber.com
 DESCRIPTION:Get your little creatures dressed in their favorite costumes a
  nd join us at OWA for an evening filled with Halloween fun\, music\, danci
@@ -1365,7 +1316,7 @@ BEGIN:VEVENT
 SUMMARY:Wag-O-Ween
 DTSTART;TZID=America/Chicago:20261031T000000
 DTEND;TZID=America/Chicago:20261031T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-wag-o-ween-1916066@southbaldwinchamber.com
 DESCRIPTION:Calling all ghosts\, goblins\, pups\, and pet parents! It's ti
  me to get those tails wagging because Wag-O-Ween is coming to OWA!\nBring 
@@ -1382,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:Candy Crawl
 DTSTART;TZID=America/Chicago:20261031T000000
 DTEND;TZID=America/Chicago:20261031T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-candy-crawl-1907338@southbaldwinchamber.com
 DESCRIPTION:Get those costumes ready and bring the whole family to Downtow
  n OWA for an afternoon of trick-or-treating\, sweet treats\, and Halloween
@@ -1397,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:Primal Fear 2026
 DTSTART;TZID=America/Chicago:20261031T000000
 DTEND;TZID=America/Chicago:20261101T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-primal-fear-2026-1921313@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
@@ -1430,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:2026 AM Connections - Quarter 4
 DTSTART;TZID=America/Chicago:20261103T000000
 DTEND;TZID=America/Chicago:20261103T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-am-connections-quarter-4-1667333@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
@@ -1462,7 +1413,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921337@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -1484,7 +1435,7 @@ SUMMARY:Frank Brown Songwriter's Festival @ Tacky Jacks Gulf Shores (Thurs
  . Nov\, 5)
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-frank-brown-songwriter-s-festival-tacky-jacks-gulf-shores-thurs-nov
  -5-1942354@southbaldwinchamber.com
 DESCRIPTION:Join us at Tacky Jacks Gulf Shores for an evening of live musi
@@ -1504,7 +1455,7 @@ SUMMARY:Frank Brown Songwriter's Festival @ Tacky Jacks Orange Beach (Thur
  sday\, Nov. 5)
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-frank-brown-songwriter-s-festival-tacky-jacks-orange-beach-thursday
  -nov-5-1942380@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1528,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:Jesse Roper at OWA Theater
 DTSTART;TZID=America/Chicago:20261106T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-jesse-roper-at-owa-theater-1841010@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -1557,7 +1508,7 @@ SUMMARY:Frank Brown Songwriter's Festival @ Tacky Jacks Gulf Shores (Fri.
  Nov\, 6)
 DTSTART;TZID=America/Chicago:20261106T000000
 DTEND;TZID=America/Chicago:20261107T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-frank-brown-songwriter-s-festival-tacky-jacks-gulf-shores-fri-nov-6
  -1942352@southbaldwinchamber.com
 DESCRIPTION:Join us at Tacky Jacks Gulf Shores for an evening of live musi
@@ -1573,10 +1524,35 @@ DESCRIPTION:Join us at Tacky Jacks Gulf Shores for an evening of live musi
 LOCATION:240 E 24th Ave\, Gulf Shores\, AL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frank Brown Songwriter's Festival @ Tacky Jacks Orange Beach (Frid
+ ay\, Nov. 6)
+DTSTART;TZID=America/Chicago:20261106T000000
+DTEND;TZID=America/Chicago:20261107T000000
+DTSTAMP:20261001T145431Z
+UID:gz-frank-brown-songwriter-s-festival-tacky-jacks-orange-beach-friday-n
+ ov-6-1942378@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
+ sabled="false" spellcheck="false"><p>Join us at <strong fr-original-style=
+ "" style="font-weight: 700\;">Tacky Jacks Orange Beach</strong> for an eve
+ ning of live music during the <strong fr-original-style="" style="font-wei
+ ght: 700\;">Frank Brown International Songwriters&rsquo\; Festival</strong
+ >!&nbsp\;</p><p>On Friday\, November 6\, some incredible songwriters take 
+ the stage to share the songs\, stories\, and talent behind the music.&nbsp
+ \;</p><p><strong fr-original-style="" style="font-weight: 700\;">5:30&ndas
+ h\;6:30 PM Mark Sherrill &amp\; Chad Wilson <br />6:45&ndash\;7:45 PM Haro
+ ld Hawkshaw Hawkins Jr &amp\; Quinn Loggins <br />8:00&ndash\;9:00 PM Marc
+ -Alan Barnette &amp\; Friends </strong></p><p>Come early\, grab some food 
+ and drinks\, and settle in for a night of great songwriting on the Gulf Co
+ ast. Admission is free.</p></body></html>\n\n---\n🌐 View original event
+ : https://businesshub.southbaldwinchamber.com/calendar/Details/frank-brown
+ -songwriter-s-festival-tacky-jacks-orange-beach-friday-nov-6-1942378
+LOCATION:27206 Safe Harbor Dr.\, Orange Beach\, AL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Magnolia Run
 DTSTART;TZID=America/Chicago:20261107T000000
 DTEND;TZID=America/Chicago:20261107T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-magnolia-run-1682730@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
@@ -1614,7 +1590,7 @@ SUMMARY:Dedication & Commissioning Ceremony for The Schreiber Water Treatm
  ent Facility
 DTSTART;TZID=America/Chicago:20261110T000000
 DTEND;TZID=America/Chicago:20261110T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-dedication-commissioning-ceremony-for-the-schreiber-water-treatment
  -facility-1933252@southbaldwinchamber.com
 DESCRIPTION:Riviera Utilities will celebrate a major investment in Baldwin
@@ -1637,10 +1613,60 @@ LOCATION:The Schreiber Water Treatment Plant 120-B County Road 20\, Foley
  \, AL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Golf FORE! Education
+DTSTART;TZID=America/Chicago:20261112T000000
+DTEND;TZID=America/Chicago:20261112T000000
+DTSTAMP:20261001T145431Z
+UID:gz-2026-golf-fore-education-1683374@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html data-scribe-recorder-ready="true"><head><
+ title></title></head><body aria-disabled="false" spellcheck="false"><p><a 
+ fr-original-style="" href="https://www.sbchamberfoundation.org/golf-fore-e
+ ducation" style="user-select: auto\;"><img src="https://res.cloudinary.com
+ /micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1773
+ 851193/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/4e24cc18c6c44e94950fc1
+ 8ad8a9b745/Golf-FORE-Edu-FB-Header-2.png" width="786" height="453" fr-orig
+ inal-style="" fr-original-class="fr-draggable" style="position: relative\;
+  max-width: 100%\; cursor: pointer\; padding: 0px 1px\;" /></a></p><p>The 
+ <a fr-original-style="" href="https://www.sbchamberfoundation.org/" style=
+ "user-select: auto\;"><strong fr-original-style="" style="font-weight: 700
+ \;">South Baldwin Chamber Foundation</strong></a> is proud to partner with
+  GlenLakes Golf Club to host the <a fr-original-style="" href="https://www
+ .sbchamberfoundation.org/golf-fore-education" style="user-select: auto\;">
+ <strong fr-original-style="" style="font-weight: 700\;">6th Annual Golf FO
+ RE! Education Tournament</strong></a> on November 12\, 2026\, presented by
+  <a fr-original-style="" href="https://www.baldwinemc.com/" style="user-se
+ lect: auto\;"><strong fr-original-style="" style="font-weight: 700\;">Bald
+ win EMC</strong></a>!</p><p>The day will begin with a grab-and-go breakfas
+ t at The Pub at GlenLakes\, followed by an 8 AM shotgun start.</p><p>This 
+ year&rsquo\;s tournament will be played as a <strong fr-original-style="" 
+ style="font-weight: 700\;">four-man scramble</strong>. Players will enjoy 
+ contests and games along the course\, plus a silent auction before and aft
+ er the tournament.</p><p>A<strong fr-original-style="" style="font-weight:
+  700\;">&nbsp\;four-person team entry is $600</strong> includes breakfast
+ \, lunch\, and 2 drinks per player. Lunch will be served following the tou
+ rnament.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
+ \;">Sponsorship Opportunities:</strong> We are currently looking for like-
+ minded businesses to partner with us in sponsorship for the Golf FORE! Edu
+ cation Golf Tournament. Sponsorship levels and participation range from a 
+ $1\,500 award sponsor to a $150 tee sign. <em>Additionally\, we are accept
+ ing donations of items for a silent auction.</em></p><p><strong fr-origina
+ l-style="" style="font-weight: 700\;">About the Foundation:</strong> The <
+ a fr-original-style="" href="https://www.sbchamberfoundation.org/" style="
+ user-select: auto\;"><strong fr-original-style="" style="font-weight: 700
+ \;">South Baldwin Chamber Foundation</strong></a> supports 11 public schoo
+ ls in the Foley and Elberta feeder patterns\, along with three private sch
+ ools in South Baldwin County. Our mission is to enhance lives through prog
+ rams and partnerships that enrich education\, develop leadership\, and bet
+ ter our community.</p><p><br /></p></body></html>\n\n---\n🌐 View origin
+ al event: https://businesshub.southbaldwinchamber.com/calendar/Details/202
+ 6-golf-fore-education-1683374
+LOCATION:GlenLakes Golf Club 9530 Clubhouse Dr.\, Foley\, AL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261112T000000
 DTEND;TZID=America/Chicago:20261113T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921338@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -1662,7 +1688,7 @@ SUMMARY:Le Tour de Foley Fundraiser Bicycle Ride Supporting Foley Lions Cl
  ub
 DTSTART;TZID=America/Chicago:20261114T000000
 DTEND;TZID=America/Chicago:20261114T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-le-tour-de-foley-fundraiser-bicycle-ride-supporting-foley-lions-clu
  b-1716825@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1723,7 +1749,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Market
 DTSTART;TZID=America/Chicago:20261114T000000
 DTEND;TZID=America/Chicago:20261114T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-christmas-market-1936272@southbaldwinchamber.com
 DESCRIPTION:Make plans to attend our 3rd Annual Christmas Market! Shop cre
  ative handmade crafts\, unique gifts\, beautiful wreaths\, baked goods\, h
@@ -1736,7 +1762,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261118T000000
 DTEND;TZID=America/Chicago:20261118T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2219@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -1765,7 +1791,7 @@ SUMMARY:2026 Leadership Series featuring Beth Gendler\, President & CEO of
   Gulf Shores & Orange Beach Tourism
 DTSTART;TZID=America/Chicago:20261118T000000
 DTEND;TZID=America/Chicago:20261118T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-leadership-series-featuring-beth-gendler-president-ceo-of-gulf
  -shores-orange-beach-tourism-1663678@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -1822,7 +1848,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261119T000000
 DTEND;TZID=America/Chicago:20261120T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921339@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -1843,7 +1869,7 @@ BEGIN:VEVENT
 SUMMARY:November Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261121T000000
 DTEND;TZID=America/Chicago:20261121T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-november-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  228@southbaldwinchamber.com
 DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
@@ -1864,7 +1890,7 @@ BEGIN:VEVENT
 SUMMARY:Turkey Trot for Hope
 DTSTART;TZID=America/Chicago:20261126T000000
 DTEND;TZID=America/Chicago:20261126T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-turkey-trot-for-hope-1925961@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><p>Join us for the area&#39\;s favorite 
@@ -1891,7 +1917,7 @@ BEGIN:VEVENT
 SUMMARY:All You Can Play Laser Tag!
 DTSTART;TZID=America/Chicago:20261126T000000
 DTEND;TZID=America/Chicago:20261127T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-all-you-can-play-laser-tag-1921340@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><p>ALL YOU CAN PLAY LASER TAG! 🔫🎯&nbsp\;</p><p><br />
@@ -1912,7 +1938,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20261209T000000
 DTEND;TZID=America/Chicago:20261209T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2220@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -1940,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:December Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20261212T000000
 DTEND;TZID=America/Chicago:20261212T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-december-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  229@southbaldwinchamber.com
 DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
@@ -1962,7 +1988,7 @@ SUMMARY:2026 Leadership Series featuring Ralph Hellmich\, Mayor of the Cit
  y of Foley
 DTSTART;TZID=America/Chicago:20261215T000000
 DTEND;TZID=America/Chicago:20261215T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-2026-leadership-series-featuring-ralph-hellmich-mayor-of-the-city-o
  f-foley-1663688@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -2018,7 +2044,7 @@ BEGIN:VEVENT
 SUMMARY:🍪🎅 Cookies with Santa
 DTSTART;TZID=America/Chicago:20261215T000000
 DTEND;TZID=America/Chicago:20261216T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-cookies-with-santa-1938989@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><h4>THE MAGIC OF CHRISTMAS IS COMING! </
@@ -2047,7 +2073,7 @@ BEGIN:VEVENT
 SUMMARY:🍪🎅 Cookies with Santa
 DTSTART;TZID=America/Chicago:20261216T000000
 DTEND;TZID=America/Chicago:20261217T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-cookies-with-santa-1939004@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false" spellcheck="false"><h4>You&rsquo\;re Invited to a Magical N
@@ -2069,7 +2095,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270106T000000
 DTEND;TZID=America/Chicago:20270106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  221@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -2097,7 +2123,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270106T000000
 DTEND;TZID=America/Chicago:20270106T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-orange-beach-1902
  222@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -2120,7 +2146,7 @@ BEGIN:VEVENT
 SUMMARY:January Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270109T000000
 DTEND;TZID=America/Chicago:20270109T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-january-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-19022
  30@southbaldwinchamber.com
 DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
@@ -2141,7 +2167,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270203T000000
 DTEND;TZID=America/Chicago:20270203T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190
  2223@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -2169,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:February Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270206T000000
 DTEND;TZID=America/Chicago:20270206T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-february-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902
  231@southbaldwinchamber.com
 DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
@@ -2190,7 +2216,7 @@ BEGIN:VEVENT
 SUMMARY:March Wine Tastings with Winston at Tacky Jacks Orange Beach
 DTSTART;TZID=America/Chicago:20270303T000000
 DTEND;TZID=America/Chicago:20270303T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-march-wine-tastings-with-winston-at-tacky-jacks-orange-beach-190222
  4@southbaldwinchamber.com
 DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Wi
@@ -2218,7 +2244,7 @@ BEGIN:VEVENT
 SUMMARY:March Wine Tastings with Winston at Tacky Jacks Gulf Shores
 DTSTART;TZID=America/Chicago:20270306T000000
 DTEND;TZID=America/Chicago:20270306T000000
-DTSTAMP:20260930T142252Z
+DTSTAMP:20261001T145431Z
 UID:gz-march-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902232
  @southbaldwinchamber.com
 DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
@@ -2234,1128 +2260,5 @@ DESCRIPTION:Tacky Jacks Gulf Shores Wine Tastings with Winston\, Hosted by
  l event: https://businesshub.southbaldwinchamber.com/calendar/Details/marc
  h-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-1902232
 LOCATION:240 E 24th Ave\, Gulf Shores\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stars Stripes & Summer Nights – A Tribute to the Legends
-DTSTART;TZID=America/Chicago:20260904T000000
-DTEND;TZID=America/Chicago:20260906T000000
-DTSTAMP:20260930T142252Z
-UID:gz-stars-stripes-summer-nights-a-tribute-to-the-legends-1899391@southb
- aldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p>Your Labor Day weekend encore starts here! Join us in Do
- wntown OWA on September 4th and 5th for Stars\, Stripes &amp\; Summer Nigh
- ts presented by BJ&#39\;s Wholesale Club &ndash\; A Tribute to the Legends
- . Enjoy FREE live music on OWA Island as talented performers take the stag
- e throughout both evenings with a lineup of country\, classic favorites\, 
- and crowd-pleasing hits. Bring a chair\, grab a bite from one of Downtown 
- OWA&#39\;s restaurants\, and spend the evening with great music under the 
- stars. Check out the full lineup below! Please note: Outside coolers are n
- ot permitted. Food and beverages will be available for purchase throughout
-  Downtown OWA.</p></body></html>\n\n---\n🌐 View original event: https:/
- /businesshub.southbaldwinchamber.com/calendar/Details/stars-stripes-summer
- -nights-a-tribute-to-the-legends-1899391
-LOCATION:Location not specified
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Evening with Pam Tillis
-DTSTART;TZID=America/Chicago:20260905T000000
-DTEND;TZID=America/Chicago:20260905T000000
-DTSTAMP:20260930T142252Z
-UID:gz-an-evening-with-pam-tillis-1900276@southbaldwinchamber.com
-DESCRIPTION:A country music favorite is coming to OWA Theater! Join us on 
- September 4th for an evening with Pam Tillis\, the award-winning artist be
- hind some of country music’s most beloved hits. From “Maybe It Was Mem
- phis” and “Shake the Sugar Tree” to “Mi Vida Loca\,” Pam has bui
- lt a career filled with chart-topping songs\, powerful songwriting\, and u
- nforgettable performances.\nWith a career filled with chart-topping\, Pam 
- Tillis has built a lasting legacy. Don't miss your chance to see this coun
- try music legend live at OWA Theater!\n\n---\n🌐 View original event: ht
- tps://businesshub.southbaldwinchamber.com/calendar/Details/an-evening-with
- -pam-tillis-1900276
-LOCATION:OWA Theater 205-A N OWA Boulevard\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game Day on the Green
-DTSTART;TZID=America/Chicago:20260905T000000
-DTEND;TZID=America/Chicago:20260906T000000
-DTSTAMP:20260930T142252Z
-UID:gz-game-day-on-the-green-1910072@southbaldwinchamber.com
-DESCRIPTION:Ready to kick off your weekend with an unbeatable blend of foo
- tball action and family fun? Join us for Gameday on The Green at Portside 
- on Main\, where every Saturday transforms our green space into the ultimat
- e college football watch party! Come early\, stay late\, and make every Sa
- turday a touchdown for fun. See you... on The Green!\n\n---\n🌐 View ori
- ginal event: https://businesshub.southbaldwinchamber.com/calendar/Details/
- game-day-on-the-green-1910072
-LOCATION:Portside on Main at The Wharf 23101 Canal Rd\, Orange Beach\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Light Up Labor Day
-DTSTART;TZID=America/Chicago:20260906T000000
-DTEND;TZID=America/Chicago:20260907T000000
-DTSTAMP:20260930T142252Z
-UID:gz-light-up-labor-day-1910075@southbaldwinchamber.com
-DESCRIPTION:Come out for a celebration full of color with DJ Matt. There w
- ill be tunes\, games + FIREWORKS! Then\, stick around for the SPECTRA Lase
- r Light Experience show to follow. See you … here!\n\n---\n🌐 View ori
- ginal event: https://businesshub.southbaldwinchamber.com/calendar/Details/
- light-up-labor-day-1910075
-LOCATION:The Wharf 23101 Canal Road\, Orange Beach\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Special
-DTSTART;TZID=America/Chicago:20260907T000000
-DTEND;TZID=America/Chicago:20260907T000000
-DTSTAMP:20260930T142252Z
-UID:gz-labor-day-special-1895245@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p>Labor Day Special at The Gulf Bowl!&nbsp\;</p><p>Celebra
- te Labor Day with a day full of family fun at The Gulf Bowl!&nbsp\;</p><p>
- <br /></p><p>For Labor Day only\, enjoy our special $22.00 + tax package\,
-  including:&nbsp\;</p><p><br /></p><p>-Unlimited rotational bowling</p><p>
- -Shoe Rental&nbsp\;</p><p>-2 Laser Tag admissions&nbsp\;</p><p>-$10.00 bon
- us arcade card&nbsp\;</p><p><br /></p><p>Bring the family\, grab your frie
- nds\, and make the most of your Labor Day with us! This special is availab
- le Labor Day only\, so don&rsquo\;t miss out on the fun! The Gulf Bowl &nd
- ash\; Where Labor Day Fun Begins!</p></body></html>\n\n---\n🌐 View orig
- inal event: https://businesshub.southbaldwinchamber.com/calendar/Details/l
- abor-day-special-1895245
-LOCATION:The Gulf Bowl & Captain's Choice Seafood Bar 2881 S. Juniper St.
- \, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260908T000000
-DTEND;TZID=America/Chicago:20260908T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1915445@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1915445
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260908T000000
-DTEND;TZID=America/Chicago:20260908T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917303@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917303
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Kay Booth at the Fall Festival & Market!
-DTSTART;TZID=America/Chicago:20260909T000000
-DTEND;TZID=America/Chicago:20260909T000000
-DTSTAMP:20260930T142252Z
-UID:gz-mary-kay-booth-at-the-fall-festival-market-1920173@southbaldwincham
- ber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p>Hello\, I will be having a Mary Kay booth at the Fall Fe
- stival &amp\; Market on September 9\, Saturday. &nbsp\;There will also be 
- food\, music\, crafts and activities for the kids. I look forward to seein
- g you there.</p><p><br /></p><p><img src="https://res.cloudinary.com/micro
- netonline/image/upload/q_auto\,f_auto\,c_limit\,w_526\,h_681/v1788983063/t
- enants/e82e53eb-961d-4b13-bafd-8e5487751e05/9b981e9b5afe44ad9a5f48789d11ea
- 4f/fall-fest.jpg" width="526" height="681" fr-original-style="" fr-origina
- l-class="fr-draggable" style="position: relative\; max-width: 100%\; curso
- r: pointer\; padding: 0px 1px\;" /><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/mary-kay-booth-at-the-fall-festival-market-1920173
-LOCATION:Lillian Recreational Park 33914 Widell Avenue\, Lillian\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260910T000000
-DTEND;TZID=America/Chicago:20260910T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917304@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917304
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260911T000000
-DTEND;TZID=America/Chicago:20260911T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917305@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917305
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2nd Annual Shorty's Safe Haven PCA Rodeo
-DTSTART;TZID=America/Chicago:20260911T000000
-DTEND;TZID=America/Chicago:20260913T000000
-DTSTAMP:20260930T142252Z
-UID:gz-2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540@southbaldwinchambe
- r.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p>Join us for 2 nights of family fun at
-  our 2nd annual PCA rodeo. Our rodeo is jam packed with rodeo events\, ven
- dors\, kids&#39\; zone with bounce houses and food trucks! Our event may b
- e held in Pensacola\, but ALL money raised stays right here in Baldwin Cou
- nty!</p><p><br /></p><h4><a fr-original-style="" href="https://www.faceboo
- k.com/share/1L8p8MNhEq/" rel="noopener noreferrer" style="user-select: aut
- o\;" target="_blank">Follow the event on Facebook!</a></h4></body></html>
- \n\n---\n🌐 View original event: https://businesshub.southbaldwinchamber
- .com/calendar/Details/2nd-annual-shorty-s-safe-haven-pca-rodeo-1881540
-LOCATION:Escambia County Equestrian Center 7750 Mobile Hwy\, Pensacola\, F
- L
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Battery Take-Back Day
-DTSTART;TZID=America/Chicago:20260912T000000
-DTEND;TZID=America/Chicago:20260912T000000
-DTSTAMP:20260930T142252Z
-UID:gz-national-battery-take-back-day-1913511@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><meta charset="UTF-8" /><meta charset
- ="UTF-8" /></p><p>Baldwin County residents can safely dispose of household
-  batteries for free during Skip the Bin National Battery Take-Back Day on 
- Saturday\, Sept. 12. The Solid Waste Disposal Authority of Baldwin County 
- (SWDA) will waive its usual battery disposal fees at participating CHaRM l
- ocations:&nbsp\;</p><ul fr-original-style="" style="list-style-position: i
- nside\;"><li>Orange Beach CHaRM at 22510 Russian Rd.&nbsp\;</li><li>Fairho
- pe CHaRM at 20609 Bishop Rd.&nbsp\;</li></ul><p>The fee waiver is availabl
- e only at participating CHaRMs and does not apply at SWDA landfills. To av
- oid additional fees\, please remove batteries from their devices. Visit <a
-  fr-original-style="" href="https://batterysafetynow.org" rel="noopener no
- referrer" style="user-select: auto\;" target="_blank">https://batterysafet
- ynow.org</a> to learn more about the national effort. Help keep batteries 
- out of household trash and recycling bins and give them a safe place to go
- !</p></body></html>\n\n---\n🌐 View original event: https://businesshub.
- southbaldwinchamber.com/calendar/Details/national-battery-take-back-day-19
- 13511
-LOCATION:Location not specified
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk This Way: 80s 5K & Block Party
-DTSTART;TZID=America/Chicago:20260912T000000
-DTEND;TZID=America/Chicago:20260913T000000
-DTSTAMP:20260930T142252Z
-UID:gz-walk-this-way-80s-5k-block-party-1886398@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html data-scribe-recorder-ready="true"><head><
- title></title><style></style></head><body aria-disabled="false" data-new-g
- r-c-s-loaded="14.1318.0" spellcheck="false"><p><strong fr-original-style="
- " style="font-weight: 700\;"><span style="color: rgb(147\, 101\, 184)\;">L
- ace Up\, Dress Up &amp\; Party Like It&rsquo\;s 1985!&nbsp\;</span></stron
- g></p><p>Get ready to grab your neon\, tease your hair\, and break out the
-  leg warmers because <span style="color: rgb(147\, 101\, 184)\;"><a fr-ori
- ginal-style="" href="https://www.sbchamberfoundation.org/walkthisway" styl
- e="user-select: auto\; color: inherit\;"><strong fr-original-style="" styl
- e="font-weight: 700\;">Walk This Way: 80&rsquo\;s 5K &amp\; Block Party</s
- trong></a></span> is bringing the ultimate throwback experience to Downtow
- n Foley! &nbsp\;This high-energy\, 80s-themed event combines a fun and fes
- tive 5K with an unforgettable block party\, all while supporting local edu
- cation initiatives through the South Baldwin Chamber Foundation.</p><p>Whe
- ther you&rsquo\;re running\, walking\, skating\, or simply showing up for 
- the music and nostalgia\, this is your chance to celebrate the decade of m
- ixtapes\, mullets\, and moonwalks in totally tubular style.</p><p><span st
- yle="color: rgb(147\, 101\, 184)\;"><a fr-original-style="" href="https://
- runsignup.com/Race/AL/Foley/WalkThisWay5K" style="user-select: auto\; colo
- r: inherit\;"><span style="background-color: rgb(255\, 255\, 255)\;"><stro
- ng fr-original-style="" style="font-weight: 700\;">PURCHASE TICKETS HERE</
- strong></span></a></span></p><p><strong fr-original-style="" style="font-w
- eight: 700\;">The 80&rsquo\;s 5K</strong></p><p>Participants will take on 
- a scenic 5K course winding through Historic Downtown Foley and the beautif
- ul Rose Trail before crossing the finish line at Heritage Park.</p><p>Cost
- umes are highly encouraged! Dust off your windbreakers\, rock your brighte
- st neon\, channel your favorite 80s icon\, and bring the energy from start
-  to finish.</p><p>Whether you&rsquo\;re chasing a personal best or just cr
- uising with friends\, this event is all about having fun and embracing the
-  spirit of the decade.</p><p><strong fr-original-style="" style="font-weig
- ht: 700\;">The Block Party</strong></p><p>Following the race\, Heritage Pa
- rk transforms into the ultimate 80s celebration\, with an epic Block Party
-  featuring a live 80s cover band\, Disco Kiss\, and special guest 80&#39\;
- s Condo Queen Kylee Kubat\, turning the finish line into a full-scale thro
- wback with music\, dancing\, and nonstop fun. Bring your friends\, relive 
- the glory days\, and celebrate under the lights as we turn Heritage Park i
- nto a retro party destination.</p><p>BYOB Friendly</p><p>Participants and 
- guests are welcome to bring their own beverages to enjoy during the block 
- party\, provided they comply with event guidelines and local regulations.<
- /p><p>Food will be available for purchase from a variety of food truck ven
- dors throughout the evening.</p><p><strong fr-original-style="" style="fon
- t-weight: 700\;">Not a Runner? Join the Party Anyway!</strong></p><p>Want 
- all the fun without the 5K? Block Party Only Tickets are available for tho
- se who want to skip the race and head straight to the celebration. Because
-  let&rsquo\;s be honest&mdash\;not everyone wants to run\, but everyone de
- serves a good party.</p><p><a fr-original-style="" href="https://www.sbcha
- mberfoundation.org/walkthisway" style="user-select: auto\;"><img src="http
- s://res.cloudinary.com/micronetonline/image/upload/q_auto\,f_auto\,c_limit
- \,w_1920\,h_1080/v1786128116/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/
- d4898c255e534e52be0bc9c6fb3f1069/Untitled-design-14.png" width="786" heigh
- t="442" fr-original-style="" fr-original-class="fr-draggable" style="posit
- ion: relative\; max-width: 100%\; cursor: pointer\; padding: 0px 1px\;" />
- </a><br /></p></body></html>\n\n---\n🌐 View original event: https://bus
- inesshub.southbaldwinchamber.com/calendar/Details/walk-this-way-80s-5k-blo
- ck-party-1886398
-LOCATION:Foley Heritage Park Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260914T000000
-DTEND;TZID=America/Chicago:20260914T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917306@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917306
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260915T000000
-DTEND;TZID=America/Chicago:20260915T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917307@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917307
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Youth Mental Health First Aid
-DTSTART;TZID=America/Chicago:20260916T000000
-DTEND;TZID=America/Chicago:20260916T000000
-DTSTAMP:20260930T142252Z
-UID:gz-youth-mental-health-first-aid-1905931@southbaldwinchamber.com
-DESCRIPTION:# Youth Mental Health First Aid Training\n\nThe Jennifer Clair
- e Moore Foundation is offering **Youth Mental Health First Aid**\, an 8-ho
- ur training designed to help adults recognize and respond to mental health
-  and substance use challenges in adolescents. Participants will learn abou
- t common youth mental health concerns\, adolescent development\, and a fiv
- e-step action plan for supporting young people in both crisis and non-cris
- is situations.\n\n**Training Details:**\n **Wednesday\, September 16\, 202
- 6**\n **8:30 AM–4:30 PM**\n **Bryant Bank – Daphne Community Room**\n1
- 801 US Hwy 98\, Daphne\, AL 36526\n **$130 per person** — materials and 
- lunch included\n**25 spots available**\n\n**The first 10 registrants can s
- ave $30 with code YMHFA30.**\n\nThis training is a valuable opportunity fo
- r anyone who works with or supports youth to build the knowledge and confi
- dence needed to recognize concerns early and connect young people with app
- ropriate support.\n\n---\n🌐 View original event: https://businesshub.so
- uthbaldwinchamber.com/calendar/Details/youth-mental-health-first-aid-19059
- 31
-LOCATION:Bryant Bank - Daphne Community Room 1801 US-98\, Daphne\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MT Jones at OWA Theater
-DTSTART;TZID=America/Chicago:20260917T000000
-DTEND;TZID=America/Chicago:20260917T000000
-DTSTAMP:20260930T142252Z
-UID:gz-mt-jones-at-owa-theater-1776167@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
- e/upload/q_auto\,f_auto\,c_crop\,w_1536\,h_801\,y_-1/v1782416416/tenants/e
- 82e53eb-961d-4b13-bafd-8e5487751e05/7ab472f39dd640d0944f84b64123f860/MT-Jo
- nes-OWA.jpg" width="791" height="412" fr-original-style="" fr-original-cla
- ss="fr-draggable" style="position: relative\; max-width: 100%\; cursor: po
- inter\; padding: 0px 1px\;" /></p><h3>Catch UK soul artist MT Jones live a
- t OWA Theater on September 16\, 2026!</h3><p></p><p>While in town for Amer
- icana Fest 2026\, MT Jones is making a handful of special performances\, a
- nd OWA Theater is one of them! With smooth vocals\, heartfelt lyrics\, and
-  a sound that blends classic soul with a modern edge\, this is your chance
-  to experience an artist on the rise in an intimate live setting.</p><p>Do
- ors open at 6:00 PM.</p><h4>About MT Jones</h4><p>Gathering inspiration fr
- om 60s and 70s soul greats across the Atlantic to modern R&amp\;B and jazz
- \, MT Jones evokes a sound that is both contemporary and timeless. His dee
- ply soulful vocals transport you straight back to a smoke-filled speak eas
- y which somehow still feels fresh and innovative.</p><p>Between stints wor
- king on music regularly in Liverpool &amp\; London\, Jones has travelled t
- he world as a musician &amp\; penned songs for other artists\, making a na
- me for himself as a gifted and prolific songwriter.</p><p>Since then\, loc
- kdown gave him the time and space to put his talent under his own name. Hi
- s debut single &lsquo\;I Won&#39\;t Ever Say Goodbye&rsquo\; is a soulful
- \, heart-on-sleeve ballad that marks the start of big things &amp\; his la
- test single &lsquo\;Feeling Lonely&rsquo\; has quickly followed suit. He h
- as received great support from BBC\, introducing multiple spins on 1xtra\,
-  a &lsquo\;Step up&rsquo\; artist on the show. He has also enjoyed strong 
- playlist support from Spotify including several New Music Friday adds in t
- he UK.</p><p>This is only the start for this highly memorable and distinct
- ive singer\, song writer\, musician and creator!</p><p><a fr-original-styl
- e="" href="https://visitowa.com/mt-jones/" style="user-select: auto\;"><st
- rong fr-original-style="" style="font-weight: 700\;">Grab your tickets tod
- ay!</strong></a></p></body></html>\n\n---\n🌐 View original event: https
- ://businesshub.southbaldwinchamber.com/calendar/Details/mt-jones-at-owa-th
- eater-1776167
-LOCATION:OWA Theater 205-A N OWA Boulevard\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260917T000000
-DTEND;TZID=America/Chicago:20260917T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917308@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917308
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September Wine Dinner
-DTSTART;TZID=America/Chicago:20260917T000000
-DTEND;TZID=America/Chicago:20260918T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-wine-dinner-1928904@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_crop\,w_1025\,h_1536\,x_-1/v
- 1789587098/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/4b0c2960019c4f0581
- 8aa5692b7aeda5/ONE-Club-September-17th-Italian-Wine-Dinner.png" width="806
- " height="1209" fr-original-style="" fr-original-class="fr-draggable" styl
- e="position: relative\; max-width: 100%\; cursor: pointer\; padding: 0px 1
- px\;" /><br /></p><p><br /></p><p>Join us for an exclusive evening of exce
- ptional wine pairings\, thoughtfully crafted cuisine\, and elevated compan
- y. Indulge in a beautifully curated Wine Dinner experience at ONE Club\, d
- esigned for those who appreciate great food\, fine wine\, and unforgettabl
- e evenings.</p><p><br /></p><p>Please use the link below to RSVP:</p><p><a
-  fr-original-style="" href="https://www.eventbrite.com/e/september-wine-di
- nner-tickets-2000040314420?aff=erelpanelorg" rel="noopener noreferrer" sty
- le="user-select: auto\;" target="_blank">https://www.eventbrite.com/e/sept
- ember-wine-dinner-tickets-2000040314420?aff=erelpanelorg</a></p></body></h
- tml>\n\n---\n🌐 View original event: https://businesshub.southbaldwincha
- mber.com/calendar/Details/september-wine-dinner-1928904
-LOCATION:ONE Club 4500 Gulf Shores Parkway\, Gulf Shores\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September ASPCA Rescue Effect Adoption Promotion
-DTSTART;TZID=America/Chicago:20260918T000000
-DTEND;TZID=America/Chicago:20260918T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-aspca-rescue-effect-adoption-promotion-1917309@southbaldw
- inchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1005/v17885
- 39526/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/c874475687fc40f78151860
- c4939a74d/ASPCA-Rescue-Effect-1920x1005.png" width="791" height="414" styl
- e="display: inline-block\; vertical-align: bottom\; margin-right: 5px\; ma
- rgin-left: 5px\; max-width: calc(100% - 10px)\; text-align: center\; posit
- ion: relative\; cursor: pointer\; padding: 0px 1px\;" fr-original-style="d
- isplay: inline-block\; vertical-align: bottom\; margin-right: 5px\; margin
- -left: 5px\; max-width: calc(100% - 10px)\; text-align: center\;" fr-origi
- nal-class="fr-draggable" /><br /></p><p><br /></p><p>🐾 Adopt One\, Help
-  Many. That&rsquo\;s The Rescue Effect.&nbsp\;</p><p>The Haven is proud to
-  participate in the ASPCA&rsquo\;s Rescue Effect\, a nationwide campaign h
- elping more shelter pets find loving homes. Thanks to a $10\,000 grant fro
- m the ASPCA\, adoption fees will be completely waived for eligible dogs an
- d cats ages 6 months and older at The Haven during our September Rescue Ef
- fect promotional period: September 5&ndash\;19\, 2026 Regular adoption fee
- s of $150 for adult cats and $200 for adult dogs will be waived during the
-  promotion.&nbsp\;</p><p><br /></p><p>❤️ What stays the same?&nbsp\;</
- p><p>Our adoption application and approval process. Removing the adoption 
- fee removes one financial barrier&mdash\;not our commitment to finding the
-  right match between pets and families. Every adoption changes the life of
-  the pet going home while also creating space\, time and resources to help
-  the next homeless animal who needs us. That&rsquo\;s the ripple behind Th
- e Rescue Effect.&nbsp\;</p><p>Our goal is to place 51 adult cats and dogs 
- into loving homes during the August&ndash\;October campaign\, and your ado
- ption can help us get there!&nbsp\;</p><p><br /></p><p>📅 September 5&nd
- ash\;19\, 2026&nbsp\;</p><p>🐶🐱 Eligible dogs and cats: 6 months and 
- older&nbsp\;</p><p>💙 Adoption fees: WAIVED&nbsp\;</p><p>📍 The Haven 
- for Animals&nbsp\;</p><p><br /></p><p>View our available pets and learn mo
- re about The Rescue Effect here: <a fr-original-style="" href="https://www
- .havenforanimals.org/aspca-rescue-effect/" rel="noopener noreferrer" style
- ="user-select: auto\;" target="_blank">https://www.havenforanimals.org/asp
- ca-rescue-effect/</a>&nbsp\;</p><p>We encourage prospective adopters to vi
- ew available pets and complete the adoption application before visiting Th
- e Haven.&nbsp\;</p><p><strong fr-original-style="" style="font-weight: 700
- \;">Adopt One. Help Many. That&rsquo\;s The Rescue Effect.&nbsp\;</strong>
- </p><p><br /></p><hr fr-original-style="" style="clear: both\; user-select
- : none\; break-after: page\;" /><p><br /></p></body></html>\n\n---\n🌐 V
- iew original event: https://businesshub.southbaldwinchamber.com/calendar/D
- etails/september-aspca-rescue-effect-adoption-promotion-1917309
-LOCATION:The Haven 559 S Section Street\, Fairhope\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Walton M. Vines Free Enterprise Person of the Year Summit
-DTSTART;TZID=America/Chicago:20260918T000000
-DTEND;TZID=America/Chicago:20260918T000000
-DTSTAMP:20260930T142252Z
-UID:gz-2026-walton-m-vines-free-enterprise-person-of-the-year-summit-16825
- 53@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><h3>Location: Foley Civic Center<br />Ca
- tering: <a fr-original-style="" href="https://businesshub.southbaldwincham
- ber.com/list/Details/half-shell-oyster-house-4755732" style="user-select: 
- auto\;">Half Shell Oyster House</a></h3><p><img src="https://res.cloudinar
- y.com/micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_2000\,h_1433/
- v1773777515/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/47ec50b49db64eea8
- ee0ae9c62ff83f4/Free-Enterprise-2022.png" width="791" height="484" fr-orig
- inal-style="" fr-original-class="fr-draggable" style="position: relative\;
-  max-width: 100%\; cursor: pointer\; padding: 0px 1px\;" /></p><p><br /></
- p><hr fr-original-style="" style="clear: both\; user-select: none\; break-
- after: page\;" /><p>Since 1976\, the South Baldwin Chamber of Commerce has
-  been celebrating the spirit of the Free Enterprise system by awarding the
-  <a fr-original-style="" href="https://www.southbaldwinchamber.com/wmv-fre
- e-enterprise-summit/" style="user-select: auto\;"><strong fr-original-styl
- e="" style="font-weight: 700\;">Walton M. Vines Free Enterprise Person of 
- the Year</strong></a>. This award is presented by <a fr-original-style="" 
- href="https://www.rivierautilities.com/" style="user-select: auto\;"><stro
- ng fr-original-style="" style="font-weight: 700\;">Riviera Utilities</stro
- ng></a> and is one of South Baldwin&#39\;s most coveted awards.</p><p>To b
- e nominated\, a person must still be active in business affairs\, have a g
- ood moral reputation\, be active in civic and community affairs\, and be c
- ommitted to helping others grow. The winner is honored during the Free Ent
- erprise Person of the Year Luncheon at the Foley Civic Center\, which is a
- ttended by more than one hundred of the area&#39\;s top business leaders a
- nd community members.</p><p>The Luncheon features a full catered meal and 
- speeches from the previous year&#39\;s winner along with the newly honored
-  Person of the Year. You are invited to join us for this prestigious event
- !</p><h4><a fr-original-style="" href="https://www.southbaldwinchamber.com
- /wmv-free-enterprise-summit/" style="user-select: auto\;">View Event Webpa
- ge</a></h4></body></html>\n\n---\n🌐 View original event: https://busine
- sshub.southbaldwinchamber.com/calendar/Details/2026-walton-m-vines-free-en
- terprise-person-of-the-year-summit-1682553
-LOCATION:Foley Civic Center 407 E Laurel Avenue\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesse Peyton: The Right Side of Comedy
-DTSTART;TZID=America/Chicago:20260919T000000
-DTEND;TZID=America/Chicago:20260919T000000
-DTSTAMP:20260930T142252Z
-UID:gz-jesse-peyton-the-right-side-of-comedy-1904744@southbaldwinchamber.c
- om
-DESCRIPTION:Get ready for a night of unapologetic laughs as comedian Jesse
-  Peyton brings The Right Side of Comedy to OWA Theater. Featuring special 
- guest Kenny Webster\, this stand-up comedy event delivers an evening of ob
- servational humor\, storytelling\, and political satire from a conservativ
- e perspective.\nCreative should position this as a live comedy event first
-  and foremost\, highlighting the performers while conveying an energetic\,
-  entertaining atmosphere. The tone should feel bold\, modern\, and confide
- nt\, with a clean\, professional look that emphasizes a night of laughter 
- without leaning heavily into political imagery.\n\n---\n🌐 View original
-  event: https://businesshub.southbaldwinchamber.com/calendar/Details/jesse
- -peyton-the-right-side-of-comedy-1904744
-LOCATION:OWA Theater 205-A N OWA Boulevard\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pilates\, Pastries & Prosecco on the Patio
-DTSTART;TZID=America/Chicago:20260919T000000
-DTEND;TZID=America/Chicago:20260919T000000
-DTSTAMP:20260930T142252Z
-UID:gz-pilates-pastries-prosecco-on-the-patio-1928915@southbaldwinchamber.
- com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_crop\,w_1025\,h_1536\,x_-1/v
- 1789587344/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/7f50dc5afd5046d78d
- e20e7f9f4b050a/ONE-Club-Pilates-Prosecco-and-Pastries-Event-September-19th
- .png" width="806" height="1209" fr-original-style="" fr-original-class="fr
- -draggable" style="position: relative\; max-width: 100%\; cursor: pointer
- \; padding: 0px 1px\;" /><br /></p><p><br /></p><h4>Join Us!</h4><p>Saturd
- ay\, September 19th at 9:00 a.m. &mdash\; ONE Beautiful Life Wellness Even
- t: Pilates\, Pastries &amp\; Prosecco on the Patio\, for $19. This event i
- s ideal for all skill levels and offers a wonderful opportunity to stretch
- \, relax\, rejuvenate\, and nourish your spirit while enjoying new friends
- hips and delicious treats.</p><p><br /></p><hr fr-original-style="" style=
- "clear: both\; user-select: none\; break-after: page\;" /><p><br /></p></b
- ody></html>\n\n---\n🌐 View original event: https://businesshub.southbal
- dwinchamber.com/calendar/Details/pilates-pastries-prosecco-on-the-patio-19
- 28915
-LOCATION:ONE Club 4500 Gulf Shores Parkway\, Gulf Shores\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Use Your Illusion: America's #1 Guns N Roses Experience at OWA The
- ater
-DTSTART;TZID=America/Chicago:20260920T000000
-DTEND;TZID=America/Chicago:20260920T000000
-DTSTAMP:20260930T142252Z
-UID:gz-use-your-illusion-america-s-1-guns-n-roses-experience-at-owa-theate
- r-1849795@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
- e/upload/q_auto\,f_auto\,c_limit\,w_1536\,h_804/v1783951714/tenants/e82e53
- eb-961d-4b13-bafd-8e5487751e05/c847edd21aaf48b8b7a517184d03ae72/Guns-N-Ros
- es-OWA.jpg" width="791" height="414" fr-original-style="" fr-original-clas
- s="fr-draggable" style="position: relative\; max-width: 100%\; cursor: poi
- nter\; padding: 0px 1px\;" /></p><h3>Use Your Illusion: America&rsquo\;s #
- 1 Guns N&rsquo\; Roses Experience takes the stage at OWA Theater!</h3><p><
- /p><p>On September 19th\, this high-energy tribute captures the spirit of 
- Guns N&rsquo\; Roses with a setlist packed full of legendary hits like Wel
- come to the Jungle\, Sweet Child O&rsquo\; Mine\, Paradise City\, and more
- . From powerful vocals to driving guitar riffs\, this show delivers the ki
- nd of rock experience fans know and love.</p><p>Use Your Illusion: America
- &rsquo\;s #1 Guns N&rsquo\; Roses Experience takes the stage for a powerfu
- l live tribute to one of the greatest rock bands in history!&nbsp\;</p><p>
- <a fr-original-style="" href="https://visitowa.com/use-your-illusion-ameri
- cas-1-guns-n-roses-experience/" style="user-select: auto\;"><strong fr-ori
- ginal-style="" style="font-weight: 700\;">Get your tickets today!</strong>
- </a></p></body></html>\n\n---\n🌐 View original event: https://businessh
- ub.southbaldwinchamber.com/calendar/Details/use-your-illusion-america-s-1-
- guns-n-roses-experience-at-owa-theater-1849795
-LOCATION:OWA Theater 205-A N OWA Boulevard\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daystar Church LAUNCH PARTY
-DTSTART;TZID=America/Chicago:20260920T000000
-DTEND;TZID=America/Chicago:20260920T000000
-DTSTAMP:20260930T142252Z
-UID:gz-daystar-church-launch-party-1930057@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><h4>Daystar Church invites the South Bal
- dwin community to celebrate the official launch of its Foley Campus on Sun
- day\, September 20. </h4><p>Services will be held at 9:30 and 11:00 a.m.\,
-  with free food\, Kona Ice and inflatables for the whole family.&nbsp\;</p
- ><p>Whether you&rsquo\;re looking for a church home or simply want to cele
- brate with us\, we would love for you to join us for this exciting day!</p
- ><p><img src="https://res.cloudinary.com/micronetonline/image/upload/q_aut
- o\,f_auto\,c_limit\,w_1080\,h_1350/v1789742497/tenants/e82e53eb-961d-4b13-
- bafd-8e5487751e05/9dc35ceafc7d4035908704edb1974fa1/802988069-1864894508503
- 2728-8059703146115507751-n.jpg" width="806" height="1008" fr-original-styl
- e="" fr-original-class="fr-draggable" style="position: relative\; max-widt
- h: 100%\; cursor: pointer\; padding: 0px 1px\;" /><br /></p></body></html>
- \n\n---\n🌐 View original event: https://businesshub.southbaldwinchamber
- .com/calendar/Details/daystar-church-launch-party-1930057
-LOCATION:Daystar Church 21170 Brinks Willis Road\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September Wine Tastings with Winston @ Tacky Jacks Orange Beach
-DTSTART;TZID=America/Chicago:20260922T000000
-DTEND;TZID=America/Chicago:20260923T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-wine-tastings-with-winston-tacky-jacks-orange-beach-19022
- 17@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><h4>Wine Tastings with Winston Returns</
- h4><p>🍷 Tacky Jacks Wine Tastings with Winston at Tacky Jacks Orange Be
- ach\, Hosted by Alabama Crown Distributing September 22\, 2026 - 6pm - 8pm
-  South of France Selections&nbsp\;</p><p>Enjoy four incredible wines\, eac
- h expertly paired with a small plate\, coming together for one unforgettab
- le meal. It&rsquo\;s a guided flavor adventure as we travel the globe thro
- ugh bold pours and epic bites.&nbsp\;</p><p>$45 per person</p><p>Seating L
- imited RSVP Required Sip\, savor\, and learn at Tacky Jacks Wine Tastings 
- with Winston!&nbsp\;</p><p>Enjoy perfectly paired wines and appetizers whi
- le discovering the flavor profiles\, origins\, and unique stories behind e
- ach selection. Settle into our relaxed outdoor waterfront seating\, where 
- stunning views set the perfect backdrop for your tasting experience. 21 an
- d up. Enjoy responsibly.&nbsp\;</p><p>📍 Location: Tacky Jacks Orange Be
- ach&nbsp\;</p><p>💲 Reservation: $5 per person (applied to tasting cost 
- of $45)&nbsp\;</p><p>🔔 RSVP Required | Limited Seating&nbsp\;</p><p>
- 💡 Refunds available with 24-hour notice&nbsp\;</p><p>Come uncork someth
- ing new this season&mdash\;reserve your spot today! <a fr-original-style="
- " href="https://tacky-jacks.myshopify.com/collections/wine-tastings" rel="
- noopener noreferrer" style="user-select: auto\;" target="_blank">https://t
- acky-jacks.myshopify.com/collections/wine-tastings</a></p></body></html>\n
- \n---\n🌐 View original event: https://businesshub.southbaldwinchamber.c
- om/calendar/Details/september-wine-tastings-with-winston-tacky-jacks-orang
- e-beach-1902217
-LOCATION:27206 Safe Harbor Dr.\, Orange Beach\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Leadership Series featuring Dr. Nathaniel "Mike" Perry\, Dean
-  of the College of Space\, Intelligence\, & Military Operations at Columbi
- a Southern University
-DTSTART;TZID=America/Chicago:20260923T000000
-DTEND;TZID=America/Chicago:20260923T000000
-DTSTAMP:20260930T142252Z
-UID:gz-2026-leadership-series-featuring-dr-nathaniel-mike-perry-dean-of-th
- e-college-of-space-intelligence-military-operations-at-columbia-southern-u
- niversity-1663672@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
- e/upload/q_auto\,f_auto\,c_limit\,w_2000\,h_1000/v1772035011/tenants/e82e5
- 3eb-961d-4b13-bafd-8e5487751e05/7a27287972e544e3ba47c4fe667d4ea6/LS-Graphi
- c-Dr-Nathaniel-Perry-2026-Horizontal.png" width="791" height="396" fr-orig
- inal-style="" fr-original-class="fr-draggable" style="position: relative\;
-  max-width: 100%\; cursor: pointer\; padding: 0px 1px\;" /><br /></p><p>Pr
- esented by <a fr-original-style="" href="https://www.vulcaninc.com/" style
- ="user-select: auto\;"><strong fr-original-style="" style="font-weight: 70
- 0\;">Vulcan\, Inc.</strong></a>\, the <a fr-original-style="" href="https:
- //www.southbaldwinchamber.com/leadership-series/" style="user-select: auto
- \;"><strong fr-original-style="" style="font-weight: 700\;">Leadership Ser
- ies</strong></a> is one of the South Baldwin Chamber of Commerce&rsquo\;s 
- premier programs designed to keep members informed\, engaged\, and connect
- ed to the issues shaping our region. Hosted eight times each year\, these 
- luncheons feature respected and influential speakers who bring insight on 
- timely topics impacting our business community.</p><p>From economic develo
- pment and tourism to local governance and state-level initiatives\, each p
- rogram delivers relevant\, real-world perspective you can take back to you
- r business or organization. Just as important\, the Leadership Series prov
- ides valuable opportunities to build relationships with fellow professiona
- ls\, civic leaders\, and key decision-makers from across South Baldwin Cou
- nty.</p><hr fr-original-style="" style="clear: both\; user-select: none\; 
- break-after: page\;" /><h4>Agenda</h4><ul fr-original-style="" style="list
- -style-position: inside\;"><li>11:00 AM: Private Workforce &amp\; Top Inve
- stors&#39\; Meeting</li><li>11:30 AM: Buffet Lunch catered by <a fr-origin
- al-style="" href="https://businesshub.southbaldwinchamber.com/list/Details
- /jim-n-nick-s-community-bar-b-q-4579175" style="user-select: auto\;">Jim &
- lsquo\;N Nick&rsquo\;s Community BBQ</a></li><li>12:00 PM: Program Begins<
- /li></ul><hr fr-original-style="" style="clear: both\; user-select: none\;
-  break-after: page\;" /><h4>Investing in the Future</h4><p>We are proud to
-  recognize our Education Enrichment Sponsor\, <a fr-original-style="" href
- ="https://warrenaverett.com/offices/daphne" style="user-select: auto\;"><s
- trong fr-original-style="" style="font-weight: 700\;">Warren Averett</stro
- ng></a>\, for helping connect today&rsquo\;s students with tomorrow&rsquo
- \;s opportunities.</p><hr fr-original-style="" style="clear: both\; user-s
- elect: none\; break-after: page\;" /><h4>Community Spotlight &mdash\; Loca
- l Nonprofit Partners</h4><p>We are honored to highlight two organizations 
- making a meaningful impact across Baldwin County:</p><ul fr-original-style
- ="" style="list-style-position: inside\;"><li><a fr-original-style="" href
- ="https://businesshub.southbaldwinchamber.com/list/Details/baldwin-county-
- education-coalition-4616166" style="user-select: auto\;">Baldwin County Ed
- ucation Coalition</a></li><li><a fr-original-style="" href="https://busine
- sshub.southbaldwinchamber.com/list/Details/john-mcclure-snook-family-ymca-
- 4616108" style="user-select: auto\;">John McClure Snook Family YMCA</a></l
- i></ul></body></html>\n\n---\n🌐 View original event: https://businesshu
- b.southbaldwinchamber.com/calendar/Details/2026-leadership-series-featurin
- g-dr-nathaniel-mike-perry-dean-of-the-college-of-space-intelligence-milita
- ry-operations-at-columbia-southern-university-1663672
-LOCATION:Foley Civic Center 407 E Laurel Avenue\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September Wine Tastings with Winston at Tacky Jacks Gulf Shores
-DTSTART;TZID=America/Chicago:20260924T000000
-DTEND;TZID=America/Chicago:20260925T000000
-DTSTAMP:20260930T142252Z
-UID:gz-september-wine-tastings-with-winston-at-tacky-jacks-gulf-shores-190
- 2225@southbaldwinchamber.com
-DESCRIPTION:🍷 Wine Tastings with Winston return! 🍷\n\nTacky Jacks Gu
- lf Shores Wine Tastings with Winston\, Hosted by Alabama Crown Distributin
- g \n\nSeptember 24\, 2026 - 6 pm - 8 pm\n\nSouth of France Selections\n\nS
- ettle into our relaxed outdoor waterfront seating\, where stunning views s
- et the perfect backdrop for your tasting experience. Please be prepared fo
- r outdoor weather and dress accordingly. 21 and up. Enjoy responsibly.\n\n
- 📍 Location: Tacky Jacks Gulf Shores\n💲 Reservation: $5 per person (a
- pplied to tasting cost of $45)\n🔔 RSVP Required | Limited Seating\n💡
-  Refunds available with 24-hour notice\n\nCome uncork something new this s
- eason—reserve your spot today!\n\nhttps://tacky-jacks.myshopify.com/coll
- ections/wine-tastings?page=1\n\n---\n🌐 View original event: https://bus
- inesshub.southbaldwinchamber.com/calendar/Details/september-wine-tastings-
- with-winston-at-tacky-jacks-gulf-shores-1902225
-LOCATION:240 E 24th Ave\, Gulf Shores\, AL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primal Fear 2026
-DTSTART;TZID=America/Chicago:20260925T000000
-DTEND;TZID=America/Chicago:20260926T000000
-DTSTAMP:20260930T142252Z
-UID:gz-primal-fear-2026-1878024@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
- rong fr-original-style="" style="font-weight: 700\;">Primal Fear</strong>
- \, OWA&#39\;s most terrifying immersive attraction\, where your deepest fe
- ars become your reality.&nbsp\;</p><p>Open select nights: September 25&nda
- sh\;26 and October 2&ndash\;3\, 9&ndash\;10\, 16&ndash\;17\, and 22&ndash
- \;31\, 2026.&nbsp\;</p><p>Primal Fear takes guests on a psychological jour
- ney through a maze designed to awaken humanity&#39\;s most instinctive fea
- rs. From claustrophobic passageways and unsettling distortions to the chil
- ling sensation of being watched or hunted\, every room is crafted to keep 
- you questioning what waits around the next corner.&nbsp\;</p><p>As the dar
- kness closes in\, you&#39\;ll quickly discover that the greatest terror is
- n&#39\;t what you can see&mdash\;it&#39\;s what your mind creates. Every s
- ound\, shadow\, and unexpected encounter is designed to blur the line betw
- een imagination and reality\, delivering an experience that lingers long a
- fter you&#39\;ve escaped.&nbsp\;</p><p>Looking for an even greater challen
- ge? Upgrade your experience with exclusive add-ons\, including the Black-O
- ut Hour\, where the lights go out\, scare actors move to new locations\, a
- nd your only guide through the darkness is a small flashlight. Complete yo
- ur night with limited-time themed food and beverages\, exclusive Primal Fe
- ar merchandise\, and unforgettable memories&mdash\;if you make it out.&nbs
- p\;</p><p><strong fr-original-style="" style="font-weight: 700\;"><em>You 
- don&rsquo\;t find your fears. Your fears find you.</em></strong></p></body
- ></html>\n\n---\n🌐 View original event: https://businesshub.southbaldwi
- nchamber.com/calendar/Details/primal-fear-2026-1878024
-LOCATION:Downtown OWA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAYP Presents Annual Barks\, Bags\, & Bushwackers Tournament!
-DTSTART;TZID=America/Chicago:20260926T000000
-DTEND;TZID=America/Chicago:20260926T000000
-DTSTAMP:20260930T142252Z
-UID:gz-layp-presents-annual-barks-bags-bushwackers-tournament-1923254@sout
- hbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p><img src="https://res.cloudinary.com/
- micronetonline/image/upload/q_auto\,f_auto\,c_limit\,w_2000\,h_1365/v17900
- 12828/tenants/e82e53eb-961d-4b13-bafd-8e5487751e05/bcd5d6fd8acc4ca08d6bacb
- 78b79c65e/LAYP-BarksBags-2026-Event.jpg" style="width: 100%\; position: re
- lative\; max-width: 100%\; cursor: pointer\; padding: 0px 1px\;" width="10
- 0%" height="538" fr-original-style="width: 100%\;" fr-original-class="fr-d
- raggable" /><br /></p><h4 style="mso-margin-top-alt:auto\;mso-margin-botto
- m-alt:auto\;  line-height:normal\;"><strong fr-original-style="" style="fo
- nt-weight: 700\;">3<sup>rd</sup> Annual Barks\, Bags &amp\; Bushwackers To
- urnament!&nbsp\;</strong></h4><p>Get ready to throw down! It&rsquo\;s time
-  for our annual Barks\, Bags\, and... BUSHWACKERS at the Flora-Bama Yacht 
- Club! Whether you&#39\;re aiming for tournament glory or just tossing for 
- fun\, come enjoy the classic Flora-Bama vibes and support a great local ca
- use.</p><ul fr-original-style="" style="list-style-position: inside\;"><li
- ><strong fr-original-style="" style="font-weight: 700\;">Every attendee re
- ceives a complimentary Bushwacker drink ticket!&nbsp\;</strong></li><li><s
- trong fr-original-style="" style="font-weight: 700\;">Prizes on the line f
- or tournament players</strong></li><li><strong fr-original-style="" style=
- "font-weight: 700\;">Supporting Zeke&#39\;s Rescued Paws&nbsp\;</strong>&m
- dash\; A portion of all proceeds will directly benefit this Baldwin County
-  501(c)(3) nonprofit\, helping them rescue\, treat\, and foster local dogs
-  until they find their forever homes.</li></ul><h4 style="mso-margin-top-a
- lt:auto\;mso-margin-bottom-alt:auto\;  line-height:normal\;"><strong fr-or
- iginal-style="" style="font-weight: 700\;">Rules &amp\; Important Info:</s
- trong></h4><p><em>Age: Open to everyone 21+</em></p><p><em>Equipment: We&r
- squo\;ve got you covered! Please leave custom bags and boards at home duri
- ng play.</em></p><p><em>Pet Policy: Please note that dogs are NOT allowed 
- on Flora-Bama property.</em></p><p><br /></p><h4><a fr-original-style="" h
- ref="https://www.mygulfcoastchamber.com/event-detail/lEUHoIvGGU7Zvfz2oOrrH
- A2/7th-annual-barks-bags-bushwackers-cornhole-tournament-social" rel="noop
- ener noreferrer" style="user-select: auto\;" target="_blank">Register Here
- !</a>&nbsp\;</h4><p><br /></p><hr fr-original-style="" style="clear: both
- \; user-select: none\; break-after: page\;" /><p><br /></p></body></html>
- \n\n---\n🌐 View original event: https://businesshub.southbaldwinchamber
- .com/calendar/Details/layp-presents-annual-barks-bags-bushwackers-tourname
- nt-1923254
-LOCATION:Flora-Bama Yacht Club 17350 Perdido Key Dr.\, Perdido Key\, FL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primal Fear 2026
-DTSTART;TZID=America/Chicago:20260926T000000
-DTEND;TZID=America/Chicago:20260927T000000
-DTSTAMP:20260930T142252Z
-UID:gz-primal-fear-2026-1921323@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p>This Halloween season\, step into <st
- rong fr-original-style="" style="font-weight: 700\;">Primal Fear</strong>
- \, OWA&#39\;s most terrifying immersive attraction\, where your deepest fe
- ars become your reality.&nbsp\;</p><p>Open select nights: September 25&nda
- sh\;26 and October 2&ndash\;3\, 9&ndash\;10\, 16&ndash\;17\, and 22&ndash
- \;31\, 2026.&nbsp\;</p><p>Primal Fear takes guests on a psychological jour
- ney through a maze designed to awaken humanity&#39\;s most instinctive fea
- rs. From claustrophobic passageways and unsettling distortions to the chil
- ling sensation of being watched or hunted\, every room is crafted to keep 
- you questioning what waits around the next corner.&nbsp\;</p><p>As the dar
- kness closes in\, you&#39\;ll quickly discover that the greatest terror is
- n&#39\;t what you can see&mdash\;it&#39\;s what your mind creates. Every s
- ound\, shadow\, and unexpected encounter is designed to blur the line betw
- een imagination and reality\, delivering an experience that lingers long a
- fter you&#39\;ve escaped.&nbsp\;</p><p>Looking for an even greater challen
- ge? Upgrade your experience with exclusive add-ons\, including the Black-O
- ut Hour\, where the lights go out\, scare actors move to new locations\, a
- nd your only guide through the darkness is a small flashlight. Complete yo
- ur night with limited-time themed food and beverages\, exclusive Primal Fe
- ar merchandise\, and unforgettable memories&mdash\;if you make it out.&nbs
- p\;</p><p><strong fr-original-style="" style="font-weight: 700\;"><em>You 
- don&rsquo\;t find your fears. Your fears find you.</em></strong></p></body
- ></html>\n\n---\n🌐 View original event: https://businesshub.southbaldwi
- nchamber.com/calendar/Details/primal-fear-2026-1921323
-LOCATION:Downtown OWA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stories on the Wall: A Community Conversation with Muralist Banks 
- Compton
-DTSTART;TZID=America/Chicago:20260929T000000
-DTEND;TZID=America/Chicago:20260930T000000
-DTSTAMP:20260930T142252Z
-UID:gz-stories-on-the-wall-a-community-conversation-with-muralist-banks-co
- mpton-1926469@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false" spellcheck="false"><p>Foley Community Library is proud to h
- ost Alabama muralist <strong fr-original-style="" style="font-weight: 700
- \;">Banks Compton</strong> for an evening of rich conversation about three
-  projects he has recently completed in partnership with the Mobile Juvenil
- e Courthouse\, the Baldwin County Solid Waste Disposal Authority (SWDA)\, 
- and\, of course\, the library itself!&nbsp\;</p><p>Gulf Coast Media will m
- oderate a discussion and Q&amp\;A panel with Banks and other special guest
- s. The program will also feature an exclusive showcase of his collaborativ
- e murals with the Strickland Youth Center\, as well as an outdoor exhibit 
- of the interactive SWDA Mobile Adventure Trailer that Banks helped to crea
- te.&nbsp\;</p><p>This evening is all about celebrating the powerful connec
- tion between art and community! We hope to see you there!&nbsp\;</p><p><st
- rong fr-original-style="" style="font-weight: 700\;">Register for the even
- t here:&nbsp\;</strong><a fr-original-style="" href="https://foleylibrary.
- librarycalendar.com/event/banks-compton-presentation-23070#" style="user-s
- elect: auto\;"><em>https://foleylibrary.librarycalendar.com/event/banks-co
- mpton-presentation-23070#&nbsp\;</em></a></p><p>For more information about
-  Banks Compton and his work\, visit his website at <a fr-original-style=""
-  href="https://www.bankscompton.com" style="user-select: auto\;"><u><em>ht
- tps://www.bankscompton.com.</em></u></a></p><p><br /></p><p><u><em><img sr
- c="https://res.cloudinary.com/micronetonline/image/upload/q_auto\,f_auto\,
- c_limit\,w_1544\,h_1999/v1790026235/tenants/e82e53eb-961d-4b13-bafd-8e5487
- 751e05/7a7f4c2583e14134969dab4248004ac9/Stories-on-the-Wall-Event-29sep26.
- jpg" style="width: 100%\; position: relative\; max-width: 100%\; cursor: p
- ointer\; padding: 0px 1px\;" width="100%" height="1045" fr-original-style=
- "width: 100%\;" fr-original-class="fr-draggable" /></em></u></p><hr fr-ori
- ginal-style="" style="clear: both\; user-select: none\; break-after: page
- \;" /><p><u><em><br /></em></u></p><p><br /></p><p><br /></p></body></html
- >\n\n---\n🌐 View original event: https://businesshub.southbaldwinchambe
- r.com/calendar/Details/stories-on-the-wall-a-community-conversation-with-m
- uralist-banks-compton-1926469
-LOCATION:Foley Community Library 230 East Orange Avenue\, Foley\, AL
 END:VEVENT
 END:VCALENDAR
