@@ -3,39 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - Ribbon Cuttings
 BEGIN:VEVENT
-SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
- gement
-DTSTART;TZID=America/Chicago:20261001T000000
-DTEND;TZID=America/Chicago:20261001T000000
-DTSTAMP:20261001T145431Z
-UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
- 1751250@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
- e/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1780068460/tenants/e82e5
- 3eb-961d-4b13-bafd-8e5487751e05/991a1c5af70b4143b93abe89dcde9eef/RC-King-K
- ing-Kuttin-Wealth.png" width="791" height="445" fr-original-style="" fr-or
- iginal-class="fr-draggable" style="position: relative\; max-width: 100%\; 
- cursor: pointer\; padding: 0px 1px\;" /><br /></p><h3>Join the celebration
- !</h3><p>Everyone is invited to join us for a ribbon-cutting ceremony as w
- e celebrate a member of the South Baldwin Chamber of Commerce. It&#39\;s a
- n excellent opportunity for you to learn more about the business and netwo
- rk with fellow chamber members. We hope to see you there!</p><h4><a fr-ori
- ginal-style="" href="https://businesshub.southbaldwinchamber.com/list/Deta
- ils/king-king-attorneys-at-law-4579426" style="user-select: auto\;">King &
- amp\; King</a> | Kuttin Wealth Management</h4><hr fr-original-style="" sty
- le="clear: both\; user-select: none\; break-after: page\;" /><p><br /></p>
- </body></html>\n\n---\n🌐 View original event: https://businesshub.south
- baldwinchamber.com/calendar/Details/ribbon-cutting-king-king-attorneys-at-
- law-kuttin-wealth-management-1751250
-LOCATION:King & King\, Attorneys At Law 191 Northshore Circle Suite 100-B
- \, Gulf Shores\, AL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Eden's Organic Skincare & Wellness
 DTSTART;TZID=America/Chicago:20261006T000000
 DTEND;TZID=America/Chicago:20261006T000000
-DTSTAMP:20261001T145431Z
+DTSTAMP:20261002T141633Z
 UID:gz-ribbon-cutting-eden-s-organic-skincare-wellness-1901423@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -77,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Daystar Church
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20261001T145431Z
+DTSTAMP:20261002T141633Z
 UID:gz-ribbon-cutting-daystar-church-1902894@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -116,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fletch & Lo
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261105T000000
-DTSTAMP:20261001T145431Z
+DTSTAMP:20261002T141633Z
 UID:gz-ribbon-cutting-fletch-lo-1897977@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -155,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Community State Bank Gulf Shores
 DTSTART;TZID=America/Chicago:20261110T000000
 DTEND;TZID=America/Chicago:20261110T000000
-DTSTAMP:20261001T145431Z
+DTSTAMP:20261002T141633Z
 UID:gz-ribbon-cutting-community-state-bank-gulf-shores-1933838@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -180,5 +151,34 @@ DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  e-bank-gulf-shores-1933838
 LOCATION:Community State Bank - Gulf Shores 3459 Gulf Shores Parkway\, Gul
  f Shores\, AL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
+ gement
+DTSTART;TZID=America/Chicago:20261001T000000
+DTEND;TZID=America/Chicago:20261001T000000
+DTSTAMP:20261002T141633Z
+UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
+ 1751250@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
+ sabled="false"><p><img src="https://res.cloudinary.com/micronetonline/imag
+ e/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1780068460/tenants/e82e5
+ 3eb-961d-4b13-bafd-8e5487751e05/991a1c5af70b4143b93abe89dcde9eef/RC-King-K
+ ing-Kuttin-Wealth.png" width="791" height="445" fr-original-style="" fr-or
+ iginal-class="fr-draggable" style="position: relative\; max-width: 100%\; 
+ cursor: pointer\; padding: 0px 1px\;" /><br /></p><h3>Join the celebration
+ !</h3><p>Everyone is invited to join us for a ribbon-cutting ceremony as w
+ e celebrate a member of the South Baldwin Chamber of Commerce. It&#39\;s a
+ n excellent opportunity for you to learn more about the business and netwo
+ rk with fellow chamber members. We hope to see you there!</p><h4><a fr-ori
+ ginal-style="" href="https://businesshub.southbaldwinchamber.com/list/Deta
+ ils/king-king-attorneys-at-law-4579426" style="user-select: auto\;">King &
+ amp\; King</a> | Kuttin Wealth Management</h4><hr fr-original-style="" sty
+ le="clear: both\; user-select: none\; break-after: page\;" /><p><br /></p>
+ </body></html>\n\n---\n🌐 View original event: https://businesshub.south
+ baldwinchamber.com/calendar/Details/ribbon-cutting-king-king-attorneys-at-
+ law-kuttin-wealth-management-1751250
+LOCATION:King & King\, Attorneys At Law 191 Northshore Circle Suite 100-B
+ \, Gulf Shores\, AL
 END:VEVENT
 END:VCALENDAR
