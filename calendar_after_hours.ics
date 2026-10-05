@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Fairfield Inn & Suites Foley
 DTSTART;TZID=America/Chicago:20261022T000000
 DTEND;TZID=America/Chicago:20261023T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-2026-business-after-hours-at-fairfield-inn-suites-foley-1663897@sou
  thbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at Alabama Credit Union
 DTSTART;TZID=America/Chicago:20261119T000000
 DTEND;TZID=America/Chicago:20261120T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-2026-business-after-hours-at-alabama-credit-union-1663903@southbald
  winchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Business After Hours at OWA Parks & Resort
 DTSTART;TZID=America/Chicago:20261210T000000
 DTEND;TZID=America/Chicago:20261211T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-2026-business-after-hours-at-owa-parks-resort-1663912@southbaldwinc
  hamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di

@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Eden's Organic Skincare & Wellness
 DTSTART;TZID=America/Chicago:20261006T000000
 DTEND;TZID=America/Chicago:20261006T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-eden-s-organic-skincare-wellness-1901423@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - H&S Appliance Outlet
 DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-h-s-appliance-outlet-1945927@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Beach Boy Plumbing
 DTSTART;TZID=America/Chicago:20261013T000000
 DTEND;TZID=America/Chicago:20261013T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-beach-boy-plumbing-1945988@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Daystar Church
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-daystar-church-1902894@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Live Oak Insurance Agency
 DTSTART;TZID=America/Chicago:20261104T000000
 DTEND;TZID=America/Chicago:20261104T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-live-oak-insurance-agency-1946000@southbaldwinchambe
  r.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fletch & Lo
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261105T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-fletch-lo-1897977@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Luxe Lagree
 DTSTART;TZID=America/Chicago:20261106T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-luxe-lagree-1946023@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Community State Bank Gulf Shores
 DTSTART;TZID=America/Chicago:20261110T000000
 DTEND;TZID=America/Chicago:20261110T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-community-state-bank-gulf-shores-1933838@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -314,11 +314,52 @@ LOCATION:Community State Bank - Gulf Shores 3459 Gulf Shores Parkway\, Gul
  f Shores\, AL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - Fillip Dupree\, Author
+DTSTART;TZID=America/Chicago:20261124T000000
+DTEND;TZID=America/Chicago:20261124T000000
+DTSTAMP:20261005T163228Z
+UID:gz-ribbon-cutting-fillip-dupree-author-1946814@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
+ sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
+ ge/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1791210953/tenants/e82e
+ 53eb-961d-4b13-bafd-8e5487751e05/1e2606e89b244eb5881d1f9ba05d5b5c/RC-Filli
+ p-Dupree.png" width="791" height="445" fr-original-style="" fr-original-cl
+ ass="fr-draggable" style="position: relative\; max-width: 100%\; cursor: p
+ ointer\; padding: 0px 1px\;" />Join the celebration!</h3><p>Join us as we 
+ celebrate a ribbon cutting for the release of Fillip Dupree&#39\;s new nov
+ el on November 24th at 4pm!<br style="color: rgb(31\, 31\, 31)\; font-fami
+ ly: &quot\;Google Sans&quot\;\, Roboto\, Arial\, sans-serif\; font-size: 1
+ 4px\; font-style: normal\; font-variant-ligatures: no-contextual\; font-va
+ riant-caps: normal\; font-weight: 400\; letter-spacing: normal\; orphans: 
+ 2\; text-align: start\; text-indent: 0px\; text-transform: none\; widows: 
+ 2\; word-spacing: 0px\; -webkit-text-stroke-width: 0px\; white-space: pre-
+ wrap\; background-color: rgb(240\, 244\, 249)\; text-decoration-thickness:
+  initial\; text-decoration-style: initial\; text-decoration-color: initial
+ \;" /><br style="color: rgb(31\, 31\, 31)\; font-family: &quot\;Google San
+ s&quot\;\, Roboto\, Arial\, sans-serif\; font-size: 14px\; font-style: nor
+ mal\; font-variant-ligatures: no-contextual\; font-variant-caps: normal\; 
+ font-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start
+ \; text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px
+ \; -webkit-text-stroke-width: 0px\; white-space: pre-wrap\; background-col
+ or: rgb(240\, 244\, 249)\; text-decoration-thickness: initial\; text-decor
+ ation-style: initial\; text-decoration-color: initial\;" />Ribbon cuttings
+  are a great way to learn more about the business and network within our c
+ ommunity! We hope to see you there!</p><h4><a fr-original-style="" href="h
+ ttps://businesshub.southbaldwinchamber.com/list/Details/fillip-dupree-auth
+ or-4980244" style="user-select: auto\;">Member Directory</a></h4><hr fr-or
+ iginal-style="" style="clear: both\; user-select: none\; break-after: page
+ \;" /><p><br /></p></body></html>\n\n---\n🌐 View original event: https:
+ //businesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-fill
+ ip-dupree-author-1946814
+LOCATION:Books A Million 2524 S McKenzie St\, Foley\, AL 36535\, Foley\, A
+ L
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T000000
-DTSTAMP:20261004T133240Z
+DTSTAMP:20261005T163228Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
