@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - H&S Appliance Outlet
 DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-h-s-appliance-outlet-1945927@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Beach Boy Plumbing
 DTSTART;TZID=America/Chicago:20261013T000000
 DTEND;TZID=America/Chicago:20261013T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-beach-boy-plumbing-1945988@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Daystar Church
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-daystar-church-1902894@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Live Oak Insurance Agency
 DTSTART;TZID=America/Chicago:20261104T000000
 DTEND;TZID=America/Chicago:20261104T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-live-oak-insurance-agency-1946000@southbaldwinchambe
  r.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fletch & Lo
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261105T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-fletch-lo-1897977@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Luxe Lagree
 DTSTART;TZID=America/Chicago:20261106T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-luxe-lagree-1946023@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Community State Bank Gulf Shores
 DTSTART;TZID=America/Chicago:20261110T000000
 DTEND;TZID=America/Chicago:20261110T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-community-state-bank-gulf-shores-1933838@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -272,10 +272,37 @@ LOCATION:Community State Bank - Gulf Shores 3459 Gulf Shores Parkway\, Gul
  f Shores\, AL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - Salt Air Collective
+DTSTART;TZID=America/Chicago:20261123T000000
+DTEND;TZID=America/Chicago:20261123T000000
+DTSTAMP:20261008T150156Z
+UID:gz-ribbon-cutting-salt-air-collective-1951951@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
+ sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
+ ge/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1791410644/tenants/e82e
+ 53eb-961d-4b13-bafd-8e5487751e05/700590ba56424721a27d99aa464d23f5/RC-Salt-
+ Air-Collective.png" width="791" height="445" fr-original-style="" fr-origi
+ nal-class="fr-draggable" style="position: relative\; max-width: 100%\; cur
+ sor: pointer\; padding: 0px 1px\;" />Join the celebration!</h3><p>Join us 
+ as we celebrate the official grand opening of<strong fr-original-style="" 
+ style="font-weight: 700\;">&nbsp\;Salt Air Collective</strong> on November
+  23rd at 4pm!</p><p>Discover their full line of beauty and wellness servic
+ es\, tour their incredible new space\, and meet the team behind this amazi
+ ng local business! Join us for a fun afternoon of community celebration! W
+ e hope to see you there! </p><h4><a fr-original-style="" href="https://bus
+ inesshub.southbaldwinchamber.com/list/Details/salt-air-collective-5038913"
+  style="user-select: auto\;">Member Directory</a></h4><hr fr-original-styl
+ e="" style="clear: both\; user-select: none\; break-after: page\;" /><p><b
+ r /></p></body></html>\n\n---\n🌐 View original event: https://businessh
+ ub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-salt-air-collec
+ tive-1951951
+LOCATION:Salt Air Collective 402 East Laurel Avenue\, Foley\, AL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fillip Dupree\, Author
 DTSTART;TZID=America/Chicago:20261124T000000
 DTEND;TZID=America/Chicago:20261124T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-fillip-dupree-author-1946814@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -316,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Blue Bird Resale by Foster Kids Matter
 DTSTART;TZID=America/Chicago:20261208T000000
 DTEND;TZID=America/Chicago:20261208T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-blue-bird-resale-by-foster-kids-matter-1949135@south
  baldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -352,13 +379,13 @@ DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  <p><br /></p></body></html>\n\n---\n🌐 View original event: https://busi
  nesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-blue-bird-
  resale-by-foster-kids-matter-1949135
-LOCATION:Blue Bird Resale Foley\, AL
+LOCATION:Blue Bird Resale 14906 US-98\, Foley\, AL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - TruePoint Renovations & Homebuilding
 DTSTART;TZID=America/Chicago:20261215T000000
 DTEND;TZID=America/Chicago:20261215T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-truepoint-renovations-homebuilding-1947933@southbald
  winchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -401,7 +428,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -429,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Eden's Organic Skincare & Wellness
 DTSTART;TZID=America/Chicago:20261006T000000
 DTEND;TZID=America/Chicago:20261006T000000
-DTSTAMP:20261007T145124Z
+DTSTAMP:20261008T150156Z
 UID:gz-ribbon-cutting-eden-s-organic-skincare-wellness-1901423@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
