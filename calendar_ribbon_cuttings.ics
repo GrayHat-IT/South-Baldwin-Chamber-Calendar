@@ -3,50 +3,10 @@ VERSION:2.0
 PRODID:-//South Baldwin Chamber Scraper//EN
 X-WR-CALNAME:SBC - Ribbon Cuttings
 BEGIN:VEVENT
-SUMMARY:✂️ Ribbon Cutting - Beach Boy Plumbing
-DTSTART;TZID=America/Chicago:20261013T000000
-DTEND;TZID=America/Chicago:20261013T000000
-DTSTAMP:20261013T152241Z
-UID:gz-ribbon-cutting-beach-boy-plumbing-1945988@southbaldwinchamber.com
-DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
- sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
- ge/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1790971544/tenants/e82e
- 53eb-961d-4b13-bafd-8e5487751e05/9b1558dd44a740a2be1533da23020b18/RC-Beach
- -Boy-Plumbing.png" width="791" height="445" fr-original-style="" fr-origin
- al-class="fr-draggable" style="position: relative\; max-width: 100%\; curs
- or: pointer\; padding: 0px 1px\;" />Join the celebration!</h3><p>Join us a
- s we celebrate the official grand opening of <strong fr-original-style="" 
- style="font-weight: 700\;">Beach Boy Plumbing</strong> on October 13th at 
- 11am!<br style="color: rgb(31\, 31\, 31)\; font-family: &quot\;Google Sans
- &quot\;\, Roboto\, Arial\, sans-serif\; font-size: 14px\; font-style: norm
- al\; font-variant-ligatures: no-contextual\; font-variant-caps: normal\; f
- ont-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start
- \; text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px
- \; -webkit-text-stroke-width: 0px\; white-space: pre-wrap\; background-col
- or: rgb(240\, 244\, 249)\; text-decoration-thickness: initial\; text-decor
- ation-style: initial\; text-decoration-color: initial\;" /><br style="colo
- r: rgb(31\, 31\, 31)\; font-family: &quot\;Google Sans&quot\;\, Roboto\, A
- rial\, sans-serif\; font-size: 14px\; font-style: normal\; font-variant-li
- gatures: no-contextual\; font-variant-caps: normal\; font-weight: 400\; le
- tter-spacing: normal\; orphans: 2\; text-align: start\; text-indent: 0px\;
-  text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-strok
- e-width: 0px\; white-space: pre-wrap\; background-color: rgb(240\, 244\, 2
- 49)\; text-decoration-thickness: initial\; text-decoration-style: initial
- \; text-decoration-color: initial\;" />Ribbon cuttings are a great way to 
- learn more about the business and network within our community! We hope to
-  see you there!</p><h4><a fr-original-style="" href="https://businesshub.s
- outhbaldwinchamber.com/list/Details/beach-boy-plumbing-5030248" style="use
- r-select: auto\;">Member Directory</a></h4><hr fr-original-style="" style=
- "clear: both\; user-select: none\; break-after: page\;" /><p><br /></p></b
- ody></html>\n\n---\n🌐 View original event: https://businesshub.southbal
- dwinchamber.com/calendar/Details/ribbon-cutting-beach-boy-plumbing-1945988
-LOCATION:South Baldwin Chamber of Commerce 200 N. Alston St.\, Foley\, AL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Daystar Church
 DTSTART;TZID=America/Chicago:20261020T000000
 DTEND;TZID=America/Chicago:20261020T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-daystar-church-1902894@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -85,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Live Oak Insurance Agency
 DTSTART;TZID=America/Chicago:20261104T000000
 DTEND;TZID=America/Chicago:20261104T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-live-oak-insurance-agency-1946000@southbaldwinchambe
  r.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -127,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fletch & Lo
 DTSTART;TZID=America/Chicago:20261105T000000
 DTEND;TZID=America/Chicago:20261105T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-fletch-lo-1897977@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -166,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Luxe Lagree
 DTSTART;TZID=America/Chicago:20261106T000000
 DTEND;TZID=America/Chicago:20261106T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-luxe-lagree-1946023@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -205,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Community State Bank Gulf Shores
 DTSTART;TZID=America/Chicago:20261110T000000
 DTEND;TZID=America/Chicago:20261110T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-community-state-bank-gulf-shores-1933838@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -235,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Salt Air Collective
 DTSTART;TZID=America/Chicago:20261123T000000
 DTEND;TZID=America/Chicago:20261123T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-salt-air-collective-1951951@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -262,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Fillip Dupree\, Author
 DTSTART;TZID=America/Chicago:20261124T000000
 DTEND;TZID=America/Chicago:20261124T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-fillip-dupree-author-1946814@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -303,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Blue Bird Resale by Foster Kids Matter
 DTSTART;TZID=America/Chicago:20261208T000000
 DTEND;TZID=America/Chicago:20261208T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-blue-bird-resale-by-foster-kids-matter-1949135@south
  baldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -345,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - TruePoint Renovations & Homebuilding
 DTSTART;TZID=America/Chicago:20261215T000000
 DTEND;TZID=America/Chicago:20261215T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-truepoint-renovations-homebuilding-1947933@southbald
  winchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -388,7 +348,7 @@ SUMMARY:Ribbon Cutting - King & King Attorneys at Law & Kuttin Wealth Mana
  gement
 DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-king-king-attorneys-at-law-kuttin-wealth-management-
  1751250@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -416,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - Eden's Organic Skincare & Wellness
 DTSTART;TZID=America/Chicago:20261006T000000
 DTEND;TZID=America/Chicago:20261006T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-eden-s-organic-skincare-wellness-1901423@southbaldwi
  nchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
@@ -458,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:✂️ Ribbon Cutting - H&S Appliance Outlet
 DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T000000
-DTSTAMP:20261013T152241Z
+DTSTAMP:20261014T130934Z
 UID:gz-ribbon-cutting-h-s-appliance-outlet-1945927@southbaldwinchamber.com
 DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
@@ -493,5 +453,45 @@ DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
  inesshub.southbaldwinchamber.com/calendar/Details/ribbon-cutting-h-s-appli
  ance-outlet-1945927
 LOCATION:H & S Appliance Outlet 801 South McKenzie Street\, Foley\, AL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✂️ Ribbon Cutting - Beach Boy Plumbing
+DTSTART;TZID=America/Chicago:20261013T000000
+DTEND;TZID=America/Chicago:20261013T000000
+DTSTAMP:20261014T130934Z
+UID:gz-ribbon-cutting-beach-boy-plumbing-1945988@southbaldwinchamber.com
+DESCRIPTION:<!DOCTYPE html><html><head><title></title></head><body aria-di
+ sabled="false"><h3><img src="https://res.cloudinary.com/micronetonline/ima
+ ge/upload/q_auto\,f_auto\,c_limit\,w_1920\,h_1080/v1790971544/tenants/e82e
+ 53eb-961d-4b13-bafd-8e5487751e05/9b1558dd44a740a2be1533da23020b18/RC-Beach
+ -Boy-Plumbing.png" width="791" height="445" fr-original-style="" fr-origin
+ al-class="fr-draggable" style="position: relative\; max-width: 100%\; curs
+ or: pointer\; padding: 0px 1px\;" />Join the celebration!</h3><p>Join us a
+ s we celebrate the official grand opening of <strong fr-original-style="" 
+ style="font-weight: 700\;">Beach Boy Plumbing</strong> on October 13th at 
+ 11am!<br style="color: rgb(31\, 31\, 31)\; font-family: &quot\;Google Sans
+ &quot\;\, Roboto\, Arial\, sans-serif\; font-size: 14px\; font-style: norm
+ al\; font-variant-ligatures: no-contextual\; font-variant-caps: normal\; f
+ ont-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start
+ \; text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px
+ \; -webkit-text-stroke-width: 0px\; white-space: pre-wrap\; background-col
+ or: rgb(240\, 244\, 249)\; text-decoration-thickness: initial\; text-decor
+ ation-style: initial\; text-decoration-color: initial\;" /><br style="colo
+ r: rgb(31\, 31\, 31)\; font-family: &quot\;Google Sans&quot\;\, Roboto\, A
+ rial\, sans-serif\; font-size: 14px\; font-style: normal\; font-variant-li
+ gatures: no-contextual\; font-variant-caps: normal\; font-weight: 400\; le
+ tter-spacing: normal\; orphans: 2\; text-align: start\; text-indent: 0px\;
+  text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-strok
+ e-width: 0px\; white-space: pre-wrap\; background-color: rgb(240\, 244\, 2
+ 49)\; text-decoration-thickness: initial\; text-decoration-style: initial
+ \; text-decoration-color: initial\;" />Ribbon cuttings are a great way to 
+ learn more about the business and network within our community! We hope to
+  see you there!</p><h4><a fr-original-style="" href="https://businesshub.s
+ outhbaldwinchamber.com/list/Details/beach-boy-plumbing-5030248" style="use
+ r-select: auto\;">Member Directory</a></h4><hr fr-original-style="" style=
+ "clear: both\; user-select: none\; break-after: page\;" /><p><br /></p></b
+ ody></html>\n\n---\n🌐 View original event: https://businesshub.southbal
+ dwinchamber.com/calendar/Details/ribbon-cutting-beach-boy-plumbing-1945988
+LOCATION:South Baldwin Chamber of Commerce 200 N. Alston St.\, Foley\, AL
 END:VEVENT
 END:VCALENDAR
